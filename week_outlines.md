@@ -11,20 +11,21 @@ By the end of the week all developers can:
 
 ### Challenges
 
-* [Afternoons - Boris bikes](https://github.com/makersacademy/course/tree/master/boris_bikes)
+* [Afternoons - Boris bikes](https://diode.makersacademy.com/students/dearshrewdwit/projects/1418)
 * [Weekend - Airport](https://diode.makersacademy.com/students/neoeno/projects/33)
 
 ### Practicals
 
 These can be used by the devs independently, or enhanced by a coach delivering and offering structured process, group discussion, feedback, etc.
 
-* [Test Driving](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md)
-* [Debugging approaches](https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md)
-* [Git collaboration](https://github.com/makersacademy/skills-workshops/blob/master/practicals/git_collaboration.md)
-* [Encapsulation](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md)
+* [Test Driving](https://diode.makersacademy.com/students/dearshrewdwit/projects/908)
+* [Debugging Approaches](https://diode.makersacademy.com/students/dearshrewdwit/projects/832)
+* [Git collaboration](https://diode.makersacademy.com/students/dearshrewdwit/projects/2702)
+* [Encapsulation](https://diode.makersacademy.com/students/dearshrewdwit/projects/2703)
 
 ### Resources
 
+* [The 4 phases of a test](https://robots.thoughtbot.com/four-phase-test)
 * [The three laws of TDD](http://programmer.97things.oreilly.com/wiki/index.php/The_Three_Laws_of_Test-Driven_Development)
 * [Encapsulation on Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29)
 
