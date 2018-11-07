@@ -88,11 +88,16 @@ For example:
 
 Can you make your algorithms more efficient?
 
-Here are a two classic techniques to make algorithms more efficient:
+Making algorithms more efficient is all about making them execute less steps.
 
-* Notice parts of your algorithm that repeat the same operations on the same elements. Is there a way you can only do these operation once?
+Here are two leads to start reducing the number of steps:
 
-* Use hashtables. The structure of hashtables means that common operations like inserting and retrieving are much more efficient than for arrays.
+* Know your data structures. Common operations might be more expensive than you think. By checking how different structures (arrays, hashtables…)  work in memory, you’ll be able to save on simple operations.
+
+[Here’s a table that shows the cost of operations on different data structures](https://en.wikipedia.org/wiki/Dynamic_array#Performance)
+
+
+* Notice parts of your algorithm that repeat the same operations on the same elements. Is there a way you can only do these operations once?
 
 
 Using these techniques, try to make your algorithms more efficient. Is it possible?
