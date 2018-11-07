@@ -92,12 +92,21 @@ Making algorithms more efficient is all about making them execute less steps.
 
 Here are two leads to start reducing the number of steps:
 
-* Know your data structures. Common operations might be more expensive than you think. By checking how different structures (arrays, hashtables…)  work in memory, you’ll be able to save on simple operations.
+#### 1. Know your data structures.
 
-[Here’s a table that shows the cost of operations on different data structures](https://en.wikipedia.org/wiki/Dynamic_array#Performance)
+Common operations might be more expensive than you think. By checking how different structures (arrays, hashtables…)  work in memory, you’ll be able to save on simple operations.
 
+**Resources**:
+* [Here’s a table that shows the cost of operations on different data structures](https://en.wikipedia.org/wiki/Dynamic_array#Performance)
+* [More on hashtables](https://www.interviewcake.com/concept/java/hash-map)
+* [Arrays](https://www.interviewcake.com/concept/python/array?) and [Dynamic Arrays](https://www.interviewcake.com/concept/python/dynamic-array)
+* [Introduction to ruby hashes (an example of hash tables)](https://launchschool.com/blog/how-the-hash-works-in-ruby
+)
 
-* Notice parts of your algorithm that repeat the same operations on the same elements. Is there a way you can only do these operations once?
+#### 2. Change the structure of your algorithm
+
+Notice parts of your algorithm that repeat the same operations on the same elements. Is there a way you can only do these operations once?
+
 
 
 Using these techniques, try to make your algorithms more efficient. Is it possible?
@@ -111,11 +120,6 @@ Some other times, you do not know things about about the specific input, but you
 
 Lastly, optimising storage means using a data-structure that will be most efficient for the most frequent usage you'll make of it. A real life example would be to place the kitchen utensils you use most in the top drawer and the ones you only use a few times a year hidden on the top shelve.
 In software, your usage of memory can be optimised in the same way if you know which elements you'll need to access most often.
-
-#### Resources
-* [A video introducing algorithmic efficiency](https://www.youtube.com/watch?v=u2iHB2vv3iE)
-* [Introduction to ruby hashes (an example of hash tables)](https://launchschool.com/blog/how-the-hash-works-in-ruby
-)
 
 ### Big O Notations
 
@@ -142,5 +146,12 @@ In this project, we talked about time complexity, but what about space complexit
 Some programmes could be very time efficient, but allocate tons of memory.
 
 How could you track how much memory your algorithms take?
+
+#### Additional resources
+
+* [A video introducing algorithmic efficiency](https://www.youtube.com/watch?v=u2iHB2vv3iE)
+* [A guide to big O notation and complexity](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?)
+
+
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/algorithmic_complexity/README.md)
