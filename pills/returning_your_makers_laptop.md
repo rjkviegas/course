@@ -34,10 +34,6 @@ Choose "Erase" and Apply.
 
 Now choose the "121.33. GB Apple.. " Drive.
 
-Click on "Partition" and then  "Minus (- ) "
-
-Add new partition by clickling on the  ( + ) and click "Apply"
-
 Close window.
 
 Click "Continue and Installed" .
