@@ -32,8 +32,6 @@ When the box appears choose the  Sub "Untitle 1" drive.
 
 Choose "Erase" and Apply.
 
-Now choose the "121.33. GB Apple.. " Drive.
-
 Close window.
 
 Click "Continue and Installed" .
