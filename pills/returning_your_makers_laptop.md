@@ -32,12 +32,6 @@ When the box appears choose the  Sub "Untitle 1" drive.
 
 Choose "Erase" and Apply.
 
-Now choose the "121.33. GB Apple.. " Drive.
-
-Click on "Partition" and then  "Minus (- ) "
-
-Add new partition by clickling on the  ( + ) and click "Apply"
-
 Close window.
 
 Click "Continue and Installed" .
@@ -45,3 +39,6 @@ Click "Continue and Installed" .
 Let it install. It takes about 20 minutes.
 
 Restart it. Once it’s done, it should be back to factory settings.
+
+
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/returning_your_makers_laptop.md)

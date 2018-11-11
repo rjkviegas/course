@@ -135,14 +135,14 @@ By the end of the week, all developers can:
 
 As you work towards the above goals, please reflect on your strategy for learning a new language.
 
-## Challenges
+### Challenges
 
 * [Afternoons - Notes app](https://github.com/makersacademy/course/blob/master/further_javascript)
 * Friday, either of:
   * [News summary](https://github.com/makersacademy/news-summary-challenge)
   * [Chitter API Frontend Challenge](https://github.com/makersacademy/frontend-api-challenge)
 
-## Practicals
+### Practicals
 
 * [Closures](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q)
 * [Asynch JS](https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async)
@@ -154,6 +154,26 @@ As you work towards the above goals, please reflect on your strategy for learnin
 By the end of the week, all developers can:
 
 * *Use high-quality processes* to build a project in a team?
-	* Note that the goal IS NOT TO COMPLETE ACEBOOK
+	* Note that the goal *is not to complete, or reach a certain point on, Acebook*
 
 For more information about this project and what constitutes 'high-quality processes' look [here](./engineering_projects/README.md).
+
+## Week 10
+
+By the end of the week, all developers can:
+ 	* Mention efficiency as one axis to talk about algorithms
+ 	* Have conversations about algorithmic complexity
+	* Characterise the complexity of classic algorithms
+
+### Challenge
+
+This week's challenge is a research project. You can work on it individually or in teams of 2 or 3.
+[Here's the outline](./algorithmic_complexity/README.md).
+
+### Resources
+
+* [A podcast about algorithmic complexity, with some great notes](https://www.codingblocks.net/podcast/what-is-algorithmic-complexity/)
+* [Video illustration of different sorting algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
+* [Time Complexity on Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
+
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/apprenticeship_week_outlines.md)
