@@ -126,21 +126,27 @@ Time for team work!
 
 ## Week 7
 
-By the end of the week, all developers:
+This week, you'll continue to work on your process for learning a new language as we take dive a bit deeper into Javascript.
 
-* Have an effective strategy for gaining a deeper understanding of a new programming language
+By the end of the week, all developers can:
+
+- Follow the flow of information through a single page, front end web application
+- Explain the following: functions, objects, closures, prototype, new, this
+
+As you work towards the above goals, please reflect on your strategy for learning a new language.
 
 ## Challenges
 
 * [Afternoons - Notes app](https://github.com/makersacademy/course/blob/master/further_javascript)
-* Weekend, either of:
+* Friday, either of:
   * [News summary](https://github.com/makersacademy/news-summary-challenge)
   * [Chitter API Frontend Challenge](https://github.com/makersacademy/frontend-api-challenge)
 
 ## Practicals
 
 * [Closures](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q)
-* [Reading beyond your level](https://hackmd.io/F-pmnp3hRhePddmf3mnKGw)
+* [Asynch JS](https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async)
+* [Reading beyond your level (to learn about new and closures)](https://hackmd.io/F-pmnp3hRhePddmf3mnKGw)
 * [Reasoning about JS using frames](https://hackmd.io/cnH7BqucQ7yzqnLiqmizXw)
 
 ## Week 8-9
