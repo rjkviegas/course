@@ -161,13 +161,14 @@ For more information about this project and what constitutes 'high-quality proce
 ## Week 10
 
 By the end of the week, all developers can:
- 	* Mention efficiency as one axis to talk about algorithms
- 	* Have conversations about algorithmic complexity
-	* Characterise the complexity of classic algorithms
+* Mention efficiency as one axis to talk about algorithms
+* Have conversations about algorithmic complexity
+* Characterise the complexity of classic algorithms
 
 ### Challenge
 
 This week's challenge is a research project. You can work on it individually or in teams of 2 or 3.
+
 [Here's the outline](./algorithmic_complexity/README.md).
 
 ### Resources
