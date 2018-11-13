@@ -12,40 +12,23 @@ Monday is [Day one](./day_one.md)
 
 [Challenges Friday schedule](./challenges_friday_schedule.md)
 
-## Remote sequence
-
-#### Monday
-Monday is [Day one](./day_one.md)
-
-#### Tuesday
-10:00am - Week 1 Kickoff
-
-10:30am - [Why do we TDD?](https://github.com/makersacademy/skills-workshops/blob/master/week-1/TDD_process.md)
-
-#### Wednesday
-9:45 - Diode Session
-
-10:00am - [Git and Research](https://github.com/makersacademy/skills-workshops/tree/master/week-1/git_and_research
-)
-
-#### Thursday
-9:45 - Diode Session
-
-10:00am - [Debugging](https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1)
-
-#### Friday
-9:45 - Diode Session
-
-10:00am - TDD Process 2
-
-4:30pm - Retro
-
 ### Afternoons
 [Boris Bikes](../../boris_bikes/00_challenge_map.md)
 
 ### Mornings
-[Diagram the TDD Process](https://diode.makersacademy.com/students/alicelieutier/projects/812)
 
-[Rectangle Kata](https://github.com/makersacademy/skills-workshops/tree/master/week-1/rectangle_kata)
+Each of the exercises in the table below will link you to a Diode project with further details. The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel you need more practice on.
 
-[TDD a Notes App](https://diode.makersacademy.com/students/neoeno/projects/13)
+Please **do not** proceed on to the next core exercise until you have validated the previous one in Diode and, ideally, have received feedback from a coach.
+
+|Key Skill|Core Exercise|Optional Exercises| 
+|---|---|---|
+|Debugging|[Debugging Pratical](https://diode.makersacademy.com/students/dearshrewdwit/projects/832) |  [Debug Fizzbuzz](https://diode.makersacademy.com/students/samjones1001/projects/2286) |
+|   |   |[Debugging 1](https://diode.makersacademy.com/students/dearshrewdwit/projects/864)   |
+|Writing Tests   |[Writing Unit Tests](https://diode.makersacademy.com/students/samjones1001/projects/2287)   |[Testing Relationships Between Classes](https://diode.makersacademy.com/students/EdwardAndress/projects/975)   |
+|Test Driving A Single Object   |[Test Drive a Dice Class](https://diode.makersacademy.com/students/alicelieutier/projects/813)   |[Diagram Your TDD Process](https://diode.makersacademy.com/students/alicelieutier/projects/812)|
+|   |   |[Test Driving Practical](https://diode.makersacademy.com/students/samjones1001/projects/2288) |
+|Test Driving Multiple Objects   |[Simple Checkout](https://diode.makersacademy.com/students/samjones1001/projects/317)   |[Test Drive a Notes App](https://diode.makersacademy.com/students/neoeno/projects/13)
+|Isolating Unit Tests   |[Dependency Injection Practical](https://diode.makersacademy.com/students/soph-g/projects/645)   |Isolate Simple Checkout Tests
+
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/apprenticeship/week01.md)
