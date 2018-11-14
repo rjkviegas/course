@@ -50,7 +50,7 @@ A good practice when averaging is to throw away the 5% top and bottom results. Y
 
 ### Example results
 
-Here's an example of data you could get form timing the `.reverse` function:
+Here's an example of data you could get from timing the `.reverse` function:
 
 | Array size | Reverse |
 |---|---|
