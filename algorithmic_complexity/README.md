@@ -29,26 +29,27 @@ To start, let's look at how fast some standard library functions run. Here are f
 * `shuffle`
 * `sort` (if you are generating an array from a range, don't forget to shuffle it first to not bias the results)
 
-For this part, you'll need to create some code that returns the time needed to execute a function.
-
-What if you make the array passed into the functions 10, 100, 1000, 10000 times bigger?
-
-Take down the times it takes to process different size of array, and use a spreadsheet utility to plot the results into a curve (time spent over input size).
+- [ ] Create some code that returns the time needed to execute a function.
+- [ ] What if you make the array passed into the functions 10, 100, 1000, 10000 times bigger?
+- [ ] Take down the times it takes to process different size of array, and use a spreadsheet utility to plot the results into a curve (time spent over input size).
 
 ### Build your own algorithms
 
 Now, let's look at efficiency for our own algorithms.
 
 For each of these, you should:
-* Write a few tests (covering different cases)
-* Implement them
-* Run your timing framework
-* Plot their curves
+- [ ] Write a few tests (covering different cases)
+- [ ] Implement them
+- [ ] Run your timing framework
+- [ ] Plot their curves
 
-Compare the shapes of different curves. How can you characterise the efficiency of different algorithms?
-Which algorithms seem more efficient? How do they scale?
+Compare the shapes of different curves.
 
-Here are a few algorithms you should try to implement:
+- [ ] How can you characterise the efficiency of different algorithms?
+- [ ] Which algorithms seem more efficient?
+- [ ] How do they scale?
+
+Here are a the algorithms you should implement:
 
 #### Shuffling
 Implement your own algorithm for shuffling (you cannot use `.shuffle`).
@@ -112,8 +113,9 @@ There are as many ways to do this as there are problems. However, one common tec
 **Resources**:
 * [Divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm) on Wikipedia
 
-Using these two axes, try to make your algorithms more efficient. Is it possible?
-Can you make them as efficient as the built-in functions?
+- [ ] Using these two axes, try to make some of your algorithms more efficient.
+  * Is it possible?
+  * Can you make them as efficient as the built-in functions?
 
 #### Optimising:
 
@@ -124,31 +126,34 @@ Some other times, you do not know things about about the specific input, but you
 Lastly, optimising storage means using a data-structure that will be most efficient for the most frequent usage you'll make of it. A real life example would be to place the kitchen utensils you use most in the top drawer and the ones you only use a few times a year hidden on the top shelve.
 In software, your usage of memory can be optimised in the same way if you know which elements you'll need to access most often.
 
+- [ ] Can you think of some optimisations you could make for your algorithms?
+
 ### Big O Notations
 
-Why is timing not the best solution to look at code efficiency?
+- [ ] Why is timing not the best solution to look at code efficiency?
 
 #### Counting Steps
 An other way to look at efficiency would be to look at how many *operations* or *instructions* are executed in the programme.
-How could you track how many steps there are in your algorithm?
-Add step counters on some of the algorithms above, and compare the curves obtained for time vs steps.
-
-Do the shapes differ? Why?
+- [ ] How could you track how many steps there are in your algorithm?
+- [ ] Add step counters on some of the algorithms above, and compare the curves obtained for time vs steps.
+- [ ] Do the shapes differ? Why?
 
 #### A theoretical model for Complexity
-Using some of the following resources, describe the curves you obtained in terms of Big O notations:
+Using some of the given resources, describe the curves you obtained in terms of Big O notations:
 
 * [Curves and corresponding BigO Notations](http://science.slc.edu/~jmarshall/courses/2002/spring/cs50/BigO/)
 
-What do these notations mean?
-Can you characterise your algorithms into *logarithmic*, *linear*, *quadratic*, *cubic* or *exponential* complexity?
+- [ ] What do these notations mean?
+- [ ] Can you characterise your algorithms into *logarithmic*, *linear*, *quadratic*, *cubic* or *exponential* complexity?
 
 ### Going further
 
 In this project, we talked about time complexity, but what about space complexity? Space complexity looks at how much memory a programme takes, and how that memory usage scales.
 Some programmes could be very time efficient, but allocate tons of memory.
 
-How could you track how much memory your algorithms take?
+- [ ] Which steps in your algorithms take up a lot of memory?
+- [ ] How could you track how much memory your algorithms take?
+- [ ] Could you write your algorithms so that they use less memory?
 
 ### Additional resources
 
