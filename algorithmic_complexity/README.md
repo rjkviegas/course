@@ -33,6 +33,8 @@ To start, let's look at how fast some standard library functions run. Here are f
 - [ ] What if you make the array passed into the functions 10, 100, 1000, 10000 times bigger?
 - [ ] Take down the times it takes to process different size of array, and use a spreadsheet utility to plot the results into a curve (time spent over input size).
 
+For more pointers on how to time code, here's a more [detailed document](./timing_code.md). It also addresses a few of the the common problems you may experience.
+
 ### Build your own algorithms
 
 Now, let's look at efficiency for our own algorithms.
