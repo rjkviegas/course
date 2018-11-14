@@ -107,9 +107,12 @@ Common operations might be more expensive than you think. By checking how differ
 
 Notice parts of your algorithm that repeat the same operations on the same elements. Is there a way you can only do these operations once?
 
+There are as many ways to do this as there are problems. However, one common technique which is useful to know about is **divide & conquer**. This is a technique by which you reduce a problem to several smaller problems, which in turn can be reduced to several smaller problems and so on, until the problems are so small they become trivial to solve.
 
+**Resources**:
+* [Divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm) on Wikipedia
 
-Using these techniques, try to make your algorithms more efficient. Is it possible?
+Using these two axes, try to make your algorithms more efficient. Is it possible?
 Can you make them as efficient as the built-in functions?
 
 #### Optimising:
@@ -147,10 +150,12 @@ Some programmes could be very time efficient, but allocate tons of memory.
 
 How could you track how much memory your algorithms take?
 
-#### Additional resources
+### Additional resources
 
 * [A video introducing algorithmic efficiency](https://www.youtube.com/watch?v=u2iHB2vv3iE)
 * [A guide to big O notation and complexity](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?)
+* [A podcast about algorithmic complexity, with some great notes](https://www.codingblocks.net/podcast/what-is-algorithmic-complexity/)
+* [An article going about guessing complexity from looking at the code](https://developerinsider.co/big-o-notation-explained-with-examples/amp/)
 
 
 
