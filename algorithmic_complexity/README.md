@@ -162,6 +162,9 @@ Some programmes could be very time efficient, but allocate tons of memory.
 * [A podcast about algorithmic complexity, with some great notes](https://www.codingblocks.net/podcast/what-is-algorithmic-complexity/)
 * [An article going about guessing complexity from looking at the code](https://developerinsider.co/big-o-notation-explained-with-examples/amp/)
 
-
+* A few projects done by previous cohort members that you can check:
+  * https://github.com/DamoH/algorithmic-complexity
+  * https://github.com/AlexDresco/algorithm
+  * https://github.com/fbl11/makers-week-10
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/algorithmic_complexity/README.md)
