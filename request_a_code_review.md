@@ -17,8 +17,8 @@ The link to the Github Pull Request or repository
 This is by far the most important piece here: please outline what you want feedback on by analysing your code and include the following reflections:
 - what do you think you did well
 - what do you think was hard or confusing
-- what do you want to improve on
-- what would you work on if you had more time
+- what would you like feedback on?
+- what would you work on if you had more time?
 
 It can be a paragraph/bullet points sent via slack, or notes on your own PR. The better your review is, the more helpful the coach's code review can be as the coach will better understand the feedback that will benefit you.
 
