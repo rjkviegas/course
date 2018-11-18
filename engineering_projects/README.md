@@ -4,6 +4,9 @@
 
 - [Rails](./rails)
 - [Java](./java)
+- [Node](./node)
+- [Python](./python)
+- [C#](./sharp)
 
 ## Learning objectives
 
