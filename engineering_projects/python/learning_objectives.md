@@ -6,6 +6,7 @@ Many of these have already been written up as tickets in the [corresponding trel
 * Diagram a high-level view of the MVC architecture
   * Compare and contrast to another MVC framework
 * Clone the [demo app](https://github.com/rayed/django_crud)
+  * [Here's](https://rayed.com/posts/2018/05/django-crud-create-retrieve-update-delete/) how it was built
 * Get the application up and running
 * Diagram the sequence of events when you run `./manage.py runserver`
   * HINT: Some of your _debugging tools_ will come in handy here
