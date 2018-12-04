@@ -66,7 +66,7 @@ Given a list of students names, create all possible pairings.
 Given a list of words, find all words that appear more than once.
 
 #### Most frequent words
-Given a text, find which are the ten most common words.
+Given a list of words, find which are the two most common words.
 
 #### Sorting 0s and 1s
 Given an array containing only 0s and 1s, sort it.
