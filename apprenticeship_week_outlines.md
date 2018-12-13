@@ -115,6 +115,7 @@ By the end of the week all developers can:
 * [Following the flow](https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async)
 * [JS Objects & Prototypes](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww)
 
+Here's a great tool to deploy pure html/js sites: surge.sh
 
 ### Resources
 
