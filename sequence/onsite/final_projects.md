@@ -10,7 +10,7 @@ There will be almost no structure for the next two weeks.  It will be down to yo
 
 ### Week 12
 
-#### Tuesday
+#### Wednesday
 
 * Evening: :snowflake: :snowflake: Feature freeze :snowflake: :snowflake: You stop building new features.  You'll spend the rest of the time refactoring to make your code as well-crafted as you can.  You'll also spend time working on your presentation.
 
