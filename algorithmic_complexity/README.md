@@ -31,7 +31,11 @@ To start, let's look at how fast some standard library functions run. Here are f
 
 - [ ] Create some code that returns the time needed to execute a function.
 - [ ] What if you make the array passed into the functions 10, 100, 1000, 10000 times bigger?
-- [ ] Take down the times it takes to process different size of array, and use a spreadsheet utility to plot the results into a curve (time spent over input size).
+- [ ] In order to get further, we'll need to create graphs to compare different pieces of code. You will transform your code into a _timing framework_. It should:
+  - Create arrays of different sizes (try 5000 to 100<nbsp>000 in steps of 5000)
+  - Run the code to time on each
+  - Print the size and corresponding time.
+- [ ] From there, you should use a spreadsheet utility to plot the results into a curve (time spent over input size).
 
 For more pointers on how to time code, here's a more [detailed document](./timing_code.md). It also addresses a few of the the common problems you may experience.
 
