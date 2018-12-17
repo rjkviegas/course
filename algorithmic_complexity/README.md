@@ -169,8 +169,12 @@ Some programmes could be very time efficient, but allocate tons of memory.
 * [An article going about guessing complexity from looking at the code](https://developerinsider.co/big-o-notation-explained-with-examples/amp/)
 
 * A few projects done by previous cohort members that you can check:
-  * https://github.com/DamoH/algorithmic-complexity
-  * https://github.com/AlexDresco/algorithm
-  * https://github.com/fbl11/makers-week-10
+  * https://github.com/DamoH/algorithmic-complexity (some Ruby and Java)
+  * https://github.com/AlexDresco/algorithm (Java)
+  * https://github.com/fbl11/makers-week-10 (Java)
+  * https://github.com/ClareJolly/algorithmic-complexity (JavaScript)
+  * https://github.com/Tolvic/algorithmic-complexity (C#)
+  * https://github.com/PreetiSekhon2/algorithms (Python)
+  * https://github.com/tomlightfoot/algorithm_complexity (JavaScript)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/algorithmic_complexity/README.md)
