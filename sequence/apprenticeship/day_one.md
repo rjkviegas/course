@@ -21,7 +21,7 @@ If you have any questions, just ask!
 
 ### Afternoon
 
-* 13.00 - 15.00 [Pairing challenges](https://github.com/makersacademy/skills-workshops/tree/master/week-1/pairing_challenges) by Alice
+* 13.00 - 15.00 [Pairing challenges](https://github.com/makersacademy/skills-workshops/tree/master/week-1/pairing_challenges) by a coach
 * 15.00 - 16.00 _[Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md)_ by Sam J
 * 16.30 - 17.00 Life at Makers_ by Sam J
 * 17.30 - 18.30 **Hang out & eat pizza** (1st Floor Kitchen)
