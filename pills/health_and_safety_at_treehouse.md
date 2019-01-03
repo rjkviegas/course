@@ -17,14 +17,14 @@ In the event of a fire:
 
 * Don't stop to collect personal belongings
 
-* Follow the instructions of the Fire Marshal (Alice) and the fire exit signs to leave the building.
+* Follow the instructions of the Fire Marshal (Nikesh) and the fire exit signs to leave the building.
 
 * Assembly point is outside 77 Bastwick street - opposite the garages at the side of the building.
 
 FIRST AID
 --------
 
-* If somebody gets injured, get help from one of the first aiders - Nikesh or Cat
+* If somebody gets injured, get help from one of the first aiders - Nikesh
 
 * First aid boxes are located in marked cupboards:
   - In the first floor kitchen
