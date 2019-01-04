@@ -7,10 +7,10 @@ If you have any questions, just ask!
 ### Morning
 
 * 08.30 - 09.30 Breakfast
-* 09.30 - 10.00 _Welcome to Makers_ by Sam J
-* 10.00 - 10.15 _Code of Conduct_ by Sam J
-* 10.15 - 11.00 _Mindfulness and Wellbeing at Makers_ by Dana
-* 11.00 - 11.15 _Tour of the Building_ by Sam J
+* 09.30 - 10.00 _Welcome to Makers_ 
+* 10.00 - 10.15 _Code of Conduct_ 
+* 10.15 - 11.00 _Mindfulness and Wellbeing at Makers_ 
+* 11.00 - 11.15 _Tour of the Building_ 
 * 11.15 - 12.00 _Receive and set up laptops_
 * 12.00 - 13.00 **Lunch** here are some options for you:
   * [Whitecross St Market](http://www.bitecross.co.uk/)
@@ -21,9 +21,9 @@ If you have any questions, just ask!
 
 ### Afternoon
 
-* 13.00 - 15.00 [Pairing challenges](https://github.com/makersacademy/skills-workshops/tree/master/week-1/pairing_challenges) by a coach
-* 15.00 - 16.00 _[Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md)_ by Sam J
-* 16.30 - 17.00 Life at Makers_ by Sam J
+* 13.00 - 15.00 [Pairing challenges](https://github.com/makersacademy/skills-workshops/tree/master/week-1/pairing_challenges) 
+* 15.00 - 16.00 _[Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md)_ 
+* 16.30 - 17.00 Life at Makers_ 
 * 17.30 - 18.30 **Hang out & eat pizza** (1st Floor Kitchen)
 
 ## Code of conduct
