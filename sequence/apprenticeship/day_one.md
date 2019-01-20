@@ -9,9 +9,8 @@ If you have any questions, just ask!
 * 08.30 - 09.30 Breakfast
 * 09.30 - 10.00 _Welcome to Makers_ 
 * 10.00 - 10.15 _Code of Conduct_ 
-* 10.15 - 11.00 _Mindfulness and Wellbeing at Makers_ 
-* 11.00 - 11.15 _Tour of the Building_ 
-* 11.15 - 12.00 _Receive and set up laptops_
+* 10.30 - 11.30 _Wellbeing at Makers + Tour of the Building_ 
+* 11.30 - 12.00 _Receive and set up laptops_
 * 12.00 - 13.00 **Lunch** here are some options for you:
   * [Whitecross St Market](http://www.bitecross.co.uk/)
   * [Leather Lane Market](https://leatherlanestars.wordpress.com/the-market/)
