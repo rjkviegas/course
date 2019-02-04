@@ -7,9 +7,9 @@ _Here's a link to the instructions doc with useful information for the end of co
 
 There are 3 main reasons for having a smaller Review halfway through the course.
 
-1. Feedback from students indicated that it was tough to start and finish a thesis all at the end of the course - so spreading this reflective work over the course makes sense, and has the advantage that it should push you even more to think of your goals when you're prioritising what to learn.
+1. Feedback from students indicated that it was tough to start and finish aportfolio all at the end of the course - so spreading this reflective work over the course makes sense, and has the advantage that it should push you even more to think of your goals when you're prioritising what to learn.
 
-2. By starting the thesis early and then practicing a Review, you're more likely to be confident and practiced for the Review you'll take when you feel you've achieved the course goals as outlined in your [Diode](https://diode.makersacademy.com).
+2. By starting theportfolio early and then practicing a Review, you're more likely to be confident and practiced for the Review you'll take when you feel you've achieved the course goals as outlined in your [Diode](https://diode.makersacademy.com).
 
 3. You are responsible for having an answer to the question 'Am I on track to passing my Review at the end of the course?' The W6 Review should be a high-quality data point you can use to assess and/or improve your learning process.
 
@@ -34,21 +34,21 @@ Nope - the only outcome for everyone is feedback for the evidences you've collec
 
 #### How do I book my W6 Review?
 1. During the week before, a coach will send out a google spreadsheet where you will book a slot.
-2. In order to book a slot add your name and a link to your thesis doc.
+2. In order to book a slot add your name and a link to yourportfolio doc.
 3. A coach will confirm on the day where they will be.
 
-#### Where is the thesis document I should fill out?
+#### Where is theportfolio document I should fill out?
 In the #Reviews channel topic you’ll see a link to important instructions - make sure you've read the pre-requisites.
 
-Follow the instructions to make a copy of the thesis doc, and browse the archive to have a sense of how to fill out the form. Make sure you understand the types of evidence - weak, moderate, and strong evidences.
+Follow the instructions to make a copy of theportfolio doc, and browse the archive to have a sense of how to fill out the form. Make sure you understand the types of evidence - weak, moderate, and strong evidences.
 
-#### How much of the thesis doc I should fill out?
+#### How much of theportfolio doc I should fill out?
 We’re looking for you to have reflected on what evidence you need, and then gathered it to show to yourself you’re on track to achieving the 5 goals in particular (but the more the better, really!).
 
-#### When should I submit my thesis?
+#### When should I submit myportfolio?
 Ideally the coaching team would like to be able to read the theses in the morning beforehand. So the night beforehand it should be up-to-date for us!
 
-#### Can I book a slot without having my thesis 'ready'?
+#### Can I book a slot without having myportfolio 'ready'?
 Absolutely - if not very much encouraged! We'll only read it that day.
 
 #### I have not been using diode, does that matter a lot?
