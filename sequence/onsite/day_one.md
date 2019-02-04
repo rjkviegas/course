@@ -16,7 +16,7 @@ If you have any questions, just ask!
 
 * 13.30 - 14.00 Meditation (2nd Floor)
 * 14.00 - 14.15 Get your Makers T-shirt (3rd Floor)
-* 14.15 - 15.00 _[Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md)_(2nd Floor)
+* 14.15 - 15.00 _[Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md)_(2nd Floor) by Ed, Head of Coaching
 * 15.00 - 15.20 Introduction to staff members (Careers, Marketing)(2nd Floor)
 * 15:20 - 15:30 Meet the coaches (2nd Floor)
 * 15.30 - 17.30 [Pairing exercise](https://github.com/makersacademy/pairing_exercises) (3rd Floor)
@@ -50,7 +50,7 @@ Read [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/
 
 ### Getting your laptop (onsite cohorts)
 
-At 11.00am on the first day, go to the first floor and ask for Egle or Florence. You can take the lift or the stairs to the first floor.
+At 11.00am on the first day, go to the first floor and ask for Egle, Jodi or Sarah. You can take the lift or the stairs to the first floor.
 
 ### Setting up your laptop
 
