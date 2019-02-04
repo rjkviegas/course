@@ -1,17 +1,17 @@
-## W6 viva at Makers
+## W6 Review at Makers
 
-Hi! You've found info on the W6 viva! Congrats!
+Hi! You've found info on the W6 Review! Congrats!
 
-Join `#vivas` on slack for a place to ask more questions or get more info!
-_Here's a link to the instructions doc with useful information for the end of course viva https://docs.google.com/document/d/1w4uywH24Q68ffHi-WTcQhaHwyknMIQ9WLpOLTAS1czk/edit_
+Join `#Reviews` on slack for a place to ask more questions or get more info!
+_Here's a link to the instructions doc with useful information for the end of course Review https://docs.google.com/document/d/1w4uywH24Q68ffHi-WTcQhaHwyknMIQ9WLpOLTAS1czk/edit_
 
-There are 3 main reasons for having a smaller viva halfway through the course.
+There are 3 main reasons for having a smaller Review halfway through the course.
 
 1. Feedback from students indicated that it was tough to start and finish a thesis all at the end of the course - so spreading this reflective work over the course makes sense, and has the advantage that it should push you even more to think of your goals when you're prioritising what to learn.
 
-2. By starting the thesis early and then practicing a viva, you're more likely to be confident and practiced for the viva you'll take when you feel you've achieved the course goals as outlined in your [Diode](https://diode.makersacademy.com).
+2. By starting the thesis early and then practicing a Review, you're more likely to be confident and practiced for the Review you'll take when you feel you've achieved the course goals as outlined in your [Diode](https://diode.makersacademy.com).
 
-3. You are responsible for having an answer to the question 'Am I on track to passing my viva at the end of the course?' The W6 viva should be a high-quality data point you can use to assess and/or improve your learning process.
+3. You are responsible for having an answer to the question 'Am I on track to passing my Review at the end of the course?' The W6 Review should be a high-quality data point you can use to assess and/or improve your learning process.
 
 **NB** It's run entirely by the coaching team - it's only about helping you improve your learning process. It's **not a pass/fail test.** If it feels like one, please let us know this.
 
@@ -32,13 +32,13 @@ One, maybe two coaches.
 #### Will I pass or fail it?
 Nope - the only outcome for everyone is feedback for the evidences you've collected to demonstrate achieving the goals - this will help you assess how you're doing.
 
-#### How do I book my W6 viva?
+#### How do I book my W6 Review?
 1. During the week before, a coach will send out a google spreadsheet where you will book a slot.
 2. In order to book a slot add your name and a link to your thesis doc.
 3. A coach will confirm on the day where they will be.
 
 #### Where is the thesis document I should fill out?
-In the #vivas channel topic you’ll see a link to important instructions - make sure you've read the pre-requisites.
+In the #Reviews channel topic you’ll see a link to important instructions - make sure you've read the pre-requisites.
 
 Follow the instructions to make a copy of the thesis doc, and browse the archive to have a sense of how to fill out the form. Make sure you understand the types of evidence - weak, moderate, and strong evidences.
 

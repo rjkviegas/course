@@ -153,7 +153,7 @@ A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app
 
 ## Week 6
 
-By the end of the week all developers will have had a [mini viva](./pills/W6_viva.md) with a coach and received feedback on their learning progress.
+By the end of the week all developers will have had a [mini Review](./pills/W6_Review.md) with a coach and received feedback on their learning progress.
 
 By the end of the week all developers can build tested, easy-to-change software in a team using these processes:
 
