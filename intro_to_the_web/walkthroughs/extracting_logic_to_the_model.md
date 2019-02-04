@@ -16,7 +16,7 @@ Our controller is starting to grow, and we could refactor our code to **separate
 
 We can begin by creating a new spec file for the `Player` class, such that it can return its own name. This will extract the behaviour of the `session[:player_1_name]` and `session[:player_2_name]` to a 'deeper' part of our program. **Abstraction is a good thing to aim for in program design.**
 
-Let's create a `lib` file to store our model layer. Our project directory will look something like this:
+Let's create a `lib` directory to store our model layer. Our project directory will look something like this:
 
 ```
 .
