@@ -75,5 +75,6 @@ There are ways of DRYing the above up, as well: check the Resources for more inf
 
 ### [Walkthrough](walkthroughs/20.md)
 
+[Previous Challenge](19_isolating_tests_with_doubles.md) | [Next Challenge](21_men_with_ven.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/20_mocking_behaviour_on_doubles.md)
