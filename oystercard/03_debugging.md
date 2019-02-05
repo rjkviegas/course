@@ -39,5 +39,6 @@ As we discovered last week, errors are good. In this challenge, you will dissect
 
 ## [Walkthrough](walkthroughs/03_debugging.md)
 
+[Previous Challenge](02_initialize_rspec.md) | [Next Challenge](04_adding_balance.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/03_debugging.md)
