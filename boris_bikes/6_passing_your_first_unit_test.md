@@ -50,5 +50,6 @@ In this challenge, you will create a `DockingStation` class and include it in th
 
 ### [Walkthrough](walkthroughs/6.md)
 
+[Previous Challenge](5_from_feature_tests_to_unit_tests.md) | [Next Challenge](7_back_to_the_feature.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/6_passing_your_first_unit_test.md)
