@@ -45,5 +45,6 @@ In this challenge, you will convert your instance variable `@bike` to reference 
 
 ### [Walkthrough](walkthroughs/14.md)
 
+[Previous Challenge](13_limiting_capacity.md) | [Next Challenge](15_single_responsibility_principle.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/14_complex_attributes.md)
