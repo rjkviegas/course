@@ -49,5 +49,6 @@ In this challenge, you will use **private methods** to extract method responsibi
 
 ### [Walkthrough](walkthroughs/15.md)
 
+[Previous Challenge](14_complex_attributes.md) | [Next Challenge](16_removing_magic_numbers.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/15_single_responsibility_principle.md)
