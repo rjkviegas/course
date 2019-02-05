@@ -55,5 +55,6 @@ I want a maximum limit (of £90) on my card
 
 ## [Walkthrough](walkthroughs/06_maximum_balance.md)
 
+[Previous Challenge](05_top_up.md) | [Next Challenge](07_deducting_money.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/06_maximum_balance.md)
