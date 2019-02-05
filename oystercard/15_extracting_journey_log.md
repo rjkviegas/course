@@ -36,5 +36,6 @@ Let's extract a JourneyLog class. It should be responsible for starting a journe
 
 ## [Walkthrough](walkthroughs/15_extracting_journey_log.md)
 
+[Previous Challenge](14_no_touch_in_or_out.md) | [Next Challenge](16_fare_for_zones.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/15_extracting_journey_log.md)
