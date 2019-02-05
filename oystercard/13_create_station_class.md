@@ -42,5 +42,6 @@ I want to know what zone a station is in
 
 ## [Walkthrough](walkthroughs/13_create_station_class.md)
 
+[Previous Challenge](12_journey_history.md) | [Next Challenge](14_no_touch_in_or_out.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/13_create_station_class.md)
