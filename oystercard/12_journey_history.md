@@ -56,5 +56,6 @@ I want to see all my previous trips
 
 ## [Walkthrough](walkthroughs/12_journey_history.md)
 
+[Previous Challenge](11_saving_entry_station.md) | [Next Challenge](13_create_station_class.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/12_journey_history.md)
