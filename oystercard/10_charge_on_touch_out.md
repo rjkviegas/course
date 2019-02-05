@@ -42,5 +42,6 @@ When my journey is complete, I need the correct amount deducted from my card
 
 ## [Walkthrough](walkthroughs/10_charge_on_touch_out.md)
 
+[Previous Challenge](09_min_balance_on_touch_in.md) | [Next Challenge](11_saving_entry_station.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/10_charge_on_touch_out.md)
