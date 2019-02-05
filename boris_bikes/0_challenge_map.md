@@ -54,5 +54,7 @@ After the challenges, you can stretch yourself by implementing additional User S
 
 1. [Post-challenge](post_challenge.md)
 
+[Next Challenge](1_setting_up_a_project.md)
+
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/0_challenge_map.md)
