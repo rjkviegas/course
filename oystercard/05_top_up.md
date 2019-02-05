@@ -44,5 +44,6 @@ I want to add money to my card
 
 ## [Walkthrough](walkthroughs/05_top_up.md)
 
+[Previous Challenge](04_adding_balance.md) | [Next Challenge](06_maximum_balance.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/05_top_up.md)
