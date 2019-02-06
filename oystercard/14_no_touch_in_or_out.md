@@ -54,5 +54,6 @@ I need a penalty charge deducted if I fail to touch in or out
 
 ## [Walkthrough](walkthroughs/14_no_touch_in_or_out.md)
 
+[Previous Challenge](13_create_station_class.md) | [Next Challenge](15_extracting_journey_log.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/14_no_touch_in_or_out.md)

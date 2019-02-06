@@ -48,5 +48,6 @@ I need to know where I've travelled from
 
 ## [Walkthrough](walkthroughs/11_saving_entry_station.md)
 
+[Previous Challenge](10_charge_on_touch_out.md) | [Next Challenge](12_journey_history.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/11_saving_entry_station.md)

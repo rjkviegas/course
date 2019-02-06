@@ -64,5 +64,6 @@ I want money on my card
 
 ## [Walkthrough](walkthroughs/04_adding_balance.md)
 
+[Previous Challenge](03_debugging.md) | [Next Challenge](05_top_up.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/04_adding_balance.md)

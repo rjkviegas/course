@@ -50,5 +50,6 @@ I need to touch in and out.
 
 ## [Walkthrough](walkthroughs/08_touch_in_out.md)
 
+[Previous Challenge](07_deducting_money.md) | [Next Challenge](09_min_balance_on_touch_in.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/08_touch_in_out.md)
