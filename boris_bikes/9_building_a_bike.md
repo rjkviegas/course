@@ -61,5 +61,6 @@ In this challenge, you will run a Feature Test to test the above. It will fail, 
 
 ### [Walkthrough](walkthroughs/9.md)
 
+[Previous Challenge](8_back_to_the_unit.md) | [Next Challenge](10_making_stations_release_bikes.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/9_building_a_bike.md)

@@ -65,5 +65,6 @@ end
 
 ### [Walkthrough](walkthroughs/7.md)
 
+[Previous Challenge](6_passing_your_first_unit_test.md) | [Next Challenge](8_back_to_the_unit.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/7_back_to_the_feature.md)

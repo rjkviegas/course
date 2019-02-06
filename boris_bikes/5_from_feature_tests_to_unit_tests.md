@@ -38,5 +38,6 @@ In this challenge, you will initialize a testing framework, **RSpec**, and plan 
 
 ### [Walkthrough](walkthroughs/5.md)
 
+[Previous Challenge](4_errors_are_good.md) | [Next Challenge](6_passing_your_first_unit_test.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/5_from_feature_tests_to_unit_tests.md)
