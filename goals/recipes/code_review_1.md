@@ -13,7 +13,7 @@ You'll each be reviewing a colleague's code today. This morning the rule is: you
   * Review your colleague's code without referring to the rubric. Stretch yourself to see how much feedback you can think of before you move on. Write it down, you'll share it later.
   * Use the code review rubric to generate some more feedback for your colleague (if available, it will be in the challenge repo under `docs/`).
   * Share your feedback with your colleague.
-* **12.00: Reflective discussion.** A 20 minute coach-facilitated discussion about feedback and code review.
+* **11.30: Reflective discussion.** A coach-facilitated discussion about feedback and code review.
 
 ## Challenging yourself
 
