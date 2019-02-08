@@ -6,11 +6,11 @@
 
 ## What will happen
 
-* You and a coach will meet 1-1 for 30 minutes.
+* You and a coach will meet 1-1 for 40 minutes.
 
 * Bring your laptop.
 
-* The coach will ask you to spend about twenty minutes building a small app from scratch.
+* The coach will ask you to spend about thirty minutes building a small app from scratch.
 
 * The coach will observe you as you build the app.
 
