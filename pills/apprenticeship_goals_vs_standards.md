@@ -244,6 +244,55 @@
 </details>
 
 ## I can work to a specification
+<details><summary>Design: can create simple data models and software designs to effectively communicate understanding of the program, following best practices and standards.</summary>
+  <ul>
+    <li>Can take a high level design and can interpret and convert the design in to simple data models and/or programme modules to communicate it to others</li>
+    <li>Can apply a software design methodologies (e.g., structured or object-oriented)</li>
+    <li>Can use standard design notation such as UML</li>
+    <li>Can apply data modelling</li>
+    <li>Can apply reconcile design against analysis models</li>
+    <li>Can design software solutions to meet requirements</li>
+  </ul>
+</details>
+<details><summary>Analysis: can understand and create basic analysis artefacts, such as user cases and/or user stories</summary>
+  <ul>
+    <li>Can take a variety of data and business requirements and convert them in to basic analysis artefacts to understand and can clarify the intended use of the proposed software</li>
+    <li>Can identify and represent required functionality (e.g. use cases)</li>
+    <li>Can identify and represent activity workflow (e.g. activity diagrams)</li>
+  </ul>
+</details>
+<details><summary>Development lifecycle: can operate at all stages of the software development lifecycle, with increasing breadth and depth over time with initial focus on build and test.</summary>
+  <ul>
+    <li>Can operate as software developers showing a good understanding of the other phases of the software development lifecycle and the deliverables that are produced at each stage and as relevant to the development methodology (waterfall, agile, test led etc)</li>
+    <li>Can operate in the support and maintenance phases</li>
+    <li>Can advise third line support for relevant applications</li>
+    <li>Can fix bugs and deal with change requests</li>
+  </ul>
+</details>
+<details><summary>Can interpret and follow software designs and functional/technical specifications</summary>
+  <ul>
+    <li>Can adapt to the employers domain and context for software development and interpret and follow the software development approach being implemented</li>
+    <li>Can read software designs and functional/technical specifications, especially those based upon the employer domain and context</li>
+    <li>Can identify, interpret and follow ‘coding standards’</li>
+    <li>Can identify, interpret and follow best practice coding approaches for specific paradigms and languages</li>
+    <li>Can identify, interpret and follow company, team or client approaches to continuous integration, version and source control</li>
+  </ul>
+</details>
+<details><summary>Understands and applies software design approaches and patterns and can interpret and implement a given design, compliant with security and maintainability requirements</summary>
+  <ul>
+    <li>Software design approaches</li>
+    <li>Software patterns</li>
+    <li>Documenting software designs</li>
+    <li>Secure development</li>
+    <li>Designing for software maintainability and re-use</li>
+  </ul>
+</details>
+<details><summary>Ability to work independently and to take responsibility</summary>
+  <ul>
+    <li>Can work independently and take responsibility</li>
+  </ul>
+</details>
+
 ## I test-drive my code
 ## I use a methodical approach to solving problems
 ## I version-control my projects
