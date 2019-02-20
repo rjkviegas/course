@@ -207,6 +207,42 @@
 </details>
 
 ## I help my business succeed
+<details><summary>Can respond to the business environment and business issues related to software development</summary>
+  <ul>
+    <li>Can apply the following considerations when working on projects:
+      <ul>
+        <li>Business context</li>
+        <li>Business drivers (efficiency gains, increased functionality and improved quality of outputs)</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+<details><summary>Can operate effectively in their own business’, their customers’ and the industry’s environments</summary>
+  <ul>
+    <li>Can demonstrate working within operational requirements such as health and safety, budgets, brands and normal business protocols</li>
+  </ul>
+</details>
+<details><summary>Understands and responds to the business environment and business issues related to software development</summary>
+  <ul>
+    <li>Can understand and respond to the business environment and business issues related to software development</li>
+  </ul>
+</details>
+<details><summary>Ability to work with a range of internal and external people</summary>
+  <ul>
+    <li>Can work with a range of internal and external people</li>
+  </ul>
+</details>
+<details><summary>Ability to communicate effectively in a variety of situations</summary>
+  <ul>
+    <li>Can communicate effectively in a variety of situations</li>
+  </ul>
+</details>
+<details><summary>Maintain a productive, professional and secure working environment</summary>
+  <ul>
+    <li>Can maintain a productive, professional and secure working environment</li>
+  </ul>
+</details>
+
 ## I can work to a specification
 ## I test-drive my code
 ## I use a methodical approach to solving problems
