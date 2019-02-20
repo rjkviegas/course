@@ -105,7 +105,38 @@
 </details>
 
 ## I can design a system
+
+<details><summary>Design: can create simple data models and software designs to effectively communicate understanding of the program, following best practices and standards.</summary>
+  <ul>
+    <li>Can take a high level design and can interpret and convert the design in to simple data models and/or programme modules to communicate it to others</li>
+    <li>Can apply a software design methodologies (e.g., structured or object-oriented)</li>
+    <li>Can use standard design notation such as UML</li>
+    <li>Can apply data modelling</li>
+    <li>Can apply reconcile design against analysis models</li>
+    <li>Can design software solutions to meet requirements</li>
+  </ul>
+</details>
+<details><summary>Understands and applies software design approaches and patterns and can interpret and implement a given design, compliant with security and maintainability requirements</summary>
+  <ul>
+    <li>Software design approaches</li>
+    <li>Software patterns</li>
+    <li>Documenting software designs</li>
+    <li>Secure development</li>
+    <li>Designing for software maintainability and re-use</li>
+  </ul>
+</details>
+
 ## I can integrate a database
+<details><summary>Data: can effectively link code to the database/data sets</summary>
+  <ul>
+    <li>Can link to a range of database types and embed data queries within their code</li>
+    <li>Can make a connection to a database</li>
+    <li>Can execute CRUD statements on the database</li>
+    <li>Can use one-off queries and stored procedures</li>
+    <li>Can transform returned data in to format the application requires</li>
+  </ul>
+</details>
+
 ## I can deploy web applications
 ## I can design and build user interfaces
 ## I create effective documentation
