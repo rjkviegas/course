@@ -103,6 +103,7 @@
     <li>Adapting ideas and approaches as conditions or circumstances change</li>
   </ul>
 </details>
+
 ## I can design a system
 ## I can integrate a database
 ## I can deploy web applications
