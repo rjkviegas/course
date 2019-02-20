@@ -377,6 +377,28 @@
 </details>
 
 ## I version-control my projects
+</details><details><summary>Can interpret and follow company, team or client approaches to continuous integration, version and source control</summary>
+  <ul>
+    <li>Can adapt to the employers domain and context for software development and interpret and follow the software development approach being implemented</li>
+    <li>Can read software designs and functional/technical specifications, especially those based upon the employer domain and context</li>
+    <li>Can identify, interpret and follow ‘coding standards’</li>
+    <li>Can identify, interpret and follow best practice coding approaches for specific paradigms and languages</li>
+    <li>Can identify, interpret and follow company, team or client approaches to continuous integration, version and source control</li>
+  </ul>
+</details>
+<details><summary>Understands how teams work effectively to produce software and contributes appropriately</summary>
+  <ul>
+    <li>What are the roles that need to be undertaken</li>
+    <li>How are these roles distributed across a team</li>
+    <li>What team-working aspects are needed to ensure effective delivery of projects</li>
+  </ul>
+</details>
+<details><summary>Ability to work with a range of internal and external people</summary>
+  <ul>
+    <li>Can work with a range of internal and external people</li>
+  </ul>
+</details>
+
 ## My teams succeed
 ## I use an Agile planning process
 ## I use my own initiative
