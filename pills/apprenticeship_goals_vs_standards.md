@@ -424,4 +424,61 @@
 </details>
 
 ## I use an Agile planning process
+<details><summary>Design: can create simple data models and software designs to effectively communicate understanding of the program, following best practices and standards.</summary>
+  <ul>
+    <li>Can take a high level design and can interpret and convert the design in to simple data models and/or programme modules to communicate it to others</li>
+    <li>Can apply a software design methodologies (e.g., structured or object-oriented)</li>
+    <li>Can use standard design notation such as UML</li>
+    <li>Can apply data modelling</li>
+    <li>Can apply reconcile design against analysis models</li>
+    <li>Can design software solutions to meet requirements</li>
+  </ul>
+</details>
+<details><summary>Analysis: can understand and create basic analysis artefacts, such as user cases and/or user stories</summary>
+  <ul>
+    <li>Can take a variety of data and business requirements and convert them in to basic analysis artefacts to understand and can clarify the intended use of the proposed software</li>
+    <li>Can identify and represent required functionality (e.g. use cases)</li>
+    <li>Can identify and represent activity workflow (e.g. activity diagrams)</li>
+  </ul>
+</details>
+<details><summary>Development lifecycle: can operate at all stages of the software development lifecycle, with increasing breadth and depth over time with initial focus on build and test.</summary>
+  <ul>
+    <li>Can operate as software developers showing a good understanding of the other phases of the software development lifecycle and the deliverables that are produced at each stage and as relevant to the development methodology (waterfall, agile, test led etc)</li>
+    <li>Can operate in the support and maintenance phases</li>
+    <li>Can advise third line support for relevant applications</li>
+    <li>Can fix bugs and deal with change requests</li>
+  </ul>
+</details>
+<details><summary>Understands and operates at all stages of the software development lifecycle</summary>
+  <ul>
+    <li>What is the software development lifecycle (SDLC)</li>
+    <li>What are the seven generic stages and their high-level deliverables from each stage</li>
+    <li>What are the main activities in each stage</li>
+  </ul>
+</details>
+<details><summary>Understands the similarities and differences (taking into account positives and negatives of both approaches) between agile and waterfall software development methodologies</summary>
+  <ul>
+    <li>What is the agile development method</li>
+    <li>What is the waterfall development method</li>
+    <li>What are the strengths and weaknesses of both approaches</li>
+  </ul>
+</details>
+<details><summary>Understands how teams work effectively to produce software and contributes appropriately</summary>
+  <ul>
+    <li>What are the roles that need to be undertaken</li>
+    <li>How are these roles distributed across a team</li>
+    <li>What team-working aspects are needed to ensure effective delivery of projects</li>
+  </ul>
+</details>
+<details><summary>Ability to work independently and to take responsibility</summary>
+  <ul>
+    <li>Can work independently and take responsibility</li>
+  </ul>
+</details>
+<details><summary>Ability to work with a range of internal and external people</summary>
+  <ul>
+    <li>Can work with a range of internal and external people</li>
+  </ul>
+</details>
+
 ## I use my own initiative
