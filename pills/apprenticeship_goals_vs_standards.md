@@ -334,6 +334,48 @@
 </details>
 
 ## I use a methodical approach to solving problems
+<details><summary>Problem solving: can apply structured techniques to problem solving, can debug code and can understand the structure of programmes in order to identify and resolve issues</summary>
+  <ul>
+    <li>Can use a minimum of two problem solving tools and techniques to identify and resolve programming issues</li>
+    <li>Can apply structured problem solving methods</li>
+    <li>Can apply problem-solving techniques to programming activities</li>
+  </ul>
+</details>
+<details><summary>Logical and creative thinking skills</summary>
+  <p>a. Logical thinking:</p>
+  <ul>
+    <li>Understanding initial premise(s) and preconditions</li>
+    <li>Analysing situations from known facts</li>
+    <li>Recognising the conclusion to be reached</li>
+    <li>Proceeding by rational steps</li>
+    <li>Evaluating information, judging its relevance and value</li>
+    <li>Supporting conclusions, using reasoned arguments and evidence</li>
+  </ul>
+  <p>a. Creative thinking:</p>
+  <ul>
+    <li>Looking at situations from a fresh perspective</li>
+    <li>Exploring ideas and possibilities</li>
+    <li>Making connections between different aspects</li>
+    <li>Questioning assumptions</li>
+    <li>Generating solutions that may be imaginative or unconventional</li>
+    <li>Devising new approaches</li>
+    <li>Adapting ideas and approaches as conditions or circumstances change</li>
+  </ul>
+</details>
+<details><summary>Analytical and problem solving skills</summary>
+  <ul>
+    <li>Analysing situations</li>
+    <li>Defining goals</li>
+    <li>Developing solutions</li>
+    <li>Prioritising actions</li>
+    <li>Dealing with unexpected occurrences</li>
+  </ul>
+</details><details><summary>A thorough and organised approach</summary>
+  <ul>
+    <li>Can be thorough and organised</li>
+  </ul>
+</details>
+
 ## I version-control my projects
 ## My teams succeed
 ## I use an Agile planning process
