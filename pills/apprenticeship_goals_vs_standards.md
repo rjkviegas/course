@@ -482,3 +482,13 @@
 </details>
 
 ## I use my own initiative
+<details><summary>Can use own initiative</summary>
+  <ul>
+    <li>Can use own initiative</li>
+  </ul>
+</details>
+<details><summary>Ability to work independently and to take responsibility</summary>
+  <ul>
+    <li>Can work independently and take responsibility</li>
+  </ul>
+</details>
