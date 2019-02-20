@@ -185,6 +185,27 @@
 </details>
 
 ## I maintain my software
+<details><summary>Development lifecycle: can operate at all stages of the software development lifecycle, with increasing breadth and depth over time with initial focus on build and test.</summary>
+  <ul>
+    <li>Can operate as software developers showing a good understanding of the other phases of the software development lifecycle and the deliverables that are produced at each stage and as relevant to the development methodology (waterfall, agile, test led etc)</li>
+    <li>Can operate in the support and maintenance phases</li>
+    <li>Can advise third line support for relevant applications</li>
+    <li>Can fix bugs and deal with change requests</li>
+  </ul>
+</details>
+<details><summary>Understands and operates at all stages of the software development lifecycle</summary>
+  <ul>
+    <li>What is the software development lifecycle (SDLC)</li>
+    <li>What are the seven generic stages and their high-level deliverables from each stage</li>
+    <li>What are the main activities in each stage</li>
+  </ul>
+</details>
+<details><summary>Ability to work independently and to take responsibility</summary>
+  <ul>
+    <li>Can work independently and take responsibility</li>
+  </ul>
+</details>
+
 ## I help my business succeed
 ## I can work to a specification
 ## I test-drive my code
