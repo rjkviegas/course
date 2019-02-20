@@ -1,5 +1,7 @@
 # Apprenticeship goals vs standard points
 
+There are 16 goals to focus on during your apprenticeship. Each goal is broken down into a number of standard points. Each standard point has one or more minimum definitions. Use the drop-down arrows on each standard point to see the minimum definition.
+
 ## I can write standards-compliant, clean object-oriented code
 <details><summary>Logic: writes good quality code (logic) with sound syntax in at least one language</summary>
   <p>Apprentices can write code to achieve the desired functionality and which is easy to read and understand, with good naming, indentation and commenting, and applying the fundamentals of good coding:</p>
