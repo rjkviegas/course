@@ -400,5 +400,28 @@
 </details>
 
 ## My teams succeed
+<details><summary>Understands how teams work effectively to produce software and contributes appropriately</summary>
+  <ul>
+    <li>What are the roles that need to be undertaken</li>
+    <li>How are these roles distributed across a team</li>
+    <li>What team-working aspects are needed to ensure effective delivery of projects</li>
+  </ul>
+</details>
+<details><summary>Ability to work with a range of internal and external people</summary>
+  <ul>
+    <li>Can work with a range of internal and external people</li>
+  </ul>
+</details>
+<details><summary>Ability to communicate effectively in a variety of situations</summary>
+  <ul>
+    <li>Can communicate effectively in a variety of situations</li>
+  </ul>
+</details>
+<details><summary>Maintain a productive, professional and secure working environment</summary>
+  <ul>
+    <li>Can maintain a productive, professional and secure working environment</li>
+  </ul>
+</details>
+
 ## I use an Agile planning process
 ## I use my own initiative
