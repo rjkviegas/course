@@ -138,8 +138,52 @@
 </details>
 
 ## I can deploy web applications
+<details><summary>Deployment: can understand and utilise skills to build, manage and deploy code into enterprise environments</summary>
+  <p> </p>
+  <ul>
+    <li>Can package and build completed programmes as appropriate to the resources available for deployment and for migration to different environments, including:
+      <ul>
+        <li>Developing appropriate user documentation</li>
+        <li>Planning for user training</li>
+        <li>Data migration</li>
+      </ul></li>
+  </ul>
+</details>
+
 ## I can design and build user interfaces
+<details><summary>User interface: can develop effective user interfaces for at least one channel</summary>
+  <ul>
+    <li>Apprentices can apply the fundamental concepts of human-computer interaction or user experience design, the development practices leading to a high-quality user interface, and the programming techniques required to construct a graphical user interface.</li>
+    <li>Can interact with screen or UI designers to ensure the logic layer integrates with the user interface</li>
+    <li>Can develop user interface coding and implementation - techniques for building user interfaces – for at least one channel</li>
+    <li>Can interact with testers to optimise the user interface</li>
+  </ul>
+</details>
+
 ## I create effective documentation
+<details><summary>Understands how teams work effectively to produce software and contributes appropriately</summary>
+  <ul>
+    <li>What are the roles that need to be undertaken</li>
+    <li>How are these roles distributed across a team</li>
+    <li>What team-working aspects are needed to ensure effective delivery of projects</li>
+  </ul>
+</details>
+<details><summary>A thorough and organised approach</summary>
+  <ul>
+    <li>Can be thorough and organised</li>
+  </ul>
+</details>
+<details><summary>Ability to work with a range of internal and external people</summary>
+  <ul>
+    <li>Can work with a range of internal and external people</li>
+  </ul>
+</details>
+<details><summary>Ability to communicate effectively in a variety of situations</summary>
+  <ul>
+    <li>Can communicate effectively in a variety of situations</li>
+  </ul>
+</details>
+
 ## I maintain my software
 ## I help my business succeed
 ## I can work to a specification
