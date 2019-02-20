@@ -54,6 +54,55 @@
 </details>
 
 ## I can use data structures and common algorithms
+<details><summary>Logic: writes good quality code (logic) with sound syntax in at least one language</summary>
+  <p>Apprentices can write code to achieve the desired functionality and which is easy to read and understand, with good naming, indentation and commenting, and applying the fundamentals of good coding:</p>
+  <ul>
+    <li>Development paradigms (where this is object oriented programming this must include inheritance, abstractions, encapsulation, polymorphism)</li>
+    <li>Software programming languages</li>
+    <li>Software development tools (IDEs)</li>
+    <li>Writing programs and methods</li>
+    <li>Language-specific idioms</li>
+    <li>Logic and flow-of-control</li>
+    <li>Elements of programming – variables, assignment statements, data types, conditionals, loops, arrays, and input/output.</li>
+    <li>Functions - modular programming dividing a program into components that can be independently debugged, maintained, and reused writing at least two reusable functions</li>
+    <li>Algorithms and data structures - classical algorithms for sorting and searching, and fundamental data structures.</li>
+  </ul>
+</details>
+<details><summary>Can apply the maths required to be a software developer</summary>
+  <ul>
+    <li>Algorithms</li>
+    <li>Logic</li>
+    <li>Data structures</li>
+  </ul>
+</details>
+<details><summary>Understands and applies the maths required to be a software developer (eg algorithms, logic and data structures)</summary>
+  <ul>
+    <li>Understanding of basic algorithmic processing to define the problem and/or solution</li>
+    <li>Elements of programming logic - variables; assignment statements; data types; conditionals; loops; arrays; and input/output</li>
+    <li>Knowledge of at least two data structures – such as Arrays or Collection Classes</li>
+  </ul>
+</details>
+<details><summary>Logical and creative thinking skills</summary>
+  <p>a. Logical thinking:</p>
+  <ul>
+    <li>Understanding initial premise(s) and preconditions</li>
+    <li>Analysing situations from known facts</li>
+    <li>Recognising the conclusion to be reached</li>
+    <li>Proceeding by rational steps</li>
+    <li>Evaluating information, judging its relevance and value</li>
+    <li>Supporting conclusions, using reasoned arguments and evidence</li>
+  </ul>
+  <p>a. Creative thinking:</p>
+  <ul>
+    <li>Looking at situations from a fresh perspective</li>
+    <li>Exploring ideas and possibilities</li>
+    <li>Making connections between different aspects</li>
+    <li>Questioning assumptions</li>
+    <li>Generating solutions that may be imaginative or unconventional</li>
+    <li>Devising new approaches</li>
+    <li>Adapting ideas and approaches as conditions or circumstances change</li>
+  </ul>
+</details>
 ## I can design a system
 ## I can integrate a database
 ## I can deploy web applications
