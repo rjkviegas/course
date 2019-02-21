@@ -12,7 +12,7 @@
 
 ## Overview of the week
 
-* You'll work in teams to build a [clone of Airbnb](https://github.com/makersacademy/course/blob/master/makersbnb/specification_and_mockups.md). 
+* You'll work in teams to build a [clone of Airbnb](https://github.com/makersacademy/course/blob/master/makersbnb/specification_and_mockups.md).
 
 * You'll organise your own work.
 
@@ -20,7 +20,7 @@
 
 * Use coaches to help unblock you
 
-* Careers sessions begin this week.
+* Careers sessions will begin either this week or next - someone from the careers team will reach out with more details!
 
 ## Goals for the week
 
