@@ -17,21 +17,6 @@ In general you should start with weak evidence and move to strong evidence. Each
 * Send a video of yourself using the skill to a coach and ask them "If I did this in an interview, would it come across well?"
 * Send a codebase you've written to a coach and ask them "If I submitted this as a tech test, do you think I'd get through to the next stage?"
 
-## I understand software
-### Weak evidence (start here)
-* Can you explain the core concepts to yourself?
-* Can you draw a diagram of how things work?
-* Can you understand a simple program someone else wrote using these concepts?
-
-### Moderate evidence
-* Explain the core concepts to someone who's been doing it longer, do they agree?
-* Make a list of questions you'd expect someone who understood the subject to be able to answer. Answer them and ask someone experienced to review your answers.
-* Go through a complex program involving these concepts and explain everything that is going on to someone else. Do they understand?
-
-### Strong evidence
-* Go through a complex program involving these concepts and explain everything that is going on to someone else. Do they understand?
-* Go through a complex program involving these concepts with a coach and explain everything that is going on. Ask a coach "If I said this in an interview, would my interviewer think I understood what I was talking about?"
-
 ## My teams succeed
 ### Weak evidence (start here)
 * Can you explain how a software team should work? What responsibilities it has and how it executes them?
@@ -55,15 +40,23 @@ In general you should start with weak evidence and move to strong evidence. Each
 * Ask a coach to observe you pairing. Ask them "If we paired like this in an interview, would the interviewer be impressed?"
 * Ask a member of your team, frankly, whether this is the best team they've worked on at Makers. If it isn't, why not?
 
-
-## I love what I do
+## I am equipped for long term growth
 ### Weak evidence (start here)
-* Explain your direction in the software industry to someone and why it's important to you.
 * Do you feel like you know where you need to get to by the end of the course, and how you're going to get there?
+* Can you explain the core concepts to yourself?
+* Can you draw a diagram of how things work?
+* Can you understand a simple program someone else wrote using these concepts?
+* Explain your direction in the software industry to someone and why it's important to you.
 * Have a conversation about a technical topic you're interested in. Does it feel compelling?
 
-### Moderate & strong evidence
-* You know what to do here — set your own goals and take action to achieve them! :)
+### Moderate evidence
+* Explain the core concepts to someone who's been doing it longer, do they agree?
+* Make a list of questions you'd expect someone who understood the subject to be able to answer. Answer them and ask someone experienced to review your answers.
+* Go through a complex program involving these concepts and explain everything that is going on to someone else. Do they understand?
+
+### Strong evidence
+* Go through a complex program involving these concepts and explain everything that is going on to someone else. Do they understand?
+* Go through a complex program involving these concepts with a coach and explain everything that is going on. Ask a coach "If I said this in an interview, would my interviewer think I understood what I was talking about?"
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/goals/progress_insight.md)
