@@ -6,10 +6,10 @@ If you have any questions, just ask!
 
 ### Morning
 
-* 08.30 - 09.30 Breakfast
-* 09.30 - 10.00 _Welcome to Makers_ 
-* 10.00 - 10.15 _Code of Conduct_ 
-* 10.30 - 11.30 _Wellbeing at Makers + Tour of the Building_ 
+* 09.00 - 09.30 Breakfast
+* 09.30 - 10.00 _Getting to know each other_  
+* 10.00 - 10.45 _Cultural Exchanges_ 
+* 11.00 - 11.30 _Treehouse Tour_
 * 11.30 - 12.00 _Receive and set up laptops_
 * 12.00 - 13.00 **Lunch** here are some options for you:
   * [Whitecross St Market](http://www.bitecross.co.uk/)
@@ -20,10 +20,12 @@ If you have any questions, just ask!
 
 ### Afternoon
 
-* 13.00 - 15.00 [Pairing challenges](https://github.com/makersacademy/skills-workshops/tree/master/week-1/pairing_challenges) 
-* 15.00 - 16.00 _[Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md)_ 
-* 16.30 - 17.00 Life at Makers_ 
-* 17.30 - 18.30 **Hang out & eat pizza** (1st Floor Kitchen)
+* 13.00 - 13.45 _Problem solving through testing_ 
+* 13.45 - 14.00 _Tokens challenge_ 
+* 14.15 - 15.00 _Skill Hunting challenge_ 
+* 15.00 - 15.15 _Meet the coaches_
+* 15.30 - 16.30 _Year in Preview_
+* 16.30+ _Social_
 
 ## Code of conduct
 
@@ -31,7 +33,7 @@ Make sure to read the [code of conduct guide](https://github.com/makersacademy/c
 
 ## Succeeding at Makers
 
-Read [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md) for an outline of what success means here, and how to engage with that (including schedules).
+Read [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md) for an outline of what success means here, and how to engage with that.
 
 ## Health and safety
 
