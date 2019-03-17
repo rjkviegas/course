@@ -1,5 +1,7 @@
 **Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These include careers and code quality. They are not the topic of any one week, and you will miss them out unless you think of them regularly!
 
+**Remember: [Success at Makers](https://github.com/makersacademy/course/tree/master/goals)** means understanding how to build a [compelling portfolio](https://docs.google.com/document/d/1OgthVQ5EkdibC_vvhyEOuQwoOw0Wcr83e74MU02A69c/edit) throughout these three months demonstrating to yourself you've achieved the course goals.
+
 ## Week 1
 
 By the end of the week all developers can:
@@ -47,6 +49,8 @@ By the end of the week all developers can:
 * Review another person's code and give them meaningful feedback
 
 Some developers may notice they are completing the work easier than their peers and ease off the effort here. They should be identified and pushed to have their code reviewed to a professional standard to make best use of the time available.
+
+Start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend. 
 
 ### Challenges
 
@@ -153,7 +157,9 @@ A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app
 
 ## Week 6
 
-By the end of the week all developers will have had a [mini Review](./pills/W6_Review.md) with a coach and received feedback on their learning progress.
+If you haven't already, start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
+
+By this point you should have a clear understanding of [how to build your portfolio](https://docs.google.com/document/d/1OgthVQ5EkdibC_vvhyEOuQwoOw0Wcr83e74MU02A69c/edit). Mid-week a coach will run a [portfolio workshop]() to answer any questions.
 
 By the end of the week all developers can build tested, easy-to-change software in a team using these processes:
 
