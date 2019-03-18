@@ -48,7 +48,7 @@ end
 
 First, we require Sinatra. This allows us to call the `#get` method passing `'/'` as an argument.
 
-What this method does is tell Sinatra to respond to a `GET` HTTP request to the path `/` (which happens whatever the user visits `http://localhost:4567`) and return the result of executing the block, in this case the string 'hello!':
+What this method does is tell Sinatra to respond to a `GET` HTTP request to the path `/` (which happens whenever the user visits `http://localhost:4567`) and return the result of executing the block, in this case the string 'hello!':
 
 1. The browser requests page `/` (`http://localhost:4567/`)
 2. Sinatra activates the block defined by the `get '/' do` method call
