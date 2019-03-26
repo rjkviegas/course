@@ -16,7 +16,7 @@ Here are some questions to ask yourself - a coach will pose them to a learner - 
 - Is your goal clearly defined and reasonable in scope?
 
 ### Plan
-- What's your plan to get to you goal and is it reasonably achievable?
+- What's your plan to get to your goal and is it reasonably achievable?
 
 ### Self-Assessment
 - How did your plan go?
