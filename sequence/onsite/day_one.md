@@ -8,18 +8,15 @@ If you have any questions, just ask!
 
 * 08.30 - 09.30 Breakfast :coffee:(2nd Floor Kitchen)
 * 09.30 - 11.00 _Welcome to Makers_ (2nd Floor)
-* 11.00 - 11.20 Get your laptops :computer: and t-shirts (3rd Floor)
-* 11.30 - 12.30 _Life at Makers_ by Dana (2nd Floor)
+* 11.00 - 12.30 _Life at Makers_ by Dana (2nd Floor)
 * 12.30 - 13.30 **Lunch** (here are some [options](https://github.com/makersacademy/course/blob/master/pills/lunch_near_makers.pdf))
 
 ### Afternoon
 
 * 13.30 - 14.00 Meditation (2nd Floor)
-* 14.00 - 14.15 Ops team introduction (2nd Floor)
-* 14.15 - 15.00 _[Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md)_(2nd Floor) by Ed, Head of Coaching
-* 15.00 - 15.20 Introduction to staff members (Careers, Marketing) (2nd Floor)
-* 15:20 - 15:30 Meet the coaches (2nd Floor)
-* 15.30 - 17.30 [Pairing exercise](https://github.com/makersacademy/pairing_exercises) (3rd Floor)
+* 14.00 - 14.30 Meet the coaches!
+* 14.30 - 15.00 Get your laptops :computer: and t-shirts (3rd Floor)
+* 15:00 - 17:30 [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md)_(2nd Floor) by Ed, Head of Coaching
 * 17.30 - 18.30 **Hang out & eat pizza** (2nd Floor Kitchen)
 
 ## Code of conduct
