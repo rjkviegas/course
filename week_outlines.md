@@ -1,6 +1,6 @@
 **Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These include careers and code quality. They are not the topic of any one week, and you will miss them out unless you think of them regularly!
 
-**Remember: [Success at Makers](https://github.com/makersacademy/course/tree/master/goals)** means understanding how to build a [compelling portfolio](https://docs.google.com/document/d/1OgthVQ5EkdibC_vvhyEOuQwoOw0Wcr83e74MU02A69c/edit) throughout these three months demonstrating to yourself you've achieved the course goals.
+**Remember: [Success at Makers](https://github.com/makersacademy/course/tree/master/goals)** means understanding how to [reflect on your learning](https://github.com/makersacademy/course/blob/master/goals/reflective_learning.md) throughout these three months in order to demonstrate to yourself you've achieved the course goals.
 
 ## Week 1
 
