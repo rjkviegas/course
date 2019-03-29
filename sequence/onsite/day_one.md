@@ -47,7 +47,7 @@ Read [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/
 
 ### Getting your laptop (onsite cohorts)
 
-At 11.00 on the first day, go to the 3rd floor and ask for Jess, Jodi or Sarah. You can take the lift or the stairs to the 3rd floor.
+At 14.30 on the first day, go to the 3rd floor and ask for Jess, Jodi or Sarah. You can take the lift or the stairs to the 3rd floor.
 
 ### Setting up your laptop
 
