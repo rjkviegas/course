@@ -11,7 +11,7 @@ The website will have the following **specification**:
 * Comment on bookmarks
 * Tag bookmarks into categories
 * Filter bookmarks by tag
-* Users manage their bookmarks
+* Users are restricted to manage only their own bookmarks
 
 > A specification is a list of **requirements**.
 
