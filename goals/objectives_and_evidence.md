@@ -1,5 +1,5 @@
 | Type of Objective | Examples of Evidence  
-|-
+| --- | ---
 | Knowledge | Reports of knowledge acquired, as in essays, examinations, oral presentations, audiovisual presentations; annotated bibliographies.
 | Understanding | Examples of utilisation of knowledge in solving problems, as in action projects, research projects with conclusions and recommendations, plans for curriculum change, etc.
 | Skills | Performance exercises, video-taped performances, etc, with ratings by observers
