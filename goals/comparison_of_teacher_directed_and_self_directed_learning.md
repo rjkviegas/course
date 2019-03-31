@@ -4,7 +4,7 @@
 
 
 | About | Teacher-directed learning  | Self-directed learning
-|-
+| --- | --- | ---
 | Concept of the learner | Dependent personality | Increasingly self-directed organism
 | Role of learner's experience | To be built on more than used | A rich resource for learning
 | Readiness to learn | Varies with levels of maturation | Develops from life tasks and problems
@@ -16,7 +16,7 @@
 
 
 | Elements | Teacher-directed learning  | Self-directed learning
-|-
+| --- | --- | ---
 | Climate | Formal, authority-oriented, competitive, judgmental | Informal, mutually respectful, consensual, collaborative, Supportive
 | Planning | Primarily by teacher | By participative decision-making
 | Diagnosis of needs | Primarily by teacher | By mutual assessment
