@@ -25,9 +25,11 @@ In the event of a fire:
 FIRST AID
 --------
 
-* If somebody gets injured, get help from one of the first aiders - Dana, Jess, Chloe, Nikesh.
+* If somebody gets injured, get help from one of the first aiders - Dana or Nikesh.
 
 * There are first aid boxes on the 3rd floor.
+
+If you have any questions related to fire safety, first aid, or general health & safety, please direct them to our health & safety officers Jess or Chloe.
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/health_and_safety.md)
