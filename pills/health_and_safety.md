@@ -18,7 +18,7 @@ In the event of a fire:
 
 * Don't stop to collect personal belongings.
 
-* Follow the instructions of the Fire Marshals (Nikesh, Roi, Emily & Dana) to leave the building, fire exit signs and do not use lifts.
+* Follow the instructions of the Fire Marshals (Edward, Alice, Emily & Dana) to leave the building, fire exit signs and do not use lifts.
 
 * Assembly point is in the corner of Thrawl Street and Commercial Street - turn right out of the front door.
 
