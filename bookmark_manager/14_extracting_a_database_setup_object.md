@@ -29,7 +29,7 @@ In this stage you'll make a first step towards making your own ORM!
 ## To complete this challenge, you will need to
 
 - [ ] Test-drive a new class, `DatabaseConnection`, with two methods:
-  - [ ] `DatabaseConnection.setup` is a class method. It takes one parameter: a database name. It should set up a connection to that database, which is saved as a class instance variable in `Database`.
+  - [ ] `DatabaseConnection.setup` is a class method. It takes one parameter: a database name. It should set up a connection to that database, which is saved as a class instance variable in `DatabaseConnection`.
   - [ ] `DatabaseConnection.query` is a class method. It takes one parameter: an SQL query string. It should use the class instance variable from `setup` to execute that SQL query string on the correct database, via `pg`.
 - [ ] Write a setup script that runs when the application boots, which calls `DatabaseConnection.setup` with the correct database for the environment.
 - [ ] Replace calls to `PG.connect` and `connection.exec` in `Bookmark` with your new `DatabaseConnection` wrapper class.
