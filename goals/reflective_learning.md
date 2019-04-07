@@ -17,7 +17,7 @@ Here are some questions to ask yourself - a coach will pose them to a learner - 
 - Are there any other goals to usefully consider?
 
 ### Plan
-- What's your plan to get to you goal and is it reasonably achievable?
+- What's your plan to get to your goal and is it reasonably achievable?
 - What learning strategies and resources are you considering using?
 - Is the evidence you plan to collect relevant and would it be convincing?
 - Is there any other evidence to usefully consider?
@@ -35,4 +35,4 @@ Here are some questions to ask yourself - a coach will pose them to a learner - 
 ### Portfolio
 - Do you know what a compelling portfolio looks like?
 - Do you know what the course goal `xyz` means?
-- Do you know the difference between credible, moderate, and personal evidence?
+- Do you know the difference between credible, empirical, and personal evidence?
