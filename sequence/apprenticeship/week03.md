@@ -6,44 +6,25 @@
 
 #### Friday
 
-[Challenges Friday schedule](./challenges_friday_schedule.md)
+Friday Challenge
 
-## Remote Structure
+### Afternoons
+[Boris Bikes](../../boris_bikes/00_challenge_map.md)
 
-#### Monday
-10:00am - Week 3 Kickoff
+### Mornings
 
-Morning - Client / Server Exercises
+Each of the exercises in the table below will link you to a project with further details. The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel you need more practice with.
 
-Afternoon - [Battle](../../intro_to_the_web)
+Please **do not** proceed on to the next core exercise until you have validated the previous one, receiving feedback from a coach or another member of the cohort.
 
-#### Tuesday
-10:00am - Takeaway Code Review
+|Key Skill|Core Exercise|Optional Exercises| 
+|---|---|---|
+|Writing Tests   |[Writing Unit Tests](https://diode.makersacademy.com/students/samjones1001/projects/2287)   |[Testing Relationships Between Classes](https://diode.makersacademy.com/students/EdwardAndress/projects/975)   |
+|Test Driving A Single Object   |[Test Drive a Dice Class](https://diode.makersacademy.com/students/alicelieutier/projects/813)   |[Diagram Your TDD Process](https://diode.makersacademy.com/students/alicelieutier/projects/812)|
+|   |   |[Test Driving Practical](https://diode.makersacademy.com/students/samjones1001/projects/2288) |
+|Test Driving Multiple Objects   |[Test Drive a Notes App](https://diode.makersacademy.com/students/neoeno/projects/13)   |[Simple Checkout](https://diode.makersacademy.com/students/samjones1001/projects/317)
+|Isolating Unit Tests   |[Dependency Injection Practical](https://diode.makersacademy.com/students/soph-g/projects/645)   |Isolate Note App / Simple Checkout Tests
 
-11:00am - [Understanding the Request/Response Cycle](https://github.com/makersacademy/skills-workshops/tree/master/week-3/process_modelling)
-
-Morning - [Birthday Greeter App](https://diode.makersacademy.com/students/alicelieutier/projects/439)
-
-Afternoon - [Battle](../../intro_to_the_web)
-
-#### Wednesday
-10:00am - [Debugging Web Apps](https://github.com/makersacademy/skills-workshops/tree/master/week-3/debugging_2)
-
-Morning - [Birthday Greeter App](https://diode.makersacademy.com/students/alicelieutier/projects/439)
-
-Afternoon - [Battle](../../intro_to_the_web)
-
-#### Thursday
-Morning - [Diagram the http request/response cycle](https://diode.makersacademy.com/students/alicelieutier/projects/415)
-
-Afternoon - [Battle](../../intro_to_the_web)
-
-#### Friday
-11:00am - Retro
-
-Morning - Friday Challenge
-
-Afternoon - Friday Challenge
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/apprenticeship/week03.md)
