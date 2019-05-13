@@ -9,7 +9,7 @@
 Friday Challenge
 
 ### Afternoons
-[Boris Bikes](../../boris_bikes/00_challenge_map.md)
+[Boris Bikes](../../boris_bikes/0_challenge_map.md)
 
 ### Mornings
 
