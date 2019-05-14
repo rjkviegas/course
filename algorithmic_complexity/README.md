@@ -109,6 +109,7 @@ Common operations might be more expensive than you think. By checking how differ
 * [Arrays](https://www.interviewcake.com/concept/python/array?) and [Dynamic Arrays](https://www.interviewcake.com/concept/python/dynamic-array)
 * [Introduction to ruby hashes (an example of hash tables)](https://launchschool.com/blog/how-the-hash-works-in-ruby
 )
+* [An explanation of hashtables that has you build one in ruby](https://www.rubyguides.com/2017/02/hash-tables-explained/)
 
 #### 2. Change the structure of your algorithm
 
