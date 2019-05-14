@@ -111,6 +111,10 @@ Common operations might be more expensive than you think. By checking how differ
 )
 * [An explanation of hashtables that has you build one in ruby](https://www.rubyguides.com/2017/02/hash-tables-explained/)
 
+- [ ] Looking at your less efficient algorithms, can you spot operations that have a high hidden cost?
+- [ ] Would some of your algorithms benefit from using a different data structure?
+- [ ] Challenge yourself to write linear functions for _shuffling_, _reversing_, _find duplicates_, _most frequent words_ and _sorting 0s and 1s_
+
 #### 2. Change the structure of your algorithm
 
 Notice parts of your algorithm that repeat the same operations on the same elements. Is there a way you can only do these operations once?
@@ -120,9 +124,7 @@ There are as many ways to do this as there are problems. However, one common tec
 **Resources**:
 * [Divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm) on Wikipedia
 
-- [ ] Using these two axes, try to make some of your algorithms more efficient.
-  * Is it possible?
-  * Can you make them as efficient as the built-in functions?
+- [ ] Can you use this to make some of your algorithms more efficient? Which ones?
 
 #### Optimising:
 
