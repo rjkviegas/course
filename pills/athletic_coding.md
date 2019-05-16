@@ -13,7 +13,6 @@ The idea can be extended to an athletic pairing using a pairing protocol such as
 Resources
 --------
 
-* [Talk: When students sprint: Experiences with athletic software engineering](http://philipmjohnson.org/talks/athletic/)
 * [Athletic Software Engineering Education](https://philipmjohnson.org/essays/athletic-software-engineering.html)
 * [Athletic Software Engineering Education: Initial Results](https://philipmjohnson.org/essays/ase-initial-results.html)
 
