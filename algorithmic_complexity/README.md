@@ -119,12 +119,15 @@ Common operations might be more expensive than you think. By checking how differ
 
 Notice parts of your algorithm that repeat the same operations on the same elements. Is there a way you can only do these operations once?
 
-There are as many ways to do this as there are problems. However, one common technique which is useful to know about is **divide & conquer**. This is a technique by which you reduce a problem to several smaller problems, which in turn can be reduced to several smaller problems and so on, until the problems are so small they become trivial to solve.
+There are as many ways to do this as there are problems. However, one common technique which is useful to know about is **divide & conquer**. This is a technique by which you reduce a problem to several smaller problems, which in turn can be reduced to several smaller problems and so on, until the problems are so small they become trivial to solve. Implementing this will often include recursion - but that is not necessary.
+
+Efficient sorting algorithm will usually use this principle to be made faster.
 
 **Resources**:
 * [Divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm) on Wikipedia
+* [Recursion Demystified](https://medium.freecodecamp.org/recursion-demystified-99a2105cb871)
 
-- [ ] Can you use this to make some of your algorithms more efficient? Which ones?
+- [ ] Can you use this to make you sorting algorithm faster?
 
 #### Optimising:
 
@@ -170,6 +173,7 @@ Some programmes could be very time efficient, but allocate tons of memory.
 * [A guide to big O notation and complexity](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?)
 * [A podcast about algorithmic complexity, with some great notes](https://www.codingblocks.net/podcast/what-is-algorithmic-complexity/)
 * [An article going about guessing complexity from looking at the code](https://developerinsider.co/big-o-notation-explained-with-examples/amp/)
+* [The Imposter's Handbook - A book explaining CS concept for self-taught programmers](https://bigmachine.io/products/the-imposters-handbook/)
 
 * A few projects done by previous cohort members that you can check:
   * https://github.com/DamoH/algorithmic-complexity (some Ruby and Java)
