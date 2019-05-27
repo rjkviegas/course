@@ -16,7 +16,7 @@ If you have any questions, just ask!
 * 13.30 - 14.00 Meditation (2nd Floor)
 * 14.00 - 14.30 Meet the coaches!
 * 14.30 - 15.00 Get your laptops :computer: and t-shirts (3rd Floor)
-* 15:00 - 17:30 _[Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md)_(2nd Floor) by Ed, Head of Coaching
+* 15:00 - 17:30 _[Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md)_(2nd Floor)
 * 17.30 - 18.30 **Hang out & eat pizza** (2nd Floor Kitchen)
 
 ## Code of conduct
