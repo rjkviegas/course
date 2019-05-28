@@ -6,7 +6,7 @@ In self-directed learning, one of the important aspects is to keep track of your
 * [Diode](https://diode.makersacademy.com/) is a tool that allows you to keeps notes of projects you are working on and link them to the goals of the course.
 
 
-## Examples from Makers devs
+## Other examples from Makers devs
 Here are other tools Makers developers have used to track their learnings and reflections along the way:
 
 * Masha (March 2019) has been using [Bear](https://bear.app/):
