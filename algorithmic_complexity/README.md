@@ -72,8 +72,8 @@ Common operations might be more expensive than you think. By checking how differ
 
 **Resources**:
 * [Here’s a table that shows the cost of operations on different data structures](https://en.wikipedia.org/wiki/Dynamic_array#Performance)
-* [More on hashtables](https://www.interviewcake.com/concept/java/hash-map)
 * [Arrays](https://www.interviewcake.com/concept/python/array?) and [Dynamic Arrays](https://www.interviewcake.com/concept/python/dynamic-array)
+* [More on hashtables](https://www.interviewcake.com/concept/java/hash-map)
 * [Introduction to ruby hashes (an example of hash tables)](https://launchschool.com/blog/how-the-hash-works-in-ruby
 )
 * [An explanation of hashtables that has you build one in ruby](https://www.rubyguides.com/2017/02/hash-tables-explained/)
