@@ -82,6 +82,8 @@ Common operations might be more expensive than you think. By checking how differ
 - [ ] Would some of your algorithms benefit from using a different data structure?
 - [ ] Challenge yourself to write linear functions for _shuffling_, _reversing_, _find duplicates_, _most frequent words_ and _sorting 0s and 1s_
 
+Here is a [practical](https://github.com/makersacademy/skills-workshops/blob/master/week-10-apprs/make_algorithms_faster_practical.md) to practice spotting hidden cost and making algorithms faster.
+
 #### 2. Change the structure of your algorithm
 
 Notice parts of your algorithm that repeat the same operations on the same elements. Is there a way you can only do these operations once?
