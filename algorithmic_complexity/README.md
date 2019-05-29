@@ -42,54 +42,21 @@ For more pointers on how to time code, here's a more [detailed document](./timin
 ### Build your own algorithms
 
 Now, let's look at efficiency for our own algorithms.
+Here is [a list of algorithms](./exercises.md) for you to implement.
 
-For each of these, you should:
+For each algorithm you write, you should:
 - [ ] Write a few tests (covering different cases)
 - [ ] Implement them
 - [ ] Run your timing framework
 - [ ] Plot their curves
 
-Compare the shapes of different curves.
-
+Once you have written a few, compare the shapes of different curves.
 - [ ] How can you characterise the efficiency of different algorithms?
 - [ ] Which algorithms seem more efficient?
 - [ ] How do they scale?
 
-Here are a the algorithms you should implement:
-
-#### Shuffling
-Implement your own algorithm for shuffling (you cannot use `.shuffle`).
-
-#### Reversing
-Implement your own algorithm for reversing an array (you cannot use `.reverse`).
-
-#### Mechacoach Pairing
-Given a list of students names, create all possible pairings.
-
-#### Find Duplicates
-Given a list of words, find all words that appear more than once.
-
-#### Most frequent words
-Given a list of words, find which are the two most common words.
-
-#### Sorting 0s and 1s
-Given an array containing only 0s and 1s, sort it.
-
-#### Sorting
-Implement your own algorithm for sorting an array (you cannot use `.sort`).
-
-#### Sub-sequence sum
-Given an array of integers and a target number, find if there exist a sequence of numbers that sum up to the target.
-
-For example:
-
-| array | target | expected return |
-|-------|--------|--------------|
-|`[10,3,1,7]`|`8`| should return `true` (because 1+7 = 8) |
-|`[10,3,1,7]`|`10`| should return `true` (because 10 is in the array) |
-|`[10,3,1,7]`|`21`| should return `true` (because the sum of the whole array return 21) |
-|`[10,3,1,7]`|`22`| should return `false` (because you can't reach 22 by summing all numbers) |
-|`[10,3,1,7]`|`17`| should return `false` (because 10 and 7 are not next to each other) |
+**Resources**:
+* [A workshop about algorithm design](https://github.com/makersacademy/skills-workshops/tree/master/week-10-apprs/writing-algorithms)
 
 ### Making algorithms more efficient
 
