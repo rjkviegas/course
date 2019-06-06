@@ -51,9 +51,8 @@ For each algorithm you write, you should:
 - [ ] Plot their curves
 
 Once you have written a few, compare the shapes of different curves.
-- [ ] How can you characterise the efficiency of different algorithms?
-- [ ] Which algorithms seem more efficient?
-- [ ] How do they scale?
+- [ ] How can you characterise the complexity of different algorithms?
+- [ ] Which algorithms are more efficient?
 
 **Resources**:
 * [A workshop about algorithm design](https://github.com/makersacademy/skills-workshops/tree/master/week-10-apprs/writing-algorithms)
