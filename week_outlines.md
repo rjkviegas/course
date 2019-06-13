@@ -24,6 +24,7 @@ These can be used by the devs independently, or enhanced by a coach delivering a
 * [Debugging Approaches](https://diode.makersacademy.com/students/dearshrewdwit/projects/832)
 * [Git collaboration](https://diode.makersacademy.com/students/dearshrewdwit/projects/2702)
 * [Encapsulation](https://diode.makersacademy.com/students/dearshrewdwit/projects/2703)
+* [Testing behaviour rather than state](https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md)
 
 ### Resources
 
