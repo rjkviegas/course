@@ -18,7 +18,7 @@ Additionally, we will use **shotgun** to speed up our development process.
 - [ ] Visit the new route in the browser. Do you see the message you wrote? If not, move on.
 - [ ] Kill the app on the command line with `ctrl-c` and run it again.
 - [ ] Visit the new route in the browser again. Do you see the message you wrote this time?
-- [ ] Manually restarting the server every time you change your code is going to get painful. Install and run your server using the `shotgun` gem instead.
+- [ ] Manually restarting the server every time you change your code is going to get painful. Install and run your server using the `shotgun` gem instead. **BEWARE**, when you are using `shotgun` with Sinatra, each time your server restarts your sessions will be lost, to solve this problem you need to follow these [instructions] (https://groups.google.com/forum/#!topic/sinatrarb/pUFSoyQXyQs). You can also find these in the Shotgun Documentation under **Caveats**.
 - [ ] Define a few more routes. Without killing the server, check if the routes are visitable.
 
 ### Resources
