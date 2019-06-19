@@ -31,6 +31,7 @@ These can be used by the devs independently, or enhanced by a coach delivering a
 * [The 4 phases of a test](https://robots.thoughtbot.com/four-phase-test)
 * [The three laws of TDD](http://programmer.97things.oreilly.com/wiki/index.php/The_Three_Laws_of_Test-Driven_Development)
 * [Encapsulation on Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29)
+* [Technical Learning Resources](https://airtable.com/shrIlMSX4PrGxuSfT/tblokmw6yNUO75ge6?blocks=hide)
 
 ### Skills workshops
 
@@ -51,7 +52,7 @@ By the end of the week all developers can:
 
 Some developers may notice they are completing the work easier than their peers and ease off the effort here. They should be identified and pushed to have their code reviewed to a professional standard to make best use of the time available.
 
-Start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend. 
+Start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
 
 ### Challenges
 
@@ -69,6 +70,9 @@ Start attending [process workshops](https://github.com/makersacademy/skills-work
 * [Testing OO Relationships](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/testing_relationships.md)
 * [Learning by building RSpec](https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md)
 * [Refactoring with OO](https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/refactoring.md)
+
+### Resources
+* [Technical Learning Resources](https://airtable.com/shrr9VqhGBzPyfa7E/tblokmw6yNUO75ge6?blocks=hide)
 
 ### Skills workshops
 
@@ -98,6 +102,9 @@ By the end of the week all developers can:
 * [Clients](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md)
 * [HTTP Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md)
 
+### Resources
+* [Technical Learning Resources](https://airtable.com/shrlqxQm2BeUDvFyp/tblokmw6yNUO75ge6?blocks=hide)
+
 ### Skills workshops
 
 * [Modelling the request/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/week-3/process_modelling)
@@ -120,6 +127,9 @@ By the end of the week all developers can:
 
 * [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md)
 * [SQLZoo](https://sqlzoo.net/)
+
+### Resources
+* [Technical Learning Resources](https://airtable.com/shrGPJMHNfr7p9iAo/tblokmw6yNUO75ge6?blocks=hide)
 
 ### Skills workshops
 
@@ -144,6 +154,12 @@ By the end of the week all developers can:
 * [JS Objects & Prototypes](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww)
 * [Closures](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q)
 
+### Resources
+
+* [Count app](https://github.com/maryrosecook/count):
+A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app. A useful guide for developers to use for concepts and idioms.
+* [Technical Learning Resources](https://airtable.com/shrbaXgV5mQnsvuGe/tblokmw6yNUO75ge6?blocks=hide)
+
 ### Skills workshops
 
 * [Encapsulation with the constructor & prototype pattern](https://github.com/makersacademy/skills-workshops/tree/master/week-5/encapsulation_with_constructor_and_prototype_pattern)
@@ -151,10 +167,6 @@ By the end of the week all developers can:
 * [Following the Ajax request/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_ajax_request_response_cycle)
 * [Callbacks and following the flow of control](https://github.com/makersacademy/skills-workshops/tree/master/week-5/callbacks_following_the_flow_of_control)
 
-### Resources
-
-* [Count app](https://github.com/maryrosecook/count):
-A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app. A useful guide for developers to use for concepts and idioms.
 
 ## Week 6
 
@@ -174,6 +186,9 @@ By the end of the week all developers can build tested, easy-to-change software 
 
 * [Weekdays - MakersBnB](https://diode.makersacademy.com/students/neoeno/projects/34)
 * [Weekend - Bowling again](https://diode.makersacademy.com/students/neoeno/projects/32)
+
+### Resources
+* [Technical Learning Resources](https://airtable.com/shrxLK3dcqRz9VssB/tblokmw6yNUO75ge6?blocks=hide)
 
 
 ## Week 7
@@ -204,6 +219,9 @@ Note: they get the choice of morning goals / afternoon challenges vs all day pro
 * [Reading beyond your level](https://hackmd.io/F-pmnp3hRhePddmf3mnKGw)
 * [Reasoning about JS using frames](https://hackmd.io/cnH7BqucQ7yzqnLiqmizXw)
 
+### Resources
+* [Technical Learning Resources](https://airtable.com/shrfvOQf2zZNGUhk8/tblokmw6yNUO75ge6?blocks=hide)
+
 ### Skills workshops
 
 * [Javascript module pattern](https://github.com/makersacademy/skills-workshops/tree/master/week-7/javascript-module-pattern-workshop)
@@ -212,9 +230,21 @@ Note: they get the choice of morning goals / afternoon challenges vs all day pro
 
 See: [Engineering project](./engineering_projects/README.md)
 
+### Resources
+* [Technical Learning Resources](https://airtable.com/shr7fqpJ4ZbCOvvFO/tblokmw6yNUO75ge6?blocks=hide)
+
 ## Week 10
 
 See: [Individual challenges](./individual_challenges)
 
+### Resources
+* [Technical Learning Resources](https://airtable.com/shrJ9tJJ6bC6solFb/tblokmw6yNUO75ge6?blocks=hide)
+
+## Week 11-12
+
+See [Final Project](./final_projects)
+
+### Resources
+* [Technical Learning Resources](https://airtable.com/shraRf6mlRUzf4oDS/tblokmw6yNUO75ge6?blocks=hide)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/week_outlines.md)
