@@ -6,7 +6,7 @@ If you have any questions, just ask!
 
 ### Morning
 
-* 08.30 - 09.30 Breakfast :coffee:(2nd Floor Kitchen)
+* 09.00 - 09.30 Breakfast :coffee:(2nd Floor Kitchen)
 * 09.30 - 11.00 _Welcome to Makers_ (2nd Floor)
 * 11.00 - 12.30 _Life at Makers_ by Dana (2nd Floor)
 * 12.30 - 13.30 **Lunch** (here are some [options](https://github.com/makersacademy/course/blob/master/pills/lunch_near_makers.pdf))
@@ -32,6 +32,8 @@ Read [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/
 [A summary](https://github.com/makersacademy/course/blob/master/pills/health_and_safety.md).
 
 ## Facilities
+
+The building is open from 08.30 - 19.00, Monday - Friday
 
 [Facilities](https://github.com/makersacademy/course/blob/master/pills/facilities.md).
 
