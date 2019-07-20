@@ -2,16 +2,18 @@
 
 ***Please note, we're constantly iterating on aspects of the course so there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
 
-* Unit 1: Basic Programming I – command line and git
-* Unit 2: Basic Programming II - procedural programming
-* Unit 3: [Test Driven Development (TDD): Boris Bikes](boris_bikes/0_challenge_map.md)
-* Unit 4: [Object Oriented Design (OOD): Oystercard](oystercard/README.md)
-* Unit 5: [Welcome to the web: Battle in the browser](intro_to_the_web)
-* Unit 6: [Welcome to databases: Bookmark Manager](bookmark_manager/00_challenge_map.md)
-* Unit 7: [Learn a new language: Javascript](thermostat/README.md)
-* Unit 8: [Model a professional engineering team: Engineering Project I](engineering_projects/README.md)
-* Unit 9: [Measure and improve performance](https://github.com/makersacademy/course/blob/master/algorithmic_complexity/README.md)
-* Unit 10: [Design and implement an entire application from scratch: Enginering Project II](final_projects/README.md)
+| Unit  | Name | Description | Challenge |
+| --- | --- | --- | --- |
+| 1 | Basic Programming I | Master the command line and git | [The command line mystery](https://github.com/makersacademy/clmystery) |
+| 2 | Basic Programming II | Master procedural programming | [Student Directory](https://github.com/makersacademy/student-directory/blob/master/README.md)|
+| 3 | TDD | Test driven development | [Boris Bikes](boris_bikes/0_challenge_map.md) |
+| 4 | OOD | Object Oriented Design | [Osytercard](oystercard/README.md) |
+| 5 | The web| Learn how the web works | [Intro to the web](intro_to_the_web/README.md) |
+| 6 | Databases| Learn how to integrate a DB | [Bookmark Manager](bookmark_manager/00_challenge_map.md) |
+| 7 | Learn a new language | Develop a strategy for learning a new language | [Learn Javascript](thermostat/README.md) |
+| 8 | Engineering project I | Build a pre-defined an application in a team | [Acebook](engineering_projects/README.md) |
+| 9 | Performance | Make your code, and your program, more efficient | [Algorithmic complexity](algorithmic_complexity/README.md) |
+| 10 | Engineeing project II | Design and build your own application, in a team | [Final project](final_projects/README.md) |
 
 ## Supporting Materials
 
