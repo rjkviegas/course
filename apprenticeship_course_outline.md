@@ -10,7 +10,7 @@
 * Unit 6: [Welcome to databases: Bookmark Manager](bookmark_manager/00_challenge_map.md)
 * Unit 7: [Learn a new language: Javascript](thermostat/README.md)
 * Unit 8: [Model a professional engineering team: Engineering Project I](engineering_projects/README.md)
-* Unit 9: [Measure and improve performance](individual_challenges/README.md)
+* Unit 9: [Measure and improve performance](https://github.com/makersacademy/course/blob/master/algorithmic_complexity/README.md)
 * Unit 10: [Design and implement an entire application from scratch: Enginering Project II](final_projects/README.md)
 
 ## Supporting Materials
