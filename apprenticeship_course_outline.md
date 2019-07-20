@@ -11,7 +11,7 @@
 | 5 | The web| Learn how the web works | [Intro to the web](intro_to_the_web/README.md) |
 | 6 | Databases| Learn how to integrate a DB | [Bookmark Manager](bookmark_manager/00_challenge_map.md) |
 | 7 | Learn a new language | Develop a strategy for learning a new language | [Learn Javascript](thermostat/README.md) |
-| 8 | Engineering project I | Build a pre-defined an application in a team | [Acebook](engineering_projects/README.md) |
+| 8 | Engineering project I | Build a pre-defined application in a team | [Acebook](engineering_projects/README.md) |
 | 9 | Performance | Make your code, and your program, more efficient | [Algorithmic complexity](algorithmic_complexity/README.md) |
 | 10 | Engineeing project II | Design and build your own application, in a team | [Final project](final_projects/README.md) |
 
