@@ -9,7 +9,7 @@ As a learner at Makers, we trust you with three responsibilities:
 Reflective learning is a skill to practice and improve - the quicker it's improved, the quicker you'll succeed at learning what you aim for. To support your learning **check-in with a coach** during coaching hours **as often as you need** to feel like you're managing these responsibilities.
 
 ## Reflective Questions
-Here are some questions to ask yourself - a coach will pose them to a learner - so **read and reflect** on your answers to them, or **discuss them with a coach**. There are some more useful resources in this [goals](https://github.com/makersacademy/course/tree/master/goals) directory.
+Here are some questions to ask yourself - a coach will pose them to a learner - so **read and reflect** on your answers to them, or **discuss them with a coach**.
 
 ### Goals
 - What are you learning at the moment and why is it important?
