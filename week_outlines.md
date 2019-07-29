@@ -28,6 +28,7 @@ These can be used by the devs independently, or enhanced by a coach delivering a
 ### Resources
 
 * [The 4 phases of a test](https://robots.thoughtbot.com/four-phase-test)
+* [The three rules of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
 * [Encapsulation on Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29)
 
 ### Skills workshops
