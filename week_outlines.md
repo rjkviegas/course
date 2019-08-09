@@ -173,8 +173,6 @@ A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app
 
 If you haven't already, start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
 
-By this point you should have a clear understanding of [how to build your portfolio](https://docs.google.com/document/d/1OgthVQ5EkdibC_vvhyEOuQwoOw0Wcr83e74MU02A69c/edit). Mid-week a coach will run a [portfolio workshop]() to answer any questions.
-
 By the end of the week all developers can build tested, easy-to-change software in a team using these processes:
 
 * Break down projects into tasks and allocate them to pairs
