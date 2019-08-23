@@ -18,7 +18,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 - **Can you build a web app that uses a database?**
 
-## Reminder of all this week's goals from the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md)
+#### Reminder of all this week's goals from the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md)
 
 By the end of the week all developers can:
 
