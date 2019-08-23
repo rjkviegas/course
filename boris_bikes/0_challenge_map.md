@@ -21,6 +21,15 @@ Mindful engagement with these challenges can help you achieve these goals:
   <dd>You'll be introduced to a technique for uncovering the root-cause of bugs in your code. When your code doesn't work, you'll be able to apply a consistent process to resolve the issue.</dd>
 </dl>
 
+## Reminder of this week's goals (find an overview of each week and its goals in the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md))
+
+By the end of the week all developers can:
+
+* Test-drive a simple program using objects and methods
+* Pair using the driver-navigator style
+* Follow an effective debugging process
+* Describe some basic OO principles like encapsulation, SRP
+
 ### Challenges
 
 1. [Setting up a Project](1_setting_up_a_project.md)

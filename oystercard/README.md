@@ -15,6 +15,18 @@ Mindful engagement with these challenges can help you achieve these goals:
   <dd>Most code in the world is structured in small pieces called objects. This is done because it is easier to change than having everything in one place.</dd>
 </dl>
 
+## Reminder of this week's goals from the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md)
+
+By the end of the week all developers can:
+
+* Use all of week 1's skills (don't underestimate the importance of this)
+* Break one class into two classes that work together, while maintaining test coverage
+* Unit test classes in isolation using mocking
+* Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+* Review another person's code and give them meaningful feedback
+
+Start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
+
 ## Weekly challenge user stories
 
 Here are the user stories you will be working on for this project:
