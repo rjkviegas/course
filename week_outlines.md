@@ -50,7 +50,7 @@ By the end of the week all developers can:
 * Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
 * Review another person's code and give them meaningful feedback
 
-You may notice you are completing the work easier than your peers. If this sounds like you, it's important to speak to a coach as they can provide additional challenge for you to make sure you continue to progress.
+You may notice you are completing the work quicker and with more ease than your peers. If this sounds like you, it's important to speak to a coach as they can provide additional challenge for you to make sure you continue to progress.
 
 Start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
 
