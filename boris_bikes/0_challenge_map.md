@@ -8,7 +8,8 @@ Let's go back several years, to the days when there were no Boris Bikes. Imagine
 
 To help structure your work, here are 22 challenges. They all build on one another. They require you to research things, to get stuck, and to find your own solutions. This is on purpose. A developer is a 'knowledge worker' - someone who will spend the majority of their time researching and learning how to solve problems. It'll suck for a bit, but with practice, you will get faster: and there's no better feeling than finding the answer to a problem that's been standing in your way for hours.
 
-## Focus goals
+## Wider course goals
+#### Keep these in mind throughtout the course:
 
 Mindful engagement with these challenges can help you achieve these goals:
 
@@ -20,6 +21,9 @@ Mindful engagement with these challenges can help you achieve these goals:
   <dt>I can debug anything</dt>
   <dd>You'll be introduced to a technique for uncovering the root-cause of bugs in your code. When your code doesn't work, you'll be able to apply a consistent process to resolve the issue.</dd>
 </dl>
+
+To help you achieve the wider course goals above, each week is broken down into smaller directed goals:
+
 
 ## Reminder of this week's goals (find an overview of each week and its goals in the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md))
 
