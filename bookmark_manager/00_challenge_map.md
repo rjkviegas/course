@@ -26,7 +26,7 @@ By the end of the week all developers can:
 * Follow an effective debugging process for database applications
 * Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
 
-### Challenges and main focuses for this week
+### Main focuses for this week
 
 - Agile and TDD
 - Engineering and 'Dev Recipes'
