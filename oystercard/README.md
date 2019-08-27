@@ -3,6 +3,8 @@
 This week's challenge will start with going back over the basics we covered last week in Boris Bikes, giving you the chance to reinforce what you learned last week. You'll then be challenged to build a more complex system which should really stretch your skills in Ruby, TDD and object-oriented design.
 
 ## Focus goals
+## Wider course goals
+#### Keep these in mind throughout the course:
 
 Mindful engagement with these challenges can help you achieve these goals:
 
@@ -14,6 +16,10 @@ Mindful engagement with these challenges can help you achieve these goals:
   <dt>I can build with objects</dt>
   <dd>Most code in the world is structured in small pieces called objects. This is done because it is easier to change than having everything in one place.</dd>
 </dl>
+
+
+####To help you achieve the wider course goals above, each week is broken down into smaller directed goals:
+
 
 ## Reminder of this week's goals from the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md)
 
