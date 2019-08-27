@@ -23,7 +23,7 @@ Mindful engagement with these challenges can help you achieve these goals:
 </dl>
 
 
-####To help you achieve the wider course goals above, each week is broken down into smaller directed goals:
+### To help you achieve the wider course goals above, each week is broken down into smaller directed goals:
 
 
 ## Reminder of this week's goals (find an overview of each week and its goals in the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md))
