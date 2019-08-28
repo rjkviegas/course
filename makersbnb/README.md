@@ -38,6 +38,8 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 If you haven't already, start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
 
+Attending process workshop will help you improve your processes, which in turn makes you a better developer and more prepared for reviews and interviews.
+
 By the end of the week all developers can build tested, easy-to-change software in a team using these processes:
 
 * Break down projects into tasks and allocate them to pairs
