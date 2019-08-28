@@ -8,9 +8,18 @@ Let's go back several years, to the days when there were no Boris Bikes. Imagine
 
 To help structure your work, here are 22 challenges. They all build on one another. They require you to research things, to get stuck, and to find your own solutions. This is on purpose. A developer is a 'knowledge worker' - someone who will spend the majority of their time researching and learning how to solve problems. It'll suck for a bit, but with practice, you will get faster: and there's no better feeling than finding the answer to a problem that's been standing in your way for hours.
 
-## Focus goals
+## Goals
 
-Mindful engagement with these challenges can help you achieve these goals:
+### Reminder of this week's goals (see more in the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md))
+
+By the end of the week all developers can:
+
+* Test-drive a simple program using objects and methods
+* Pair using the driver-navigator style
+* Follow an effective debugging process
+* Describe some basic OO principles like encapsulation, SRP
+
+### Wider course goals this week should help with (see all [course goals here](https://github.com/makersacademy/course/blob/master/goals/course_goals.md)):
 
 <dl>
   <dt>I can TDD anything</dt>

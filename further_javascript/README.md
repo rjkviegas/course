@@ -16,6 +16,8 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 * **Can you write a frontend, single page app using only pure JavaScript?**
 
+* As part of this primary goal, a sub-goal should be that you are able to explain and give an example of asynchronous behaviour in Javascript
+
 #### Secondary goal
 
 To help you towards your primary goal, your secondary goal will be to produce a diagram of how all the parts of your notes app interact.

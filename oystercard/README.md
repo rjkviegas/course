@@ -2,9 +2,21 @@
 
 This week's challenge will start with going back over the basics we covered last week in Boris Bikes, giving you the chance to reinforce what you learned last week. You'll then be challenged to build a more complex system which should really stretch your skills in Ruby, TDD and object-oriented design.
 
-## Focus goals
+## Reminder of this week's goals from the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md)
 
-Mindful engagement with these challenges can help you achieve these goals:
+By the end of the week all developers can:
+
+* Use all of week 1's skills (don't underestimate the importance of this)
+* Break one class into two classes that work together, while maintaining test coverage
+* Unit test classes in isolation using mocking
+* Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+* Review another person's code and give them meaningful feedback
+
+Start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
+
+Attending process workshop will help you improve your processes, which in turn makes you a better developer and more prepared for reviews and interviews.
+
+### Wider course goals this week should help with (see all [course goals here](https://github.com/makersacademy/course/blob/master/goals/course_goals.md)):
 
 <dl>
   <dt>I write code that is easy to change</dt>

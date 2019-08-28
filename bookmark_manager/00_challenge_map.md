@@ -18,6 +18,14 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 - **Can you build a web app that uses a database?**
 
+### Reminder of all this week's goals from the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md)
+
+By the end of the week all developers can:
+
+* Build a simple web app with a database (this pirmary goal breaks down into the two sub-goals below)
+* Follow an effective debugging process for database applications
+* Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
+
 ### Main focuses for this week
 
 - Agile and TDD

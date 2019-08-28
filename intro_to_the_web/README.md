@@ -16,6 +16,15 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 - **Can you build a web app?**
 
+### Reminder of all this week's goals from the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md)
+
+By the end of the week all developers can:
+
+* Build a simple web app (this primary goal breaks down into the sub-goals below)
+* Follow an effective debugging process for web applications
+* Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+* Explain the MVC pattern
+
 ### Concepts and skills for the week
 
 #### Concepts
