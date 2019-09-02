@@ -19,7 +19,7 @@ During the first 12 weeks of your apprenticeship, you'll work through 10 units o
 | 9 | Performance | Make your code, and your program, more efficient | [Algorithmic complexity](../algorithmic_complexity/README.md) |
 | 10 | Engineeing project II | Design and build your own application, in a team | [Final project](../final_projects/README.md) |
 
-**Your daily routine will change, depending on which unit your cohort is working on.  Find out more [here](an_appreniceship_day.md)**.
+**Your daily routine will change, depending on which unit your cohort is working on.  Find out more [here](daily_schedule.md)**.
 
 ### Supporting Materials
 
