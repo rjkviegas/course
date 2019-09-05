@@ -1,11 +1,5 @@
 # Project Set Up
 
-### Pathways
-
-- [rails](./rails)
-- [java](./java)
-
-
 ## Objectives
 
 - Investigate project workflow tools
