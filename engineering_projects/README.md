@@ -6,7 +6,7 @@
 - [Java](./java)
 - [Node](./node)
 - [Python](./python)
-- [C#](./sharp)
+- [C#](./csharp)
 
 ## Learning objectives
 
