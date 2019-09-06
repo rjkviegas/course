@@ -20,7 +20,7 @@ These [assessment criteria](../assessment_criteria.md) will be how we look at yo
 
 ## Demo app
 
-* [ToDo API](https://github.com/lindseydew/TodoApi/)
+* [ToDo API](https://github.com/makersacademy/TodoApi)
 
 ## Card Wall
 
