@@ -21,14 +21,13 @@ These [assessment criteria](../assessment_criteria.md) will be how we look at yo
 
 * [Set up instructions](../project_setup.md)
 
-## Repositories
+## The Spring Boot track
 
-* [Spring template](https://github.com/makersacademy/acebook-java-template)
-* [Spark template](https://github.com/makersacademy/acebook-java-spark-template)
+* [Template repository](https://github.com/makersacademy/acebook-java-template)
+* [Initial card wall](https://trello.com/b/3T1tgGU5/acebook-java-template)
 
-## Card Wall
-
-* https://trello.com/b/3T1tgGU5/acebook-java-template
-
+## The Spark track
+* [Template repository](https://github.com/makersacademy/acebook-java-spark-template)
+* [Initial card wall](https://trello.com/b/9tyZzb1y/acebook-java-spark-template)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/engineering_projects/java/README.md)
