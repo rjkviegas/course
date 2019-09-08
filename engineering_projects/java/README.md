@@ -21,9 +21,10 @@ These [assessment criteria](../assessment_criteria.md) will be how we look at yo
 
 * [Set up instructions](../project_setup.md)
 
-## Repository
+## Repositories
 
-* https://github.com/makersacademy/acebook-java-template
+* [Spring template](https://github.com/makersacademy/acebook-java-template)
+* [Spark template](https://github.com/makersacademy/acebook-java-spark-template)
 
 ## Card Wall
 
