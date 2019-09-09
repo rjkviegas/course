@@ -20,7 +20,7 @@ These [assessment criteria](../assessment_criteria.md) will be how we look at yo
 
 ## Demo app
 
-* [Products API](https://github.com/Eslamunto/ProductsApp)
+* [Products API](https://github.com/makersacademy/node-engineering-demo-app)
 
 ## Card Wall
 
