@@ -18,6 +18,10 @@ These [assessment criteria](../assessment_criteria.md) will be how we look at yo
 
 * [Set up instructions](../project_setup.md)
 
+## Repository
+
+* https://github.com/makersacademy/acebook-node-template
+
 ## Demo app
 
 * [Products API](https://github.com/makersacademy/node-engineering-demo-app)
