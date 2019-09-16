@@ -28,6 +28,29 @@ We believe that you are the best person to lead these things. This way, when som
 
 You will know when to put in more effort, when to slow down, change focus, employ your strengths or strengthen your weaknesses. You will know when you are ready to apply for jobs. You're in the driving seat.
 
+**This being said, there are a few rules that we ask you to follow while you are on the course, to create the best learning environment:**
+
+* Attend Makers’ premises *full time*, unless agreed otherwise with a coach.
+
+* Take part in the projects and assignments of the course, including team projects.
+
+* Work towards the goals of the course as outlined by the coaching team. See the [course level goals here](https://github.com/makersacademy/course/blob/master/goals/course_goals.md).
+
+* Frequently seek feedback on your work in order to achieve a professional standard.
+
+_Please note that not respecting these may void your job offer guarantee. Read more: [Job offer guarantee: Terms & Conditions - Makers Academy](https://makers.tech/job-offer-guarantee-terms/)_
+
+
+#### What should I do if something comes up and I an unable to come onsite for a day/half-day
+
+* As soon as you know you won't be able to be in, send a message to a coach. ` Hi, I am unable to come in <today/tomorrow/date>, because of <X>.`
+
+* On the day, send a message on your cohort channel, with a `@` mention to your pair for the day (if pairs have been released).
+
+#### What should I do if something comes up and I an unable to come onsite for more than a day
+
+* As soon as you know you won't be able to be in, send a message to a coach. We'll have a discussion about the best strategy for you to stay on track with your learning.
+
 ## What are coaches' responsibilities?
 So what's our job?
 
