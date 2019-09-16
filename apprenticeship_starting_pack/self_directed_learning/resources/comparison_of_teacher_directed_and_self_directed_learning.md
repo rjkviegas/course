@@ -21,6 +21,6 @@
 | Planning | Primarily by teacher | By participative decision-making
 | Diagnosis of needs | Primarily by teacher | By mutual assessment
 | Setting goals | Primarily by teacher | By mutual negotiation
-| Designing a learning plan | Content units, course syllabus, logical sequence | Learning projects, learning contracts, sequenced in terms of readiness
+| Designing a learning plan | Content modules, course syllabus, logical sequence | Learning projects, learning contracts, sequenced in terms of readiness
 | Learning activities | Transmittal techniques, assigned Readings | Inquiry projects, independent study, experiential techniques
 | Evaluation | Primarily by teacher | By mutual assessment of self-collected evidence

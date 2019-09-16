@@ -4,9 +4,9 @@
 
 ## Bootcamp
 
-During the first 12 weeks of your apprenticeship, you'll work through 10 units of learning to acquire the skills and behaviours described in the [18 standard points](https://airtable.com/shrTRRuegEe7fQ49t).
+During the first 12 weeks of your apprenticeship, you'll work through 10 modules of learning to acquire the skills and behaviours described in the [18 standard points](https://airtable.com/shrTRRuegEe7fQ49t).
 
-| Unit  | Name | Description | Challenge |
+| Module  | Name | Description | Challenge |
 | --- | --- | --- | --- |
 | 1 | Basic Programming I | Master the command line and git | [The command line mystery](https://github.com/makersacademy/clmystery) |
 | 2 | Basic Programming II | Master procedural programming | [Student Directory](https://github.com/makersacademy/student-directory/blob/master/README.md)|
@@ -19,7 +19,7 @@ During the first 12 weeks of your apprenticeship, you'll work through 10 units o
 | 9 | Performance | Make your code, and your program, more efficient | [Algorithmic complexity](../algorithmic_complexity/README.md) |
 | 10 | Engineeing project II | Design and build your own application, in a team | [Final project](../final_projects/README.md) |
 
-**Your daily routine will change, depending on which unit your cohort is working on.  Find out more [here](daily_schedule.md)**.
+**Your daily routine will change, depending on which module your cohort is working on.  Find out more [here](daily_schedule.md)**.
 
 ### Supporting Materials
 
