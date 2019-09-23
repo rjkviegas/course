@@ -17,7 +17,7 @@ Introduction
 
 Pair programming is the process whereby two people actively collaborate on developing code. Used as part of a general teamwork approach it leads to improved code quality, team communication, knowledge share and huge learning gains.
 
-[Large scale studies of computer science students](http://www.cs.pomona.edu/classes/cs121/supp/williams_prpgm.pdf) have shown greatly improved outcomes when students pair program on coding problems.
+[Large scale studies of computer science students](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF) have shown greatly improved outcomes when students pair program on coding problems.
 
 #### The roles
 The key component of pair programming is regular driver/navigator switching&nbsp;:twisted_rightwards_arrows:.
@@ -133,7 +133,7 @@ Articles on Pair Programming
 Pair Programming Research
 -------------
 
-* [Costs and Benefits of Pair Programming](http://www.cs.pomona.edu/classes/cs121/supp/williams_prpgm.pdf)
+* [Costs and Benefits of Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
 * [Guidelines for Pair Programming in the Classroom](http://people.cs.vt.edu/~mccricks/papers/wmlh08.pdf)
 * [Compatibility of Pair Programmers](http://collaboration.csc.ncsu.edu/laurie/Papers/Compatibility.pdf)
 
