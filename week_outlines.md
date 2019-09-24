@@ -13,17 +13,18 @@ By the end of the week all developers can:
 
 ### Challenges
 
-* [Afternoons - Boris bikes](https://diode.makersacademy.com/students/dearshrewdwit/projects/1418)
-* [Weekend - Airport](https://diode.makersacademy.com/students/neoeno/projects/33)
+* [Afternoons - Boris bikes](https://github.com/makersacademy/course/blob/master/boris_bikes/0_challenge_map.md)
+* [Weekend - Airport](https://github.com/makersacademy/airport_challenge)
 
 ### Practicals
 
 These can be used by the devs independently, or enhanced by a coach delivering and offering structured process, group discussion, feedback, etc.
 
-* [Test Driving](https://diode.makersacademy.com/students/dearshrewdwit/projects/908)
-* [Debugging Approaches](https://diode.makersacademy.com/students/dearshrewdwit/projects/832)
-* [Git collaboration](https://diode.makersacademy.com/students/dearshrewdwit/projects/2702)
-* [Encapsulation](https://diode.makersacademy.com/students/dearshrewdwit/projects/2703)
+* [Test Driving Exercises](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md)
+* [Test Driving Practice](https://github.com/makersacademy/birthdays)
+* [Debugging Approaches](https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md)
+* [Git collaboration](https://github.com/makersacademy/skills-workshops/blob/master/practicals/git_collaboration.md)
+* [Encapsulation & Cohesion](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md)
 * [Testing behaviour rather than state](https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md)
 
 ### Resources
@@ -57,7 +58,7 @@ Start attending [process workshops](https://github.com/makersacademy/skills-work
 ### Challenges
 
 * [Afternoons - Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
-* [Weekend - Takeaway](https://diode.makersacademy.com/students/neoeno/projects/132)
+* [Weekend - Takeaway](https://github.com/makersacademy/takeaway-challenge)
 
 ### Projects
 
@@ -95,7 +96,7 @@ By the end of the week all developers can:
 ### Challenges
 
 * [Afternoons - Battle](https://github.com/makersacademy/course/tree/master/intro_to_the_web)
-* [Weekend - RPS](https://diode.makersacademy.com/students/neoeno/projects/133)
+* [Weekend - RPS](https://github.com/makersacademy/rps-challenge)
 
 ### Practicals
 
@@ -147,7 +148,7 @@ By the end of the week all developers can:
 ### Challenges
 
 * [Afternoons - Thermostat](https://github.com/makersacademy/course/blob/master/thermostat/README.md)
-* [Weekend - Bowling](https://diode.makersacademy.com/students/neoeno/projects/32)
+* [Weekend - Bowling](https://github.com/makersacademy/bowling-challenge)
 
 ### Practicals
 
@@ -183,8 +184,8 @@ By the end of the week all developers can build tested, easy-to-change software 
 
 ### Challenges
 
-* [Weekdays - MakersBnB](https://diode.makersacademy.com/students/neoeno/projects/34)
-* [Weekend - Bowling again](https://diode.makersacademy.com/students/neoeno/projects/32)
+* [Weekdays - MakersBnB](https://github.com/makersacademy/course/tree/master/makersbnb)
+* [Weekend - Bowling again](https://github.com/makersacademy/bowling-challenge)
 
 ### Resources
 * [Technical Learning Resources](https://airtable.com/shrxLK3dcqRz9VssB/tblokmw6yNUO75ge6?blocks=hide)
