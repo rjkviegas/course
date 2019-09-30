@@ -1,8 +1,8 @@
-**Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These include wellbeing and code quality. They are not the topic of any one week, and you will miss them out unless you think of them regularly!
+**Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These include wellbeing and code quality. They are not the topic of any one module, and you will miss them out unless you think of them regularly!
 
-## Week 1
+## Module 3
 
-By the end of the week all developers can:
+By the end of the module all developers can:
 
 * Apply test-driven development
 * Use Diode to evidence and reflect on work towards goals
@@ -23,9 +23,9 @@ These can be used by the devs independently, or enhanced by a coach delivering a
 * [TDD a single object](https://diode.makersacademy.com/students/alicelieutier/projects/813)
 * [Git collaboration](https://github.com/makersacademy/skills-workshops/blob/master/practicals/git_collaboration.md)
 
-## Week 2
+## Module 4
 
-By the end of the week all developers can:
+By the end of the module all developers can:
 
 * Explain why modularity through encapsulation is useful for developers, tying it to ease of change
 * Break up programs into multiple objects which work together, with test coverage
@@ -49,9 +49,9 @@ These can be used by the devs independently, or enhanced by a coach delivering a
 * [Testing OO Relationships](https://diode.makersacademy.com/students/EdwardAndress/projects/975)
 * [Refactoring with OO](https://diode.makersacademy.com/students/EdwardAndress/projects/977)
 
-## Week 3
+## Module 5
 
-By the end of the week all developers can:
+By the end of the module all developers can:
 
 * Build a simple web app
 * Explain the basics of how the web works (e.g. request/response, HTTP, Client, Server, MVC...)
@@ -73,9 +73,9 @@ By the end of the week all developers can:
 * Create a [Birthday Greeter App](https://diode.makersacademy.com/students/alicelieutier/projects/439)
 * Come up with your own!
 
-## Week 4
+## Module 6
 
-By the end of the week all developers can:
+By the end of the module all developers can:
 
 * Build a database-backed web app, and explain these as used within:
 	* Data flow from user action all the way to server resource and back again
@@ -97,9 +97,9 @@ More of a tool:
 
 * [REST](https://github.com/sjmog/rest)
 
-## Week 5
+## Module 7
 
-By the end of the week all developers can:
+By the end of the module all developers can:
 
 * Follow an effective learning process for learning a new language
 * Test drive simple front-end web app with Javascript
@@ -121,54 +121,25 @@ Here's a great tool to deploy pure html/js sites: surge.sh
 
 * [You Don't Know JS – a free book series](https://github.com/getify/You-Dont-Know-JS)
 
-## Week 6
+## Module 8
 
-Time for team work!
-
-## Week 7
-
-This week, you'll continue to work on your process for learning a new language as we take dive a bit deeper into Javascript.
-
-By the end of the week, all developers can:
-
-- Follow the flow of information through a single page, front end web application
-- Explain the following: functions, objects, closures, prototype, new, this
-
-As you work towards the above goals, please reflect on your strategy for learning a new language.
-
-### Challenges
-
-* [Afternoons - Notes app](https://github.com/makersacademy/course/blob/master/further_javascript)
-* Friday, either of:
-  * [News summary](https://github.com/makersacademy/news-summary-challenge)
-  * [Chitter API Frontend Challenge](https://github.com/makersacademy/frontend-api-challenge)
-
-### Practicals
-
-* [Closures](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q)
-* [Asynch JS](https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async)
-* [Reading beyond your level (to learn about new and closures)](https://hackmd.io/F-pmnp3hRhePddmf3mnKGw)
-* [Reasoning about JS using frames](https://hackmd.io/cnH7BqucQ7yzqnLiqmizXw)
-
-## Week 8-9
-
-By the end of the week, all developers can:
+By the end of the module, all developers can:
 
 * *Use high-quality processes* to build a project in a team?
 	* Note that the goal *is not to complete, or reach a certain point on, Acebook*
 
 For more information about this project and what constitutes 'high-quality processes' look [here](./engineering_projects/README.md).
 
-## Week 10
+## Module 9
 
-By the end of the week, all developers can:
+By the end of the module, all developers can:
 * Mention efficiency as one axis to talk about algorithms
 * Have conversations about algorithmic complexity
 * Characterise the complexity of classic algorithms
 
 ### Challenge
 
-This week's challenge is a research project. You can work on it individually or in teams of 2 or 3.
+This challenge is a research project. You can work on it individually or in teams of 2 or 3.
 
 [Here's the outline](./algorithmic_complexity/README.md).
 
@@ -178,4 +149,4 @@ This week's challenge is a research project. You can work on it individually or 
 * [Video illustration of different sorting algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
 * [Time Complexity on Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/apprenticeship_week_outlines.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/apprenticeship_module_outlines.md)
