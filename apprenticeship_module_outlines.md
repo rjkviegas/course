@@ -1,11 +1,22 @@
 **Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These include wellbeing and code quality. They are not the topic of any one module, and you will miss them out unless you think of them regularly!
 
+## Module 1
+
+By the end of the module all developers can:
+
+* Navigate their essential programming environment
+
+## Module 2
+
+By the end of the module all developers can:
+
+* Fluently write procedural programs
+
 ## Module 3
 
 By the end of the module all developers can:
 
-* Apply test-driven development
-* Use Diode to evidence and reflect on work towards goals
+* Test-drive their code
 
 ### Challenges
 
@@ -27,12 +38,8 @@ These can be used by the devs independently, or enhanced by a coach delivering a
 
 By the end of the module all developers can:
 
-* Explain why modularity through encapsulation is useful for developers, tying it to ease of change
-* Break up programs into multiple objects which work together, with test coverage
+* Break code into multiple objects following OOD principles
 
-Stretch:
-
-* Test classes in isolation using mocking and dependency injection
 
 ### Challenges
 
@@ -53,8 +60,7 @@ These can be used by the devs independently, or enhanced by a coach delivering a
 
 By the end of the module all developers can:
 
-* Build a simple web app
-* Explain the basics of how the web works (e.g. request/response, HTTP, Client, Server, MVC...)
+* Model some protocols used by computers to communicate across the Web
 
 ### Challenges
 
@@ -77,10 +83,7 @@ By the end of the module all developers can:
 
 By the end of the module all developers can:
 
-* Build a database-backed web app, and explain these as used within:
-	* Data flow from user action all the way to server resource and back again
-	* Relevant aspects of tables/rows/relations etc
-* Follow an effective debugging process for database-backed web apps
+* Integrate a database into a software application
 
 ### Challenges
 
@@ -101,8 +104,7 @@ More of a tool:
 
 By the end of the module all developers can:
 
-* Follow an effective learning process for learning a new language
-* Test drive simple front-end web app with Javascript
+Learn any new programming language
 
 ### Challenges
 
@@ -125,17 +127,15 @@ Here's a great tool to deploy pure html/js sites: surge.sh
 
 By the end of the module, all developers can:
 
-* *Use high-quality processes* to build a project in a team?
-	* Note that the goal *is not to complete, or reach a certain point on, Acebook*
+* Explain how dev teams work together
 
 For more information about this project and what constitutes 'high-quality processes' look [here](./engineering_projects/README.md).
 
 ## Module 9
 
 By the end of the module, all developers can:
-* Mention efficiency as one axis to talk about algorithms
-* Have conversations about algorithmic complexity
-* Characterise the complexity of classic algorithms
+
+* Characterise the complexity of common algorithms
 
 ### Challenge
 
