@@ -1,16 +1,23 @@
 **Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These include wellbeing and code quality. They are not the topic of any one module, and you will miss them out unless you think of them regularly!
 
-## Module 1
+## Modules 1 and 2
 
 By the end of the module all developers can:
 
-* Navigate their essential programming environment
+* Navigate their essential programming environment (Module 1)
+* Fluently write procedural programs (Module 2)
 
-## Module 2
+### Challenges
 
-By the end of the module all developers can:
 
-* Fluently write procedural programs
+* [Build a website](https://github.com/makersacademy/build-a-website)
+* [The Command Line Mystery](https://github.com/makersacademy/clmystery)
+* [Mastery Quizzes](https://mastery-curriculum.makers.tech/)
+* [Student Directory](https://github.com/makersacademy/student-directory)
+* [_The_ Katathon](https://docs.google.com/document/d/1N-kf_HtZJgNs1iPahwa1VkSvDyU8shiyEpku_k0VLqQ/edit)
+* [TDD FizzBuzz Kata](https://github.com/makersacademy/course/blob/master/fizzbuzz/fizzbuzz.md)
+* [End of Module Challenge: Part 1](https://github.com/makersacademy/wednesday-challenge)
+
 
 ## Module 3
 
