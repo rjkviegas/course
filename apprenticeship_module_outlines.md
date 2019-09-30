@@ -129,7 +129,7 @@ By the end of the module, all developers can:
 
 * Explain how dev teams work together
 
-For more information about this project and what constitutes 'high-quality processes' look [here](./engineering_projects/README.md).
+For more information about this project and how great dev teams work together look [here](./engineering_projects/README.md).
 
 ## Module 9
 
