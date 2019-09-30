@@ -32,7 +32,7 @@ By the end of the module all developers can:
 
 ### Practicals
 
-These can be used by the devs independently, or enhanced by a coach delivering and offering structured process, group discussion, feedback, etc.
+These can be used for independent study, or enhanced by group discussion.
 
 * [Test Driving](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md)
 * [Learn by building: rspec](https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md)
@@ -55,7 +55,7 @@ By the end of the module all developers can:
 
 ### Practicals
 
-These can be used by the devs independently, or enhanced by a coach delivering and offering structured process, group discussion, feedback, etc.
+These can be used for independent study, or enhanced by group discussion.
 
 * [Encapsulation](https://diode.makersacademy.com/students/EdwardAndress/projects/981)
 * [OO Relationships (Forwarding, Polymorphism)](https://diode.makersacademy.com/students/EdwardAndress/projects/980)
@@ -75,6 +75,8 @@ By the end of the module all developers can:
 * [Friday - RPS](https://diode.makersacademy.com/students/neoeno/projects/133)
 
 ### Practicals and projects
+
+These can be used for independent study, or enhanced by group discussion.
 
 * [Diagram the HTTP req/response cycle](https://diode.makersacademy.com/students/alicelieutier/projects/415)
 * [Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md)
@@ -99,6 +101,8 @@ By the end of the module all developers can:
 
 ### Practicals
 
+These can be used for independent study, or enhanced by group discussion.
+
 * [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md)
 * [SQLZoo](https://sqlzoo.net/)
 * [ELI5 What is a database](https://diode.makersacademy.com/students/alicelieutier/projects/1286)
@@ -119,6 +123,8 @@ Learn any new programming language
 * [Friday - Bowling](https://diode.makersacademy.com/students/neoeno/projects/32)
 
 ### Practicals
+
+These can be used for independent study, or enhanced by group discussion.
 
 * [Learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A)
 * [Following the flow](https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async)
