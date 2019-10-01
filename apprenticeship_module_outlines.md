@@ -9,7 +9,6 @@ By the end of the module all developers can:
 
 ### Challenges
 
-
 * [Build a website](https://github.com/makersacademy/build-a-website)
 * [The Command Line Mystery](https://github.com/makersacademy/clmystery)
 * [Mastery Quizzes](https://mastery-curriculum.makers.tech/)
@@ -17,6 +16,12 @@ By the end of the module all developers can:
 * [_The_ Katathon](https://docs.google.com/document/d/1N-kf_HtZJgNs1iPahwa1VkSvDyU8shiyEpku_k0VLqQ/edit)
 * [TDD FizzBuzz Kata](https://github.com/makersacademy/course/blob/master/fizzbuzz/fizzbuzz.md)
 * [End of Module Challenge: Part 1](https://github.com/makersacademy/wednesday-challenge)
+
+### Practicals
+
+These can be used for independent study, or enhanced by group discussion.
+
+* [Git collaboration](https://github.com/makersacademy/skills-workshops/blob/master/practicals/git_collaboration.md)
 
 
 ## Module 3
@@ -34,12 +39,34 @@ By the end of the module all developers can:
 
 These can be used for independent study, or enhanced by group discussion.
 
-* [Test Driving](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md)
-* [Learn by building: rspec](https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md)
-* [TDD Cycle Decision Tree](https://diode.makersacademy.com/students/alicelieutier/projects/812)
-* [Debugging approaches](https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md)
-* [TDD a single object](https://diode.makersacademy.com/students/alicelieutier/projects/813)
-* [Git collaboration](https://github.com/makersacademy/skills-workshops/blob/master/practicals/git_collaboration.md)
+Each of the exercises in the table below will link you to a Diode project with further details. The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel you need more practice on.
+
+Please **do not** proceed on to the next core exercise until you have validated the previous one in Diode and, ideally, have received feedback from a coach.
+
+| Key Skill                     | Core Exercise                                  | Optional Exercises                                                     |
+| ----------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------- |
+| Debugging                     | [Debugging Practical][debugging_practical]     | [Debug Fizzbuzz][debug_fizzbuzz]                                       |
+|                               |                                                | [Debugging 1][debugging_1]                                             |
+| Writing Tests                 | [Writing Unit Tests][writing_unit_tests]       | [Testing Relationships Between Classes][testing_relationships_classes] |
+| Test Driving A Single Object  | [Test Drive a Dice Class][tdd_dice_class]      | [Diagram Your TDD Process][diagram_tdd]                                |
+|                               |                                                | [Test Driving Practical][tdd_practical]                                |
+| Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             | [Test Drive a Notes App][tdd_notes_app]                                |
+| Isolating Unit Tests          | [Dependency Injection Practical][di_practical] | Isolate Simple Checkout Tests                                          |
+|                               |                                                | [Learn by building: RSpec][build_rspec]                                |
+
+[debugging_practical]: https://diode.makersacademy.com/students/dearshrewdwit/projects/832
+[debug_fizzbuzz]: https://diode.makersacademy.com/students/samjones1001/projects/2286
+[debugging_1]: https://diode.makersacademy.com/students/dearshrewdwit/projects/864
+[writing_unit_tests]: https://diode.makersacademy.com/students/samjones1001/projects/2287
+[testing_relationships_classes]: https://diode.makersacademy.com/students/EdwardAndress/projects/975
+[tdd_dice_class]: https://diode.makersacademy.com/students/alicelieutier/projects/813
+[diagram_tdd]: https://diode.makersacademy.com/students/alicelieutier/projects/812
+[tdd_practical]: https://diode.makersacademy.com/students/samjones1001/projects/2288
+[simple_checkout]: https://diode.makersacademy.com/students/samjones1001/projects/317
+[tdd_notes_app]: https://diode.makersacademy.com/students/neoeno/projects/13
+[di_practical]: https://diode.makersacademy.com/students/soph-g/projects/645
+[build_rspec]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md
+
 
 ## Module 4
 
