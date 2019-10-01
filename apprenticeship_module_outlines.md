@@ -72,8 +72,7 @@ Please **do not** proceed on to the next core exercise until you have validated 
 
 By the end of the module all developers can:
 
-* Break code into multiple objects following OOD principles
-
+* Break code into multiple objects following object-oriented design principles
 
 ### Challenges
 
@@ -84,11 +83,26 @@ By the end of the module all developers can:
 
 These can be used for independent study, or enhanced by group discussion.
 
-* [Encapsulation](https://diode.makersacademy.com/students/EdwardAndress/projects/981)
-* [OO Relationships (Forwarding, Polymorphism)](https://diode.makersacademy.com/students/EdwardAndress/projects/980)
-* [Dependency Injection](https://diode.makersacademy.com/students/EdwardAndress/projects/979)
-* [Testing OO Relationships](https://diode.makersacademy.com/students/EdwardAndress/projects/975)
-* [Refactoring with OO](https://diode.makersacademy.com/students/EdwardAndress/projects/977)
+Each of the exercises in the table below will link you to a Diode project with further details. The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel you need more practice on.
+
+Please **do not** proceed on to the next core exercise until you have validated the previous one by seeking feedback from a coach or another member of the cohort.
+
+| Key Skill                        | Core Exercise                                          | Optional Exercises                                                     |
+| -------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------- |
+| Test Driving Multiple Objects    | [Simple Checkout][simple_checkout]                     | [Test Drive a Notes App][tdd_notes_app]                                |
+| Isolating Unit Tests             | [Dependency Injection Practical][di_practical]         | Isolate Simple Checkout Tests                                          |
+| OOP Basics                       | [Encapsulation][encapsulation]                         | [Testing Relationships Between Objects][testing_relationships_objects] |
+|                                  | [Forwarding and Polymorphism][forwarding_polymorphism] | [Inheritance and Composition][inheritance_composition]                 |
+| Class Extraction and Refactoring | [Refactoring using OO][refactoring_using_oo]           | [Class Extraction][class_extraction]                                   |
+
+[encapsulation]: https://diode.makersacademy.com/students/EdwardAndress/projects/981
+[testing_relationships_objects]: https://diode.makersacademy.com/students/EdwardAndress/projects/975
+[forwarding_polymorphism]: https://diode.makersacademy.com/students/EdwardAndress/projects/980
+[inheritance_composition]: https://github.com/makersacademy/skills-workshops/tree/master/week-2/inheritance
+[refactoring_using_oo]: https://diode.makersacademy.com/students/EdwardAndress/projects/977
+[class_extraction]: https://github.com/makersacademy/skills-workshops/tree/master/week-2/extracting_a_class
+
+If you would prefer to work on a single, larger project, take a look at the [Gilded Rose Design Project](https://diode.makersacademy.com/students/neoeno/projects/1732). This is more involved and a wider scope than the more targeted exercises listed above, and is likely to take up most of your mornings this week.
 
 ## Module 5
 
