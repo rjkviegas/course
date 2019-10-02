@@ -1,27 +1,22 @@
 **Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These include wellbeing and code quality. They are not the topic of any one module, and you will miss them out unless you think of them regularly!
 
-## Modules 1 and 2
+## Modules 1 & 2
 
-By the end of the module all developers can:
+By the end of modules 1 & 2 all developers can:
 
-* Navigate their essential programming environment (Module 1)
-* Fluently write procedural programs (Module 2)
+1. Navigate their essential programming environment
+2. Fluently write procedural programs
 
 ### Challenges
 
 * [Build a website](https://github.com/makersacademy/build-a-website)
+* [Git collaboration](https://github.com/makersacademy/skills-workshops/blob/master/practicals/git_collaboration.md)
 * [The Command Line Mystery](https://github.com/makersacademy/clmystery)
 * [Mastery Quizzes](https://mastery-curriculum.makers.tech/)
 * [Student Directory](https://github.com/makersacademy/student-directory)
 * [_The_ Katathon](https://docs.google.com/document/d/1N-kf_HtZJgNs1iPahwa1VkSvDyU8shiyEpku_k0VLqQ/edit)
 * [TDD FizzBuzz Kata](https://github.com/makersacademy/course/blob/master/fizzbuzz/fizzbuzz.md)
 * [End of Module Challenge: Part 1](https://github.com/makersacademy/wednesday-challenge)
-
-### Practicals
-
-These can be used for independent study, or enhanced by group discussion.
-
-* [Git collaboration](https://github.com/makersacademy/skills-workshops/blob/master/practicals/git_collaboration.md)
 
 
 ## Module 3
@@ -30,14 +25,9 @@ By the end of the module all developers can:
 
 * Test-drive their code
 
-### Challenges
+### Mornings
 
-* [Afternoons - Boris bikes](https://github.com/makersacademy/course/tree/master/boris_bikes)
-* [Friday - Airport](https://diode.makersacademy.com/students/alicelieutier/projects/960)
-
-### Practicals
-
-These can be used for independent study, or enhanced by group discussion.
+These exercises can be used for independent study, or enhanced by group discussion.
 
 Each of the exercises in the table below will link you to a Diode project with further details. The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel you need more practice on.
 
@@ -67,6 +57,14 @@ Please **do not** proceed on to the next core exercise until you have validated 
 [di_practical]: https://diode.makersacademy.com/students/soph-g/projects/645
 [build_rspec]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md
 
+### Afternoons
+
+[Boris bikes](https://github.com/makersacademy/course/tree/master/boris_bikes)
+
+### Friday Challenge
+
+[Airport](https://diode.makersacademy.com/students/alicelieutier/projects/960)
+
 
 ## Module 4
 
@@ -74,14 +72,9 @@ By the end of the module all developers can:
 
 * Break code into multiple objects following object-oriented design principles
 
-### Challenges
+### Mornings
 
-* [Afternoons - Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
-* [Friday - Takeaway](https://diode.makersacademy.com/students/neoeno/projects/132)
-
-### Practicals
-
-These can be used for independent study, or enhanced by group discussion.
+These exercises can be used for independent study, or enhanced by group discussion.
 
 Each of the exercises in the table below will link you to a Diode project with further details. The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel you need more practice on.
 
@@ -104,30 +97,38 @@ Please **do not** proceed on to the next core exercise until you have validated 
 
 If you would prefer to work on a single, larger project, take a look at the [Gilded Rose Design Project](https://diode.makersacademy.com/students/neoeno/projects/1732). This is more involved and a wider scope than the more targeted exercises listed above, and is likely to take up most of your mornings this week.
 
+### Afternoons
+
+[Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
+
+### Friday Challenge
+
+[Takeaway](https://diode.makersacademy.com/students/neoeno/projects/132)
+
+
 ## Module 5
 
 By the end of the module all developers can:
 
 * Model some protocols used by computers to communicate across the Web
 
-### Challenges
+### Mornings
 
-* [Afternoons - Battle](https://github.com/makersacademy/course/tree/master/intro_to_the_web)
-* [Friday - RPS](https://diode.makersacademy.com/students/neoeno/projects/133)
-
-### Practicals and projects
-
-These can be used for independent study, or enhanced by group discussion.
+These exercises can be used for independent study, or enhanced by group discussion.
 
 * [Diagram the HTTP req/response cycle](https://diode.makersacademy.com/students/alicelieutier/projects/415)
 * [Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md)
 * [Clients](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md)
 * [HTTP Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md)
 
-### Project ideas
+### Afternoons
 
-* Create a [Birthday Greeter App](https://diode.makersacademy.com/students/alicelieutier/projects/439)
-* Come up with your own!
+[Battle](https://github.com/makersacademy/course/tree/master/intro_to_the_web)
+
+### Friday Challenge
+
+[RPS](https://diode.makersacademy.com/students/neoeno/projects/133)
+
 
 ## Module 6
 
@@ -135,14 +136,9 @@ By the end of the module all developers can:
 
 * Integrate a database into a software application
 
-### Challenges
+### Mornings
 
-* [Afternoons - Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager/00_challenge_map.md)
-* [Friday - Chitter](https://github.com/makersacademy/chitter-challenge)
-
-### Practicals
-
-These can be used for independent study, or enhanced by group discussion.
+These exercises can be used for independent study, or enhanced by group discussion.
 
 * [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md)
 * [SQLZoo](https://sqlzoo.net/)
@@ -152,20 +148,24 @@ More of a tool:
 
 * [REST](https://github.com/sjmog/rest)
 
+### Afternoons
+
+[Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager/00_challenge_map.md)
+
+### Friday Challenge
+
+[Chitter](https://github.com/makersacademy/chitter-challenge)
+
+
 ## Module 7
 
 By the end of the module all developers can:
 
-Learn any new programming language
+* Learn any new programming language
 
-### Challenges
+### Mornings
 
-* [Afternoons - Thermostat](https://github.com/makersacademy/course/blob/master/thermostat/README.md)
-* [Friday - Bowling](https://diode.makersacademy.com/students/neoeno/projects/32)
-
-### Practicals
-
-These can be used for independent study, or enhanced by group discussion.
+These exercises can be used for independent study, or enhanced by group discussion.
 
 * [Learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A)
 * [Following the flow](https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async)
@@ -177,30 +177,40 @@ Here's a great tool to deploy pure html/js sites: surge.sh
 
 * [You Don't Know JS – a free book series](https://github.com/getify/You-Dont-Know-JS)
 
+### Afternoons
+
+[Thermostat](https://github.com/makersacademy/course/blob/master/thermostat/README.md)
+
+### Friday Challenge
+
+[Bowling](https://diode.makersacademy.com/students/neoeno/projects/32)
+
+
 ## Module 8
 
-By the end of the module, all developers can:
+By the end of the module all developers can:
 
 * Explain how dev teams work together
 
 For more information about this project and how great dev teams work together look [here](./engineering_projects/README.md).
 
+
 ## Module 9
 
-By the end of the module, all developers can:
+By the end of the module all developers can:
 
 * Characterise the complexity of common algorithms
-
-### Challenge
-
-This challenge is a research project. You can work on it individually or in teams of 2 or 3.
-
-[Here's the outline](./algorithmic_complexity/README.md).
 
 ### Resources
 
 * [A podcast about algorithmic complexity, with some great notes](https://www.codingblocks.net/podcast/what-is-algorithmic-complexity/)
 * [Video illustration of different sorting algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
 * [Time Complexity on Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
+
+### Friday Challenge
+
+This challenge is a research project. You can work on it individually or in teams of 2 or 3.
+
+[Here's the outline](./algorithmic_complexity/README.md).
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/apprenticeship_module_outlines.md)
