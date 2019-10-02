@@ -29,9 +29,9 @@ By the end of the module all developers can:
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
-Each of the exercises in the table below will link you to a Diode project with further details. The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel you need more practice on.
+The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel you need more practice on.
 
-Please **do not** proceed on to the next core exercise until you have validated the previous one in Diode and, ideally, have received feedback from a coach.
+Please **do not** proceed on to the next core exercise until you have validated the previous one by seeking feedback from a coach or another member of the cohort.
 
 | Key Skill                     | Core Exercise                                  | Optional Exercises                                                     |
 | ----------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------- |
@@ -44,17 +44,17 @@ Please **do not** proceed on to the next core exercise until you have validated 
 | Isolating Unit Tests          | [Dependency Injection Practical][di_practical] | Isolate Simple Checkout Tests                                          |
 |                               |                                                | [Learn by building: RSpec][build_rspec]                                |
 
-[debugging_practical]: https://diode.makersacademy.com/students/dearshrewdwit/projects/832
-[debug_fizzbuzz]: https://diode.makersacademy.com/students/samjones1001/projects/2286
-[debugging_1]: https://diode.makersacademy.com/students/dearshrewdwit/projects/864
-[writing_unit_tests]: https://diode.makersacademy.com/students/samjones1001/projects/2287
-[testing_relationships_classes]: https://diode.makersacademy.com/students/EdwardAndress/projects/975
-[tdd_dice_class]: https://diode.makersacademy.com/students/alicelieutier/projects/813
-[diagram_tdd]: https://diode.makersacademy.com/students/alicelieutier/projects/812
-[tdd_practical]: https://diode.makersacademy.com/students/samjones1001/projects/2288
-[simple_checkout]: https://diode.makersacademy.com/students/samjones1001/projects/317
-[tdd_notes_app]: https://diode.makersacademy.com/students/neoeno/projects/13
-[di_practical]: https://diode.makersacademy.com/students/soph-g/projects/645
+[debugging_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
+[debug_fizzbuzz]: https://hackmd.io/s/S147x3Q3m
+[debugging_1]: https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1
+[writing_unit_tests]: https://hackmd.io/s/rkCgEnE2Q
+[testing_relationships_classes]: https://github.com/neoeno/testing_relationships_between_classes
+[tdd_dice_class]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_a_single_object.md
+[diagram_tdd]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/diagram_the_your_process.md
+[tdd_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md
+[simple_checkout]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_multiple_objects.md
+[tdd_notes_app]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_a_notes_app.md
+[di_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md
 [build_rspec]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md
 
 ### Afternoons
@@ -63,7 +63,7 @@ Please **do not** proceed on to the next core exercise until you have validated 
 
 ### Friday Challenge
 
-[Airport](https://diode.makersacademy.com/students/alicelieutier/projects/960)
+[Airport](https://github.com/makersacademy/airport_challenge)
 
 
 ## Module 4
@@ -76,7 +76,7 @@ By the end of the module all developers can:
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
-Each of the exercises in the table below will link you to a Diode project with further details. The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel you need more practice on.
+The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel you need more practice on.
 
 Please **do not** proceed on to the next core exercise until you have validated the previous one by seeking feedback from a coach or another member of the cohort.
 
@@ -88,14 +88,14 @@ Please **do not** proceed on to the next core exercise until you have validated 
 |                                  | [Forwarding and Polymorphism][forwarding_polymorphism] | [Inheritance and Composition][inheritance_composition]                 |
 | Class Extraction and Refactoring | [Refactoring using OO][refactoring_using_oo]           | [Class Extraction][class_extraction]                                   |
 
-[encapsulation]: https://diode.makersacademy.com/students/EdwardAndress/projects/981
-[testing_relationships_objects]: https://diode.makersacademy.com/students/EdwardAndress/projects/975
-[forwarding_polymorphism]: https://diode.makersacademy.com/students/EdwardAndress/projects/980
+[encapsulation]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
+[testing_relationships_objects]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/testing_relationships.md
+[forwarding_polymorphism]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md
 [inheritance_composition]: https://github.com/makersacademy/skills-workshops/tree/master/week-2/inheritance
-[refactoring_using_oo]: https://diode.makersacademy.com/students/EdwardAndress/projects/977
+[refactoring_using_oo]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/refactoring.md
 [class_extraction]: https://github.com/makersacademy/skills-workshops/tree/master/week-2/extracting_a_class
 
-If you would prefer to work on a single, larger project, take a look at the [Gilded Rose Design Project](https://diode.makersacademy.com/students/neoeno/projects/1732). This is more involved and a wider scope than the more targeted exercises listed above, and is likely to take up most of your mornings this week.
+If you would prefer to work on a single, larger project, take a look at the [Gilded Rose Design Project](https://github.com/makersacademy/gilded_rose_design_project). This is more involved and a wider scope than the more targeted exercises listed above, and is likely to take up most of your mornings this week.
 
 ### Afternoons
 
@@ -103,7 +103,7 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 
 ### Friday Challenge
 
-[Takeaway](https://diode.makersacademy.com/students/neoeno/projects/132)
+[Takeaway](https://github.com/makersacademy/takeaway-challenge)
 
 
 ## Module 5
@@ -116,7 +116,7 @@ By the end of the module all developers can:
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
-* [Diagram the HTTP req/response cycle](https://diode.makersacademy.com/students/alicelieutier/projects/415)
+* [Diagram the HTTP req/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/week-3/process_modelling)
 * [Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md)
 * [Clients](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md)
 * [HTTP Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md)
@@ -127,7 +127,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 ### Friday Challenge
 
-[RPS](https://diode.makersacademy.com/students/neoeno/projects/133)
+[Rock Paper Scissors](https://github.com/makersacademy/rps-challenge)
 
 
 ## Module 6
@@ -142,11 +142,12 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 * [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md)
 * [SQLZoo](https://sqlzoo.net/)
-* [ELI5 What is a database](https://diode.makersacademy.com/students/alicelieutier/projects/1286)
 
-More of a tool:
+### Resources
 
 * [REST](https://github.com/sjmog/rest)
+* [explainlikeimfive (ELI5) What is a database?](https://diode.makersacademy.com/students/alicelieutier/projects/1286)
+
 
 ### Afternoons
 
@@ -183,7 +184,7 @@ Here's a great tool to deploy pure html/js sites: surge.sh
 
 ### Friday Challenge
 
-[Bowling](https://diode.makersacademy.com/students/neoeno/projects/32)
+[Bowling](https://github.com/makersacademy/bowling-challenge)
 
 
 ## Module 8
