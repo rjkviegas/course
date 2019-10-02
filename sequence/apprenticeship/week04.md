@@ -1,18 +1,15 @@
 # Week Four Structure
 
 #### Monday
-10:30am - Airport Challenge Code Review and Week 2 Kick off
 
-#### Tuesday
-10:00am - TDD refresher workshop *OR* Dependency Injection Workshop
+[Challenges Monday schedule](./challenges_monday_schedule.md)
 
-#### Wednesday
-10:00am - Delegation Workshop
+#### Tuesday, Wednesday, Thursday
 
-#### Thursday
-10:00am - Class Extraction Workshop
+[Challenges mid-week schedule](./challenges_mid_week_schedule.md)
 
 #### Friday
-Retro
+
+[Challenges Friday schedule](./challenges_friday_schedule.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/apprenticeship/week04.md)

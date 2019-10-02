@@ -1,19 +1,15 @@
 # Week Two Structure
 
-#### Monday
-10:30am - Airport Challenge Code Review and Week 2 Kick off
+#### Monday, Tuesday
 
-#### Tuesday
-10:00am - [Encapsulation and Cohesion](https://diode.makersacademy.com/students/neoeno/projects/370
-)
+[Challenges mid-week schedule](./challenges_mid_week_schedule.md)
 
 #### Wednesday
-10:00am - [Isolating Unit Tests](https://diode.makersacademy.com/students/samjones1001/projects/1738)
 
-#### Thursday
-10:00am - [Class Extraction and Delegation](https://diode.makersacademy.com/students/samjones1001/projects/1740)
+[Challenges Friday schedule](./challenges_friday_schedule.md)
 
-#### Friday
-Retro
+#### Thursday, Friday
+
+[Challenges mid-week schedule](./challenges_mid_week_schedule.md)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/apprenticeship/week02.md)
