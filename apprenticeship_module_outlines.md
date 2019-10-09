@@ -38,8 +38,10 @@ Please **do not** proceed on to the next core exercise until you have validated 
 | Debugging                     | [Debugging Practical][debugging_practical]     | [Debug Fizzbuzz][debug_fizzbuzz]                                       |
 |                               |                                                | [Debugging 1][debugging_1]                                             |
 | Writing Tests                 | [Writing Unit Tests][writing_unit_tests]       | [Testing Relationships Between Classes][testing_relationships_classes] |
-| Test Driving A Single Object  | [Test Drive a Dice Class][tdd_dice_class]      | [Diagram Your TDD Process][diagram_tdd]                                |
-|                               |                                                | [Test Driving Practical][tdd_practical]                                |
+| Test Driving Methods          | [Test Driving Practical][tdd_practical]        | [Test driving a kata][tdd_kata]    
+|                               | [TDD Fizzbuzz][tdd_fizzbuzz]                   |
+| Test Driving A Single Object  | [Bank Account][bank_account]                   | [Diagram Your TDD Process][diagram_tdd]                                |
+|                               | [Test Drive a Dice Class][tdd_dice_class]      |                                 |
 | Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             | [Test Drive a Notes App][tdd_notes_app]                                |
 | Isolating Unit Tests          | [Dependency Injection Practical][di_practical] | Isolate Simple Checkout Tests                                          |
 |                               |                                                | [Learn by building: RSpec][build_rspec]                                |
@@ -56,7 +58,9 @@ Please **do not** proceed on to the next core exercise until you have validated 
 [tdd_notes_app]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_a_notes_app.md
 [di_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md
 [build_rspec]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md
-
+[bank_account]: https://github.com/makersacademy/simple_tdd_bank
+[tdd_kata]: http://codekata.com/kata/kata01-supermarket-pricing/
+[tdd_fizzbuzz]: https://github.com/makersacademy/course/blob/a40d2500a627546c70feebdc92da329147ae34c1/fizzbuzz/fizzbuzz.md
 ### Afternoons
 
 [Boris bikes](https://github.com/makersacademy/course/tree/master/boris_bikes)
