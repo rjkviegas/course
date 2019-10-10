@@ -67,8 +67,8 @@ In weeks 1-5:
 ### Morning
 * **09.30–12.30: Goal-directed project work.** You'll work independently on projects to achieve goals. You’ll use your [own way of tracking your goals](https://github.com/makersacademy/course/blob/master/goals/self_directed_learning/resources/tracking_your_learning.md) to self-assign projects and assess your progress.
 
-Coaches will be running workshops, mini projects, 1:1s, or generally available to chat to.
-* **12.30–13.30: Lunch.** Go out in droves to one of Shoreditch's fine local eateries, or there's often a lunchtime talk from one of the many CTOs that our hiring team speak to!
+    Coaches will be running workshops, mini projects, 1:1s, or generally available to chat to.
+* **12.30–13.30: Lunch.** Go out in droves to one of Shoreditch's fine local eateries or bring your own lunch in. There is often a lunchtime talk from one of the many CTOs that our hiring team speak to!
 
 ### Afternoon
 * **13.30–14.00: Meditation.** Programming is extremely challenging. Meditation helps keep a lid on things, keeps you grounded, and helps keep your brain sharp.
