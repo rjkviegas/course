@@ -10,6 +10,8 @@ In self-directed learning, one of the important aspects is to keep track of your
 ## Other examples from Makers devs
 Here are other tools Makers developers have used to track their learnings and reflections along the way:
 
+* Dan (August 2019) records his reflections and learning in a [github repo](https://github.com/DanGyi23/MyPortfolio)
+
 * Matt (March 2019) records all his notes/learning/feedback in a [github repo](https://github.com/mattTea/Portfolio)
 > It includes the goals set out pretty similarly to diode, but also has all my projects, process, weekly goals (and in there my raw weekly notes), etc
 
@@ -28,7 +30,7 @@ Here are other tools Makers developers have used to track their learnings and re
 
 * Masha (March 2019) has been using [Bear](https://bear.app/):
 > For tracking my learning I’ve been using Bear notes extensively, marking every language (ruby, shell, JavaScript etc) and or topics (debugging, Tdd, modelling etc) with hashtags (extremely helpful feature of the app). I also created hashtags for each week and was putting corresponding stuff there. I’ve copied course outline file there as bear works perfectly with markdown
-> Somewhere in the middle of the course I’ve upgraded to the pro version (less than 2 pounds I think a month) to sync it between all the devices plus there are other nice add ons. 
+> Somewhere in the middle of the course I’ve upgraded to the pro version (less than 2 pounds I think a month) to sync it between all the devices plus there are other nice add ons.
 
 ## Inquiry Project
 
