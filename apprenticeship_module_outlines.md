@@ -4,8 +4,10 @@
 
 By the end of modules 1 & 2 all developers can:
 
-1. Navigate their essential programming environment
-2. Fluently write procedural programs
+1. Navigate a unix command line
+2. Version control projects
+3. Write a procedural program
+4. Use a process for solving a problem
 
 ### Challenges
 
@@ -23,7 +25,8 @@ By the end of modules 1 & 2 all developers can:
 
 By the end of the module all developers can:
 
-* Test-drive their code
+1. Apply Test-Driven Development
+2. Use Reflection to evidence and reflect on work towards goals
 
 ### Mornings
 
@@ -74,7 +77,10 @@ Please **do not** proceed on to the next core exercise until you have validated 
 
 By the end of the module all developers can:
 
-* Break code into multiple objects following object-oriented design principles
+1. Explain why modularity through encapsulation is useful for developers, tying it to ease of change
+2. Break up programs into multiple objects which work together, with test coverage
+
+Stretch: Test classes in isolation using mocking and dependency injection
 
 ### Mornings
 
@@ -114,7 +120,8 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 
 By the end of the module all developers can:
 
-* Model some protocols used by computers to communicate across the Web
+1. Test-drive a simple web app with form submission and in-memory persistence.
+2. Explain how data flows in the 3-tier web architecture: from the browser, request, controller, model, view, response, and back to the browser.
 
 ### Mornings
 
@@ -138,7 +145,10 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 By the end of the module all developers can:
 
-* Integrate a database into a software application
+1. Explain the data flow through from user action all the way to server resource and back again (3-tier Web Architecture).
+2. Give an overview of relational database structure, including tables, rows, and relationships.
+3. Build a database-backed web app.
+4. Follow an effective debugging process for database-backed web apps.
 
 ### Mornings
 
@@ -166,7 +176,8 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 By the end of the module all developers can:
 
-* Learn any new programming language
+1. Follow an effective learning process for learning a new language
+2. Test drive simple front-end web app with Javascript
 
 ### Mornings
 
@@ -195,7 +206,8 @@ Here's a great tool to deploy pure html/js sites: surge.sh
 
 By the end of the module all developers can:
 
-* Explain how dev teams work together
+1. Explain how dev teams work together
+2. Give feedback that results in a positive change to a codebase
 
 For more information about this project and how great dev teams work together look [here](./engineering_projects/README.md).
 
@@ -204,7 +216,9 @@ For more information about this project and how great dev teams work together lo
 
 By the end of the module all developers can:
 
-* Characterise the complexity of common algorithms
+1. Mention efficiency as one axis to talk about algorithms
+2. Have conversations about algorithmic complexity
+3. Characterise the complexity of classic algorithms
 
 ### Resources
 
