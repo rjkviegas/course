@@ -50,12 +50,11 @@
 
 - Choose one of the following:
 
-#### GitHub issue + waffle.io
-- Register for waffle.io with GitHub
-- Set up a waffle for the repository, and watch the magic happen!
+#### GitHub Project Board
+
+- Got to your github repo, then to the Projects tab and click "Create a Project"
 - Copy across the tasks from the trello board (Check the pathway for details)
-- Add your team members and project coach to the waffle
-- Update your GitHub project `README.md` with the URL of the waffle board
+- Update your GitHub project `README.md` to say you are using a github project board.
 
 #### Trello
 
