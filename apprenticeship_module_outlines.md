@@ -4,10 +4,10 @@
 
 By the end of modules 1 & 2 all developers can:
 
-1. Navigate a unix command line
-2. Version control projects
-3. Write a procedural program
-4. Use a process for solving a problem
+* Navigate a unix command line
+* Version control projects
+* Write a procedural program
+* Use a process for solving a problem
 
 ### Challenges
 
@@ -25,8 +25,10 @@ By the end of modules 1 & 2 all developers can:
 
 By the end of the module all developers can:
 
-1. Apply Test-Driven Development
-2. Use Reflection to evidence and reflect on work towards goals
+* Test-drive a simple program using objects and methods
+* Pair using the driver-navigator style
+* Follow an effective debugging process
+* Use Reflection to evidence and reflect on work towards goals
 
 ### Mornings
 
@@ -77,8 +79,11 @@ Please **do not** proceed on to the next core exercise until you have validated 
 
 By the end of the module all developers can:
 
-1. Explain why modularity through encapsulation is useful for developers, tying it to ease of change
-2. Break up programs into multiple objects which work together, with test coverage
+* Use all of week 1's skills (don't underestimate the importance of this)
+* Break one class into two classes that work together, while maintaining test coverage
+* Unit test classes in isolation using mocking
+* Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+* Review another person's code and give them meaningful feedback
 
 Stretch: Test classes in isolation using mocking and dependency injection
 
@@ -120,8 +125,10 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 
 By the end of the module all developers can:
 
-1. Test-drive a simple web app with form submission and in-memory persistence.
-2. Explain how data flows in the 3-tier web architecture: from the browser, request, controller, model, view, response, and back to the browser.
+* Test-drive a simple web app
+* Follow an effective debugging process for web applications
+* Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+* Explain the MVC pattern
 
 ### Mornings
 
@@ -145,10 +152,10 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 By the end of the module all developers can:
 
-1. Explain the data flow through from user action all the way to server resource and back again (3-tier Web Architecture).
-2. Give an overview of relational database structure, including tables, rows, and relationships.
-3. Build a database-backed web app.
-4. Follow an effective debugging process for database-backed web apps.
+* Explain the data flow through from user action to server resource and back again
+* Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
+* Follow an effective debugging process for database-backed web applications
+* Build a simple web app with a database
 
 ### Mornings
 
@@ -176,8 +183,9 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 By the end of the module all developers can:
 
-1. Follow an effective learning process for learning a new language
-2. Test drive simple front-end web app with Javascript
+* Test drive a simple front-end web app with Javascript
+* Describe a process for learning a new language
+* Follow an effective process for learning a new language
 
 ### Mornings
 
@@ -206,8 +214,9 @@ Here's a great tool to deploy pure html/js sites: surge.sh
 
 By the end of the module all developers can:
 
-1. Explain how dev teams work together
-2. Give feedback that results in a positive change to a codebase
+* Explain how dev teams work together
+* Give feedback that results in a positive change to a codebase
+* Can use high-quality processes to build a project in a team
 
 For more information about this project and how great dev teams work together look [here](./engineering_projects/README.md).
 
@@ -216,9 +225,9 @@ For more information about this project and how great dev teams work together lo
 
 By the end of the module all developers can:
 
-1. Mention efficiency as one axis to talk about algorithms
-2. Have conversations about algorithmic complexity
-3. Characterise the complexity of classic algorithms
+* Mention efficiency as one axis to talk about algorithms
+* Have conversations about algorithmic complexity
+* Characterise the complexity of classic algorithms
 
 ### Resources
 
