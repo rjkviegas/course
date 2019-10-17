@@ -17,7 +17,7 @@ During the first 12 weeks of your apprenticeship, you'll work through 10 modules
 | 7 | Learn a new language | Develop a strategy for learning a new language | [Learn Javascript](../thermostat/README.md) |
 | 8 | Engineering project I | Build a pre-defined application in a team | [Acebook](../engineering_projects/README.md) |
 | 9 | Performance | Make your code, and your program, more efficient | [Algorithmic complexity](../algorithmic_complexity/README.md) |
-| 10 | Engineeing project II | Design and build your own application, in a team | [Final project](../final_projects/README.md) |
+| 10 | Engineering project II | Design and build your own application, in a team | [Final project](../final_projects/README.md) |
 
 **Your daily routine will change, depending on which module your cohort is working on.  Find out more [here](daily_schedule.md)**.
 
