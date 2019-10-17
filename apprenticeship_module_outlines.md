@@ -28,7 +28,7 @@ By the end of the module all developers can:
 * Test-drive a simple program using objects and methods
 * Pair using the driver-navigator style
 * Follow an effective debugging process
-* Use Reflection to evidence and reflect on work towards goals
+* Use evidence and reflection to assess their own progress towards a goal
 
 ### Mornings
 
