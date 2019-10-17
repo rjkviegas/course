@@ -8,16 +8,16 @@ During the first 12 weeks of your apprenticeship, you'll work through 10 modules
 
 | Module  | Name | Description | Challenge |
 | --- | --- | --- | --- |
-| 1 | Basic Programming I | Master the command line and git | [The command line mystery](https://github.com/makersacademy/clmystery) |
-| 2 | Basic Programming II | Master procedural programming | [Student Directory](https://github.com/makersacademy/student-directory/blob/master/README.md)|
-| 3 | TDD | Test driven development | [Boris Bikes](../boris_bikes/0_challenge_map.md) |
-| 4 | OOD | Object Oriented Design | [Osytercard](../oystercard/README.md) |
-| 5 | The web| Learn how the web works | [Intro to the web](../intro_to_the_web/README.md) |
-| 6 | Databases| Learn how to integrate a DB | [Bookmark Manager](../bookmark_manager/00_challenge_map.md) |
-| 7 | Learn a new language | Develop a strategy for learning a new language | [Learn Javascript](../thermostat/README.md) |
-| 8 | Engineering project I | Build a pre-defined application in a team | [Acebook](../engineering_projects/README.md) |
-| 9 | Performance | Make your code, and your program, more efficient | [Algorithmic complexity](../algorithmic_complexity/README.md) |
-| 10 | Engineering project II | Design and build your own application, in a team | [Final project](../final_projects/README.md) |
+| 1 | [Basic Programming I](../apprenticeship_module_outlines.md#modules-1--2-basic-programming) | Master the command line and git | [The command line mystery](https://github.com/makersacademy/clmystery) |
+| 2 | [Basic Programming II](../apprenticeship_module_outlines.md#modules-1--2-basic-programming) | Master procedural programming | [Student Directory](https://github.com/makersacademy/student-directory/blob/master/README.md)|
+| 3 | [TDD](../apprenticeship_module_outlines.md#module-3-test-driven-development) | Test-driven development | [Boris Bikes](../boris_bikes/0_challenge_map.md) |
+| 4 | [OOD](../apprenticeship_module_outlines.md#module-4-object-oriented-design) | Object-oriented Design | [Osytercard](../oystercard/README.md) |
+| 5 | [The Web](../apprenticeship_module_outlines.md#module-5-the-web) | Learn how the web works | [Intro to the web](../intro_to_the_web/README.md) |
+| 6 | [Databases](../apprenticeship_module_outlines.md#module-6-databases) | Learn how to integrate a DB | [Bookmark Manager](../bookmark_manager/00_challenge_map.md) |
+| 7 | [Learn A New Language](../apprenticeship_module_outlines.md#module-7-learn-a-new-language) | Develop a strategy for learning a new language | [Learn Javascript](../thermostat/README.md) |
+| 8 | [Engineering Project I](../apprenticeship_module_outlines.md#module-8-engineering-project-i) | Build a pre-defined application in a team | [Acebook](../engineering_projects/README.md) |
+| 9 | [Performance](../apprenticeship_module_outlines.md#module-9-performance) | Make your code, and your program, more efficient | [Algorithmic complexity](../algorithmic_complexity/README.md) |
+| 10 | Engineering Project II | Design and build your own application, in a team | [Final project](../final_projects/README.md) |
 
 **Your daily routine will change, depending on which module your cohort is working on.  Find out more [here](daily_schedule.md)**.
 
