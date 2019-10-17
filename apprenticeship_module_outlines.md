@@ -1,6 +1,6 @@
 **Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These include wellbeing and code quality. They are not the topic of any one module, and you will miss them out unless you think of them regularly!
 
-## Modules 1 & 2
+## Modules 1 & 2: Basic Programming
 
 By the end of modules 1 & 2 all developers can:
 
@@ -21,7 +21,7 @@ By the end of modules 1 & 2 all developers can:
 * [End of Module Challenge: Part 1](https://github.com/makersacademy/wednesday-challenge)
 
 
-## Module 3
+## Module 3: Test-Driven Development
 
 By the end of the module all developers can:
 
@@ -75,7 +75,7 @@ Please **do not** proceed on to the next core exercise until you have validated 
 [Airport](https://github.com/makersacademy/airport_challenge)
 
 
-## Module 4
+## Module 4: Object-Oriented Design
 
 By the end of the module all developers can:
 
@@ -121,7 +121,7 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 [Takeaway](https://github.com/makersacademy/takeaway-challenge)
 
 
-## Module 5
+## Module 5: The Web
 
 By the end of the module all developers can:
 
@@ -148,7 +148,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 [Rock Paper Scissors](https://github.com/makersacademy/rps-challenge)
 
 
-## Module 6
+## Module 6: Databases
 
 By the end of the module all developers can:
 
@@ -179,7 +179,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 [Chitter](https://github.com/makersacademy/chitter-challenge)
 
 
-## Module 7
+## Module 7: Learn A New Language
 
 By the end of the module all developers can:
 
@@ -210,7 +210,7 @@ Here's a great tool to deploy pure html/js sites: surge.sh
 [Bowling](https://github.com/makersacademy/bowling-challenge)
 
 
-## Module 8
+## Module 8: Engineering Project I
 
 By the end of the module all developers can:
 
@@ -221,7 +221,7 @@ By the end of the module all developers can:
 For more information about this project and how great dev teams work together look [here](./engineering_projects/README.md).
 
 
-## Module 9
+## Module 9: Performance
 
 By the end of the module all developers can:
 
