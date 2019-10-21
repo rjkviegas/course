@@ -135,7 +135,7 @@ By the end of the week all developers can:
 
 ### Skills workshops
 
-* [CRC Cards](https://github.com/makersacademy/skills-workshops/tree/master/week-4/databases_2)
+* [CRC Cards](https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards)
 * [REST](https://github.com/sjmog/rest)
 
 ## Week 5
