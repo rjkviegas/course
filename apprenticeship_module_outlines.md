@@ -42,7 +42,7 @@ Please **do not** proceed on to the next core exercise until you have validated 
 | ----------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------- |
 | Debugging                     | [Debugging Practical][debugging_practical]     | [Debug Fizzbuzz][debug_fizzbuzz]                                       |
 |                               |                                                | [Debugging 1][debugging_1]                                             |
-| Writing Tests                 | [Writing Unit Tests][writing_unit_tests] (Website down 10/10/2019)       | [Testing Relationships Between Classes][testing_relationships_classes] |
+| Writing Tests                 | [Writing Unit Tests][writing_unit_tests] (Website not accessible in Peterborough)       | [Testing Relationships Between Classes][testing_relationships_classes] |
 | Test Driving Methods          | [Test Driving Practical][tdd_practical]        | [Test driving a kata][tdd_kata]    
 |                               | [TDD Fizzbuzz][tdd_fizzbuzz]                   |
 | Test Driving A Single Object  | [Bank Account][bank_account]                   | [Diagram Your TDD Process][diagram_tdd]                                |
