@@ -138,10 +138,11 @@ Some programmes could be very time efficient, but allocate tons of memory.
 ### Additional resources
 
 * [A video introducing algorithmic efficiency](https://www.youtube.com/watch?v=u2iHB2vv3iE)
-* [A guide to big O notation and complexity](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?)
+* [An online guide to big O notation and complexity](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?)
 * [A podcast about algorithmic complexity, with some great notes](https://www.codingblocks.net/podcast/what-is-algorithmic-complexity/)
 * [An article going about guessing complexity from looking at the code](https://developerinsider.co/big-o-notation-explained-with-examples/amp/)
 * [The Imposter's Handbook - A book explaining CS concept for self-taught programmers](https://bigmachine.io/products/the-imposters-handbook/)
+* [Grokking Algorithms - An illustrated book, fully available online](https://www.manning.com/books/grokking-algorithms?)
 
 * A few projects done by previous cohort members that you can check:
   * https://github.com/DamoH/algorithmic-complexity (some Ruby and Java)

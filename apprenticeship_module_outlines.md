@@ -1,11 +1,13 @@
 **Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These include wellbeing and code quality. They are not the topic of any one module, and you will miss them out unless you think of them regularly!
 
-## Modules 1 & 2
+## Modules 1 & 2: Basic Programming
 
 By the end of modules 1 & 2 all developers can:
 
-1. Navigate their essential programming environment
-2. Fluently write procedural programs
+* Navigate a unix command line
+* Version control projects
+* Write a procedural program
+* Use a process for solving a problem
 
 ### Challenges
 
@@ -19,11 +21,14 @@ By the end of modules 1 & 2 all developers can:
 * [End of Module Challenge: Part 1](https://github.com/makersacademy/wednesday-challenge)
 
 
-## Module 3
+## Module 3: Test-Driven Development
 
 By the end of the module all developers can:
 
-* Test-drive their code
+* Test-drive a simple program using objects and methods
+* Pair using the driver-navigator style
+* Follow an effective debugging process
+* Use evidence and reflection to assess their own progress towards a goal
 
 ### Mornings
 
@@ -37,6 +42,7 @@ Please **do not** proceed on to the next core exercise until you have validated 
 | ----------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------- |
 | Debugging                     | [Debugging Practical][debugging_practical]     | [Debug Fizzbuzz][debug_fizzbuzz]                                       |
 |                               |                                                | [Debugging 1][debugging_1]                                             |
+| Coding A Single Object        | [State and Behaviour][state_and_behaviour]        |
 | Writing Tests                 | [Writing Unit Tests][writing_unit_tests]       | [Testing Relationships Between Classes][testing_relationships_classes] |
 | Test Driving Methods          | [Test Driving Practical][tdd_practical]        | [Test driving a kata][tdd_kata]    
 |                               | [TDD Fizzbuzz][tdd_fizzbuzz]                   |
@@ -49,7 +55,8 @@ Please **do not** proceed on to the next core exercise until you have validated 
 [debugging_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
 [debug_fizzbuzz]: https://hackmd.io/s/S147x3Q3m
 [debugging_1]: https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1
-[writing_unit_tests]: https://hackmd.io/s/rkCgEnE2Q
+[state_and_behaviour]: https://github.com/makersacademy/skills-workshops/tree/master/ruby-fundamentals/class-syntax
+[writing_unit_tests]: https://github.com/makersacademy/skills-workshops/tree/c268bb78fdc4df644d0ed7b1fdd189de426895f8/week-1/writing_tests
 [testing_relationships_classes]: https://github.com/neoeno/testing_relationships_between_classes
 [tdd_dice_class]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_a_single_object.md
 [diagram_tdd]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/diagram_the_your_process.md
@@ -70,11 +77,17 @@ Please **do not** proceed on to the next core exercise until you have validated 
 [Airport](https://github.com/makersacademy/airport_challenge)
 
 
-## Module 4
+## Module 4: Object-Oriented Design
 
 By the end of the module all developers can:
 
-* Break code into multiple objects following object-oriented design principles
+* Use all of week 1's skills (don't underestimate the importance of this)
+* Break one class into two classes that work together, while maintaining test coverage
+* Unit test classes in isolation using mocking
+* Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+* Review another person's code and give them meaningful feedback
+
+Stretch: Test classes in isolation using mocking and dependency injection
 
 ### Mornings
 
@@ -110,11 +123,14 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 [Takeaway](https://github.com/makersacademy/takeaway-challenge)
 
 
-## Module 5
+## Module 5: The Web
 
 By the end of the module all developers can:
 
-* Model some protocols used by computers to communicate across the Web
+* Test-drive a simple web app
+* Follow an effective debugging process for web applications
+* Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+* Explain the MVC pattern
 
 ### Mornings
 
@@ -149,11 +165,14 @@ These exercises can be used for independent study, or enhanced by group discussi
 [Rock Paper Scissors](https://github.com/makersacademy/rps-challenge)
 
 
-## Module 6
+## Module 6: Databases
 
 By the end of the module all developers can:
 
-* Integrate a database into a software application
+* Explain the data flow through from user action to server resource and back again
+* Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
+* Follow an effective debugging process for database-backed web applications
+* Build a simple web app with a database
 
 ### Mornings
 
@@ -177,11 +196,13 @@ These exercises can be used for independent study, or enhanced by group discussi
 [Chitter](https://github.com/makersacademy/chitter-challenge)
 
 
-## Module 7
+## Module 7: Learn A New Language
 
 By the end of the module all developers can:
 
-* Learn any new programming language
+* Test drive a simple front-end web app with Javascript
+* Describe a process for learning a new language
+* Follow an effective process for learning a new language
 
 ### Mornings
 
@@ -206,20 +227,24 @@ Here's a great tool to deploy pure html/js sites: surge.sh
 [Bowling](https://github.com/makersacademy/bowling-challenge)
 
 
-## Module 8
+## Module 8: Engineering Project I
 
 By the end of the module all developers can:
 
 * Explain how dev teams work together
+* Give feedback that results in a positive change to a codebase
+* Can use high-quality processes to build a project in a team
 
 For more information about this project and how great dev teams work together look [here](./engineering_projects/README.md).
 
 
-## Module 9
+## Module 9: Performance
 
 By the end of the module all developers can:
 
-* Characterise the complexity of common algorithms
+* Mention efficiency as one axis to talk about algorithms
+* Have conversations about algorithmic complexity
+* Characterise the complexity of classic algorithms
 
 ### Resources
 
