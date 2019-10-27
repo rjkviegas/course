@@ -120,10 +120,25 @@ By the end of the module all developers can:
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
-* [Diagram the HTTP req/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/week-3/process_modelling)
-* [Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md)
-* [Clients](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md)
-* [HTTP Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md)
+| Key Skill                        | Core Exercise                                          | Optional Exercises                                                     |
+| -------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------- |
+| Http Request/Response            | [Diagram the HTTP req/response cycle][process_model]   |                                                                        |
+| Servers/Clients                  | [Servers][servers]    |                           |
+|                                  | [Clients][clients]    |                           |
+|                                  | [HTTP Severs][http_servers]                       |                           |
+| TDD Web App                      |  [To Do List][to_do_list]                         |      [Birthday][birthday]   |
+|                                  |                                                    |            |
+| Rest                             | [Rest][rest]           |   [Comedy API][comedy_api]                                 |
+
+[process_model]: https://github.com/makersacademy/skills-workshops/tree/master/week-3/process_modelling
+[servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md
+[clients]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md
+[http_servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md
+[rest]: https://github.com/makersacademy/rest
+[comedy_api]: https://github.com/makersacademy/comedy_api_tech_test
+[to_do_list]: https://github.com/makersacademy/todo-list-web
+[birthday]: https://github.com/makersacademy/birthdays
+
 
 ### Afternoons
 
