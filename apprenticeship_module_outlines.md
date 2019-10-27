@@ -42,7 +42,8 @@ Please **do not** proceed on to the next core exercise until you have validated 
 | ----------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------- |
 | Debugging                     | [Debugging Practical][debugging_practical]     | [Debug Fizzbuzz][debug_fizzbuzz]                                       |
 |                               |                                                | [Debugging 1][debugging_1]                                             |
-| Writing Tests                 | [Writing Unit Tests][writing_unit_tests] (Website not accessible in Peterborough)       | [Testing Relationships Between Classes][testing_relationships_classes] |
+| Coding A Single Object        | [State and Behaviour][state_and_behaviour]        |
+| Writing Tests                 | [Writing Unit Tests][writing_unit_tests]       | [Testing Relationships Between Classes][testing_relationships_classes] |
 | Test Driving Methods          | [Test Driving Practical][tdd_practical]        | [Test driving a kata][tdd_kata]    
 |                               | [TDD Fizzbuzz][tdd_fizzbuzz]                   |
 | Test Driving A Single Object  | [Bank Account][bank_account]                   | [Diagram Your TDD Process][diagram_tdd]                                |
@@ -54,7 +55,8 @@ Please **do not** proceed on to the next core exercise until you have validated 
 [debugging_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
 [debug_fizzbuzz]: https://hackmd.io/s/S147x3Q3m
 [debugging_1]: https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1
-[writing_unit_tests]: https://hackmd.io/s/rkCgEnE2Q
+[state_and_behaviour] https://github.com/makersacademy/skills-workshops/tree/master/ruby-fundamentals/class-syntax
+[writing_unit_tests]: https://github.com/makersacademy/skills-workshops/tree/c268bb78fdc4df644d0ed7b1fdd189de426895f8/week-1/writing_tests
 [testing_relationships_classes]: https://github.com/neoeno/testing_relationships_between_classes
 [tdd_dice_class]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_a_single_object.md
 [diagram_tdd]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/diagram_the_your_process.md
