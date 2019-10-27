@@ -55,7 +55,7 @@ Please **do not** proceed on to the next core exercise until you have validated 
 [debugging_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
 [debug_fizzbuzz]: https://hackmd.io/s/S147x3Q3m
 [debugging_1]: https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1
-[state_and_behaviour] https://github.com/makersacademy/skills-workshops/tree/master/ruby-fundamentals/class-syntax
+[state_and_behaviour]: https://github.com/makersacademy/skills-workshops/tree/master/ruby-fundamentals/class-syntax
 [writing_unit_tests]: https://github.com/makersacademy/skills-workshops/tree/c268bb78fdc4df644d0ed7b1fdd189de426895f8/week-1/writing_tests
 [testing_relationships_classes]: https://github.com/neoeno/testing_relationships_between_classes
 [tdd_dice_class]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_a_single_object.md
