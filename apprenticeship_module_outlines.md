@@ -212,7 +212,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 * [Following the flow](https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async)
 * [JS Objects & Prototypes](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww)
 
-Here's a great tool to deploy pure html/js sites: surge.sh
+Here's a great tool to deploy pure html/js sites: [surge.sh](https://surge.sh)
 
 ### Resources
 
