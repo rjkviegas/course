@@ -180,6 +180,11 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 * [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md)
 * [SQLZoo](https://sqlzoo.net/)
+* [writing-queries](https://github.com/makersacademy/makers-sql-session)
+* [To do list](https://github.com/makersacademy/to-do-list-db)
+* [Rows to model objects](https://github.com/makersacademy/database-models-challenge)
+* Build a blogging tool
+* [News summary api challenge](https://github.com/makersacademy/news-summary-api-challenge)
 
 ### Resources
 
