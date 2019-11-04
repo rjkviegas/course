@@ -211,15 +211,24 @@ By the end of the module all developers can:
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
-* [Learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A)
-* [Following the flow](https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async)
-* [JS Objects & Prototypes](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww)
+| Key Skill                 | Core Exercise                                                  | Optional Exercises                                          |
+| ------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------- |
+| JavaScript syntax         | [Learning a new language by translation](learn_by_translation) | [JS Objects & Prototypes](js_objects_prototypes)            |
+| Debugging                 | [Getting visibility in JavaScript](js_visibility)              |                                                             |
+| Encapsulation             | [Constructor and prototype pattern](js_encapsulation)          |                                                             |
+| Asynchronous control flow | [Following the flow in asynchronous JavaScript](js_async)      | [Callbacks and following the flow of control](js_callbacks) |
 
-Here's a great tool to deploy pure html/js sites: [surge.sh](https://surge.sh)
+[learn_by_translation]: https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A
+[js_objects_prototypes]: https://hackmd.io/nb1VZarCTGicD6dMOo43Ww
+[js_visibility]: https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_the_flow_and_getting_visibility_in_javascript
+[js_encapsulation]: https://github.com/makersacademy/skills-workshops/tree/master/week-5/encapsulation_with_constructor_and_prototype_pattern
+[js_async]: https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async
+[js_callbacks]: https://github.com/makersacademy/skills-workshops/tree/master/week-5/callbacks_following_the_flow_of_control
 
 ### Resources
 
 * [You Don't Know JS – a free book series](https://github.com/getify/You-Dont-Know-JS)
+* Here's a great tool to deploy pure html/js sites: [surge.sh](https://surge.sh)
 
 ### Afternoons
 
