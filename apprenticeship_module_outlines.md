@@ -42,12 +42,12 @@ Please **do not** proceed on to the next core exercise until you have validated 
 | ----------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------- |
 | Debugging                     | [Debugging Practical][debugging_practical]     | [Debug Fizzbuzz][debug_fizzbuzz]                                       |
 |                               |                                                | [Debugging 1][debugging_1]                                             |
-| Coding A Single Object        | [State and Behaviour][state_and_behaviour]        |
+| Coding A Single Object        | [State and Behaviour][state_and_behaviour]     |                                                                        |
 | Writing Tests                 | [Writing Unit Tests][writing_unit_tests]       | [Testing Relationships Between Classes][testing_relationships_classes] |
-| Test Driving Methods          | [Test Driving Practical][tdd_practical]        | [Test driving a kata][tdd_kata]    
-|                               | [TDD Fizzbuzz][tdd_fizzbuzz]                   |
+| Test Driving Methods          | [Test Driving Practical][tdd_practical]        | [Test driving a kata][tdd_kata]                                        |
+|                               | [TDD Fizzbuzz][tdd_fizzbuzz]                   |                                                                        |
 | Test Driving A Single Object  | [Bank Account][bank_account]                   | [Diagram Your TDD Process][diagram_tdd]                                |
-|                               | [Test Drive a Dice Class][tdd_dice_class]      |                                 |
+|                               | [Test Drive a Dice Class][tdd_dice_class]      |                                                                        |
 | Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             | [Test Drive a Notes App][tdd_notes_app]                                |
 | Isolating Unit Tests          | [Dependency Injection Practical][di_practical] | Isolate Simple Checkout Tests                                          |
 |                               |                                                | [Learn by building: RSpec][build_rspec]                                |
@@ -136,15 +136,15 @@ By the end of the module all developers can:
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
-| Key Skill                        | Core Exercise                                          | Optional Exercises                                                     |
-| -------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------- |
-| Http Request/Response            | [Diagram the HTTP req/response cycle][process_model]   |                                                                        |
-| Servers/Clients                  | [Servers][servers]    |                           |
-|                                  | [Clients][clients]    |                           |
-|                                  | [HTTP Severs][http_servers]                       |                           |
-| TDD Web App                      |  [To Do List][to_do_list]                         |      [Birthday][birthday]   |
-|                                  |                                                    |            |
-| Rest                             | [Rest][rest]           |   [Comedy API][comedy_api]                                 |
+| Key Skill             | Core Exercise                                        | Optional Exercises       |
+| --------------------- | ---------------------------------------------------- | ------------------------ |
+| Http Request/Response | [Diagram the HTTP req/response cycle][process_model] |                          |
+| Servers/Clients       | [Servers][servers]                                   |                          |
+|                       | [Clients][clients]                                   |                          |
+|                       | [HTTP Severs][http_servers]                          |                          |
+| TDD Web App           | [To Do List][to_do_list]                             | [Birthday][birthday]     |
+|                       |                                                      |                          |
+| Rest                  | [Rest][rest]                                         | [Comedy API][comedy_api] |
 
 [process_model]: https://github.com/makersacademy/skills-workshops/tree/master/week-3/process_modelling
 [servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md
