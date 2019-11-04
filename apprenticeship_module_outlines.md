@@ -213,10 +213,10 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 | Key Skill                 | Core Exercise                                                  | Optional Exercises                                          |
 | ------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------- |
-| JavaScript syntax         | [Learning a new language by translation](learn_by_translation) | [JS Objects & Prototypes](js_objects_prototypes)            |
-| Debugging                 | [Getting visibility in JavaScript](js_visibility)              |                                                             |
-| Encapsulation             | [Constructor and prototype pattern](js_encapsulation)          |                                                             |
-| Asynchronous control flow | [Following the flow in asynchronous JavaScript](js_async)      | [Callbacks and following the flow of control](js_callbacks) |
+| JavaScript syntax         | [Learning a new language by translation][learn_by_translation] | [JS Objects & Prototypes][js_objects_prototypes]            |
+| Debugging                 | [Getting visibility in JavaScript][js_visibility]              |                                                             |
+| Encapsulation             | [Constructor and prototype pattern][js_encapsulation]          |                                                             |
+| Asynchronous control flow | [Following the flow in asynchronous JavaScript][js_async]      | [Callbacks and following the flow of control][js_callbacks] |
 
 [learn_by_translation]: https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A
 [js_objects_prototypes]: https://hackmd.io/nb1VZarCTGicD6dMOo43Ww
