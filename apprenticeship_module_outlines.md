@@ -42,12 +42,12 @@ Please **do not** proceed on to the next core exercise until you have validated 
 | ----------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------- |
 | Debugging                     | [Debugging Practical][debugging_practical]     | [Debug Fizzbuzz][debug_fizzbuzz]                                       |
 |                               |                                                | [Debugging 1][debugging_1]                                             |
-| Coding A Single Object        | [State and Behaviour][state_and_behaviour]        |
+| Coding A Single Object        | [State and Behaviour][state_and_behaviour]     |                                                                        |
 | Writing Tests                 | [Writing Unit Tests][writing_unit_tests]       | [Testing Relationships Between Classes][testing_relationships_classes] |
-| Test Driving Methods          | [Test Driving Practical][tdd_practical]        | [Test driving a kata][tdd_kata]    
-|                               | [TDD Fizzbuzz][tdd_fizzbuzz]                   |
+| Test Driving Methods          | [Test Driving Practical][tdd_practical]        | [Test driving a kata][tdd_kata]                                        |
+|                               | [TDD Fizzbuzz][tdd_fizzbuzz]                   |                                                                        |
 | Test Driving A Single Object  | [Bank Account][bank_account]                   | [Diagram Your TDD Process][diagram_tdd]                                |
-|                               | [Test Drive a Dice Class][tdd_dice_class]      |                                 |
+|                               | [Test Drive a Dice Class][tdd_dice_class]      |                                                                        |
 | Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             | [Test Drive a Notes App][tdd_notes_app]                                |
 | Isolating Unit Tests          | [Dependency Injection Practical][di_practical] | Isolate Simple Checkout Tests                                          |
 |                               |                                                | [Learn by building: RSpec][build_rspec]                                |
@@ -136,15 +136,14 @@ By the end of the module all developers can:
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
-| Key Skill                        | Core Exercise                                          | Optional Exercises                                                     |
-| -------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------- |
-| Http Request/Response            | [Diagram the HTTP req/response cycle][process_model]   |                                                                        |
-| Servers/Clients                  | [Servers][servers]    |                           |
-|                                  | [Clients][clients]    |                           |
-|                                  | [HTTP Severs][http_servers]                       |                           |
-| TDD Web App                      |  [To Do List][to_do_list]                         |      [Birthday][birthday]   |
-|                                  |                                                    |            |
-| Rest                             | [Rest][rest]           |   [Comedy API][comedy_api]                                 |
+| Key Skill             | Core Exercise                                        | Optional Exercises       |
+| --------------------- | ---------------------------------------------------- | ------------------------ |
+| HTTP Request/Response | [Diagram the HTTP req/response cycle][process_model] |                          |
+| Servers/Clients       | [Servers][servers]                                   |                          |
+|                       | [Clients][clients]                                   |                          |
+|                       | [HTTP Severs][http_servers]                          |                          |
+| TDD Web App           | [To Do List][to_do_list]                             | [Birthday][birthday]     |
+| REST                  | [REST Game][rest]                                    | [Comedy API][comedy_api] |
 
 [process_model]: https://github.com/makersacademy/skills-workshops/tree/master/week-3/process_modelling
 [servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md
@@ -154,7 +153,6 @@ These exercises can be used for independent study, or enhanced by group discussi
 [comedy_api]: https://github.com/makersacademy/comedy_api_tech_test
 [to_do_list]: https://github.com/makersacademy/todo-list-web
 [birthday]: https://github.com/makersacademy/birthdays
-
 
 ### Afternoons
 
@@ -213,15 +211,26 @@ By the end of the module all developers can:
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
-* [Learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A)
-* [Following the flow](https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async)
-* [JS Objects & Prototypes](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww)
+| Key Skill                 | Core Exercise                                                  | Optional Exercises                                          |
+| ------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------- |
+| Learn by translation      | [Learning a new language by translation][learn_by_translation] |                                                             |
+| Objects                   | [JS Objects & Prototypes][js_objects_prototypes]               |                                                             |
+|                           | [Constructor and prototype pattern][js_encapsulation]          |                                                             |
+| Debugging                 | [Getting visibility in JavaScript][js_visibility]              |                                                             |
+| Asynchronous control flow | [Following the flow in asynchronous JavaScript][js_async]      | [Callbacks and following the flow of control][js_callbacks] |
 
-Here's a great tool to deploy pure html/js sites: [surge.sh](https://surge.sh)
+[learn_by_translation]: https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A
+[js_objects_prototypes]: https://hackmd.io/nb1VZarCTGicD6dMOo43Ww
+[js_encapsulation]: https://github.com/makersacademy/skills-workshops/tree/master/week-5/encapsulation_with_constructor_and_prototype_pattern
+[js_visibility]: https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_the_flow_and_getting_visibility_in_javascript
+[js_async]: https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async
+[js_callbacks]: https://github.com/makersacademy/skills-workshops/tree/master/week-5/callbacks_following_the_flow_of_control
 
 ### Resources
 
+* [JavaScript track on Exercism.io](https://exercism.io/tracks/javascript)
 * [You Don't Know JS – a free book series](https://github.com/getify/You-Dont-Know-JS)
+* Here's a great tool to deploy pure html/js sites: [surge.sh](https://surge.sh)
 
 ### Afternoons
 
