@@ -215,7 +215,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 | ------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------- |
 | Learn by translation      | [Learning a new language by translation][learn_by_translation] |                                                             |
 | Objects                   | [JS Objects & Prototypes][js_objects_prototypes]               |                                                             |
-| Encapsulation             | [Constructor and prototype pattern][js_encapsulation]          |                                                             |
+|                           | [Constructor and prototype pattern][js_encapsulation]          |                                                             |
 | Debugging                 | [Getting visibility in JavaScript][js_visibility]              |                                                             |
 | Asynchronous control flow | [Following the flow in asynchronous JavaScript][js_async]      | [Callbacks and following the flow of control][js_callbacks] |
 
