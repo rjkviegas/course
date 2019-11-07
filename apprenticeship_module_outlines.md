@@ -30,7 +30,7 @@ By the end of the module all developers can:
 * Follow an effective debugging process
 * Use evidence and reflection to assess their own progress towards a goal
 
-### Mornings
+### Exercises
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
@@ -68,11 +68,12 @@ Please **do not** proceed on to the next core exercise until you have validated 
 [bank_account]: https://github.com/makersacademy/simple_tdd_bank
 [tdd_kata]: http://codekata.com/kata/kata01-supermarket-pricing/
 [tdd_fizzbuzz]: https://github.com/makersacademy/course/blob/a40d2500a627546c70feebdc92da329147ae34c1/fizzbuzz/fizzbuzz.md
-### Afternoons
+
+### Challenge in pairs
 
 [Boris bikes](https://github.com/makersacademy/course/tree/master/boris_bikes)
 
-### Friday Challenge
+### Individual challenge
 
 [Airport](https://github.com/makersacademy/airport_challenge)
 
@@ -89,7 +90,7 @@ By the end of the module all developers can:
 
 Stretch: Test classes in isolation using mocking and dependency injection
 
-### Mornings
+### Exercises
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
@@ -114,11 +115,11 @@ Please **do not** proceed on to the next core exercise until you have validated 
 
 If you would prefer to work on a single, larger project, take a look at the [Gilded Rose Design Project](https://github.com/makersacademy/gilded_rose_design_project). This is more involved and a wider scope than the more targeted exercises listed above, and is likely to take up most of your mornings this week.
 
-### Afternoons
+### Challenge in pairs
 
 [Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
 
-### Friday Challenge
+### Individual challenge
 
 [Takeaway](https://github.com/makersacademy/takeaway-challenge)
 
@@ -132,7 +133,7 @@ By the end of the module all developers can:
 * Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 * Explain the MVC pattern
 
-### Mornings
+### Exercises
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
@@ -154,11 +155,11 @@ These exercises can be used for independent study, or enhanced by group discussi
 [to_do_list]: https://github.com/makersacademy/todo-list-web
 [birthday]: https://github.com/makersacademy/birthdays
 
-### Afternoons
+### Challenge in pairs
 
 [Battle](https://github.com/makersacademy/course/tree/master/intro_to_the_web)
 
-### Friday Challenge
+### Individual challenge
 
 [Rock Paper Scissors](https://github.com/makersacademy/rps-challenge)
 
@@ -172,7 +173,7 @@ By the end of the module all developers can:
 * Follow an effective debugging process for database-backed web applications
 * Build a simple web app with a database
 
-### Mornings
+### Exercises
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
@@ -189,12 +190,11 @@ These exercises can be used for independent study, or enhanced by group discussi
 * [REST](https://github.com/sjmog/rest)
 * [explainlikeimfive (ELI5) What is a database?](https://diode.makersacademy.com/students/alicelieutier/projects/1286)
 
-
-### Afternoons
+### Challenge in pairs
 
 [Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager/00_challenge_map.md)
 
-### Friday Challenge
+### Individual challenge
 
 [Chitter](https://github.com/makersacademy/chitter-challenge)
 
@@ -207,7 +207,7 @@ By the end of the module all developers can:
 * Describe a process for learning a new language
 * Follow an effective process for learning a new language
 
-### Mornings
+### Exercises
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
@@ -232,11 +232,11 @@ These exercises can be used for independent study, or enhanced by group discussi
 * [You Don't Know JS – a free book series](https://github.com/getify/You-Dont-Know-JS)
 * Here's a great tool to deploy pure html/js sites: [surge.sh](https://surge.sh)
 
-### Afternoons
+### Challenge in pairs
 
 [Thermostat](https://github.com/makersacademy/course/blob/master/thermostat/README.md)
 
-### Friday Challenge
+### Individual challenge
 
 [Bowling](https://github.com/makersacademy/bowling-challenge)
 
@@ -266,7 +266,7 @@ By the end of the module all developers can:
 * [Video illustration of different sorting algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
 * [Time Complexity on Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
 
-### Friday Challenge
+### Challenge
 
 This challenge is a research project. You can work on it individually or in teams of 2 or 3.
 
