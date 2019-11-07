@@ -32,7 +32,7 @@ Here you will find other, relevant materials and challenges that will help you o
 
 ## Placement
 
-After the bootcamp, you'll rejoin employer to become part of a development team and do real-world work.  During this phase, you'll collect evidence that demonstrates you are capable of everything described in the [18 standards points](https://airtable.com/shrTRRuegEe7fQ49t).  Before you start your placement, you should read through [this guide](https://github.com/makersacademy/apprenticeships-resources/blob/master/README.md) so that you know what is expected of you and what you can expect from Makers.
+After the bootcamp, you'll rejoin your employer to become part of a development team and do real-world work.  During this phase, you'll collect evidence that demonstrates you are capable of everything described in the [18 standards points](https://airtable.com/shrTRRuegEe7fQ49t).  Before you start your placement, you should read through [this guide](https://github.com/makersacademy/apprenticeships-resources/blob/master/README.md) so that you know what is expected of you and what you can expect from Makers.
 
 ## Makers Academy - The Company
 
