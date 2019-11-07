@@ -23,14 +23,11 @@ After Homebrew has downloaded PostgreSQL it will show you some installation inst
 
 ## 2. Allow Homebrew to start and stop the Postgres service
 
-PostgreSQL is a database management service. It runs like a server 'in the background' – that is, it can start when your computer starts and won't lock up a terminal window. By default, this can be difficult on some Macs. To avoid this pain, you have to write this magic stuff into a Terminal:
+PostgreSQL is a database management service. It's handy to keep PostgreSQL running 'in the background'. This command will start PostgreSQL in the background and restart it when you login:
 
 ```shell
-ln -sfv /usr/local/opt/postgresql/*.plist ~/Library/LaunchAgents
-launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
+$> brew services start postgresql
 ```
-
-> Obviously, it's not really magic, but it's super-complex and quite distracting. If you're interested in understanding it, there is [information here](https://robots.thoughtbot.com/starting-and-stopping-background-services-with-homebrew).
 
 ## 3. Interact with the PostgreSQL database management system
 
