@@ -81,7 +81,7 @@ Please **do not** proceed on to the next core exercise until you have validated 
 
 By the end of the module all developers can:
 
-* Use all of week 1's skills (don't underestimate the importance of this)
+* Use all of the module 3 skills (don't underestimate the importance of this)
 * Break one class into two classes that work together, while maintaining test coverage
 * Unit test classes in isolation using mocking
 * Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
