@@ -22,9 +22,9 @@ I need to know where I've travelled from
 - Why would you want to temporarily disable some tests (make them pending)?
 
 ## To complete this challenge:
-- [ ] Write up a plan for how you will interact with your code and manually test in IRB.
-- [ ] Write a test that expects the card to remember the entry station after the touch in
-- [ ] Update the `touch_in` method to accept the entry station using a double
+- [ ] Write up a plan for how you will interact with your code and manually test in IRB
+- [ ] Using a double, write a test that expects the card to remember the entry station after the touch in
+- [ ] Update the `touch_in` method to accept the entry station
 - [ ] Update existing tests to pass a station to the `touch_in` method - you may need to declare your double in a `let` statement at the top of your describe block
 - [ ] Expose `entry_station` instance variable using an attribute reader
 - [ ] Make the card forget the entry station on touch out by setting it to `nil`

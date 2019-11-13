@@ -1,4 +1,4 @@
-- [ ] Write a test that expects the card to remember the entry station after the touch in
+- [ ] Using a double, write a test that expects the card to remember the entry station after the touch in
 
 We need to use a double here to represent a station. Remember to keep doubles as simple as possible:
 
@@ -10,7 +10,7 @@ it 'stores the entry station' do
   expect(subject.entry_station).to eq station
 end
 ```
-- [ ] Update the `touch_in` method to accept the entry station using a double
+- [ ] Update the `touch_in` method to accept the entry station
 
 ```ruby
 def touch_in(station)
