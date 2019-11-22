@@ -30,7 +30,7 @@ By the end of the module all developers can:
 * Follow an effective debugging process
 * Use evidence and reflection to assess their own progress towards a goal
 
-### Exercises
+### Exercises for self-directed learning
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
@@ -90,7 +90,7 @@ By the end of the module all developers can:
 
 Stretch: Test classes in isolation using mocking and dependency injection
 
-### Exercises
+### Exercises for self-directed learning
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
@@ -133,7 +133,7 @@ By the end of the module all developers can:
 * Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 * Explain the MVC pattern
 
-### Exercises
+### Exercises for self-directed learning
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
@@ -173,7 +173,7 @@ By the end of the module all developers can:
 * Follow an effective debugging process for database-backed web applications
 * Build a simple web app with a database
 
-### Exercises
+### Exercises for self-directed learning
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
@@ -207,7 +207,7 @@ By the end of the module all developers can:
 * Describe a process for learning a new language
 * Follow an effective process for learning a new language
 
-### Exercises
+### Exercises for self-directed learning
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
