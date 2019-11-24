@@ -13,7 +13,7 @@
 2. When you're finished, slack your project coach
   - How you're going to document your learning to keep the team accountable to its objectives
   - the URL of your project repository
-  - the URL of your card wall
+  - the URL of your card wall/s
 
 3. Any questions, ask!
 
