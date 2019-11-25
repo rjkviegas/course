@@ -188,6 +188,8 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 * [REST](https://github.com/sjmog/rest)
 * [explainlikeimfive (ELI5) What is a database?](https://diode.makersacademy.com/students/alicelieutier/projects/1286)
+* [A Shelfish Starter Guide to Databases
+](https://illustrated.dev/databases)
 
 
 ### Afternoons
