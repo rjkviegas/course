@@ -69,7 +69,7 @@ Please **do not** proceed on to the next core exercise until you have validated 
 [tdd_kata]: http://codekata.com/kata/kata01-supermarket-pricing/
 [tdd_fizzbuzz]: https://github.com/makersacademy/course/blob/a40d2500a627546c70feebdc92da329147ae34c1/fizzbuzz/fizzbuzz.md
 
-### Challenge in pairs
+### Pairing challenge
 
 [Boris bikes](https://github.com/makersacademy/course/tree/master/boris_bikes)
 
@@ -115,7 +115,7 @@ Please **do not** proceed on to the next core exercise until you have validated 
 
 If you would prefer to work on a single, larger project, take a look at the [Gilded Rose Design Project](https://github.com/makersacademy/gilded_rose_design_project). This is more involved and a wider scope than the more targeted exercises listed above, and is likely to take up most of your mornings this week.
 
-### Challenge in pairs
+### Pairing challenge
 
 [Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
 
@@ -155,7 +155,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 [to_do_list]: https://github.com/makersacademy/todo-list-web
 [birthday]: https://github.com/makersacademy/birthdays
 
-### Challenge in pairs
+### Pairing challenge
 
 [Battle](https://github.com/makersacademy/course/tree/master/intro_to_the_web)
 
@@ -190,7 +190,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 * [REST](https://github.com/sjmog/rest)
 * [explainlikeimfive (ELI5) What is a database?](https://diode.makersacademy.com/students/alicelieutier/projects/1286)
 
-### Challenge in pairs
+### Pairing challenge
 
 [Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager/00_challenge_map.md)
 
@@ -232,7 +232,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 * [You Don't Know JS – a free book series](https://github.com/getify/You-Dont-Know-JS)
 * Here's a great tool to deploy pure html/js sites: [surge.sh](https://surge.sh)
 
-### Challenge in pairs
+### Pairing challenge
 
 [Thermostat](https://github.com/makersacademy/course/blob/master/thermostat/README.md)
 
