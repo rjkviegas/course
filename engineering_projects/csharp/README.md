@@ -20,7 +20,9 @@ Follow [these instructions](../project_setup.md) to get your team set up and rea
 
 ## Demo app
 
-[This simple app](https://github.com/makersacademy/TodoApi) is an example of a simple C# JSON API.  Clone it and figure out how it works.  Then pivot and turn it into Acebook.
+[This simple app](https://github.com/makersacademy/TodoApi) is an example of a simple C# JSON API.  Clone it and figure out how it works.
+
+[This AcebookApi](https://github.com/makersacademy/acebook-csharp-template) was developed by refactoring the TodoApi.  Try comparing the two.
 
 **Do not work on this until everyone in your team is comfortable with basic programming in C#.**
 
