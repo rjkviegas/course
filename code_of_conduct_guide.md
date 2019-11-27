@@ -6,7 +6,7 @@ If there's anything you don't understand about the code of conduct or how it's u
 
 ## If you experience a code of conduct transgression
 
-Either [call it out](#calling-out-a-code-of-conduct-transgression) or [report it](#reporting-a-code-of-conduct-transgression).
+[Call it out](#calling-out-a-code-of-conduct-transgression), if you feel comfortable doing so, and [report it](#reporting-a-code-of-conduct-transgression).
 
 ### Calling out a code of conduct transgression
 
@@ -58,13 +58,13 @@ It's a medium transgression if person A argues back.
 
 For example, the person says, "Women are stupid".  Or they make a minor transgression and argue back when called out.
 
-A staff member will give the person a formal warning.  If they make a second medium transgression, they will be told to leave Makers permanently.
+A staff member will give the person a formal warning and, if the transgressor is an apprentice, their employer will be made aware of the incident.  If they make a second medium transgression, they will be told to leave Makers permanently.
 
 ### Severe transgression
 
 An illegal or trust-breaking act.
 
-The person will be told to leave Makers permanently.
+The person will be told to leave Makers permanently.  If the transgressor is an apprentice, their employer will be informed.
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/code_of_conduct_guide.md)
