@@ -4,8 +4,6 @@ You'll work in unchanging **teams of about four** for the whole week.
 
 You'll **implement user stories** for a note-taking app.  No challenges, no walkthroughs.
 
-[A Diode project for the project track can be found here.](https://diode.makersacademy.com/students/neoeno/projects/135)
-
 ## Structure of the week
 
 ### Notes app

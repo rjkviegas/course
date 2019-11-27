@@ -16,7 +16,7 @@ There are two ways of installing PostgreSQL:
 We can use the package manager Homebrew to start the install of PostgreSQL:
 
 ```sh
-$> brew install postgresql
+$ brew install postgresql
 ```
 
 After Homebrew has downloaded PostgreSQL it will show you some installation instructions: follow them!
@@ -26,7 +26,7 @@ After Homebrew has downloaded PostgreSQL it will show you some installation inst
 PostgreSQL is a database management service. It's handy to keep PostgreSQL running 'in the background'. This command will start PostgreSQL in the background and restart it when you login:
 
 ```shell
-$> brew services start postgresql
+$ brew services start postgresql
 ```
 
 ## 3. Interact with the PostgreSQL database management system
@@ -40,7 +40,7 @@ PostgreSQL also provides one built-in database, called `postgres`.
 To start `psql`, type `psql <database name>` into a Terminal, where `<database name>` is the name of the database you want to interact with. So, typing `psql postgres` will give us direct access to that first database:
 
 ```
-$> psql postgres
+$ psql postgres
 postgres=#
 ```
 

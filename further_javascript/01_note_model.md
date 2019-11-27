@@ -26,8 +26,12 @@ For this app, you won't take that approach.  You'll focus on unit tests.  You'll
 
 ### Resources
 
-- :pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
+- [Google JavaScript Style Guide - File Naming](https://google.github.io/styleguide/jsguide.html#file-name)
 - :pill: [Writing tests without a testing library](https://github.com/makersacademy/course/blob/master/pills/writing_tests_without_a_testing_library.md)
+- [Constructor and prototype pattern workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-5/encapsulation_with_constructor_and_prototype_pattern)
+- :pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
+- [Using the JavaScript Module Pattern with Constructor Prototype](http://www.justthink.it/articles/javascript-module-pattern-constructor-arguments/)
+
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/01_note_model.md)

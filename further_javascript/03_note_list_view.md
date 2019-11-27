@@ -26,6 +26,7 @@ In order to display a list of notes to the user, they need to be converted to HT
 ### Resources
 
 - [Constructor and prototype pattern workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-5/encapsulation_with_constructor_and_prototype_pattern)
+- [Using the JavaScript Module Pattern with Constructor Prototype](http://www.justthink.it/articles/javascript-module-pattern-constructor-arguments/)
 - [Array join](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
 - [HTML lists on MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/ul)
 - :pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
