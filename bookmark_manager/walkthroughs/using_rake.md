@@ -1,6 +1,6 @@
 # Walkthrough – Using Rake
 
-[Back to Challenge](../11_using_rake.md)
+[Back to Challenge](../using_rake.md)
 
 Rake is a Ruby task runner. It allows us to do this sort of thing from the command line:
 
