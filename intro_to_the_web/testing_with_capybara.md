@@ -28,7 +28,7 @@ To complete this challenge you will need to have Firefox installed.
 - [ ] Open up *PRY* and require both `capybara/dsl` and `selenium-webdriver`.
 - [ ] Within the REPL, `$ include Capybara::DSL`.
 - [ ] [Set Capybara's default driver](https://github.com/jnicklas/capybara#selecting-the-driver) to be selenium.
-- [ ] Use Capybara's `visit` command to take the automated browser to [http://capybaraworkout.herokuapp.com/](http://capybaraworkout.herokuapp.com/).
+- [ ] Use Capybara's `visit` command to take the automated browser to [http://capybaraworkout.herokuapp.com/](http://capybaraworkout.herokuapp.com/), and use the `click_link` command to click 'Start Workout!'
 - [ ] Refer to a [capybara cheat sheet](https://thoughtbot.com/upcase/test-driven-rails-resources/capybara.pdf) and complete the capybara workout.
 - [ ] Explain to your pair partner what jobs `capybara` and `selenium-webdriver` do.
 
