@@ -3,7 +3,7 @@ JavaScript Intro
 
 [Video from this session](https://www.youtube.com/watch?v=ghrFsfIHzkg)
 
-***Please note, as with all Makers Academy materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
+***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
 
 *Many thanks to [Alex Peattie](https://github.com/alexpeattie) for the design of these walkthroughs*
 

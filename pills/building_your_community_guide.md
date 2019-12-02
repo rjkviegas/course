@@ -54,7 +54,7 @@ The overall approach is to find ways to contribute to the community.  By contrib
 
 * **How do I contribute?** The best way to contribute is by signing up as a mentor.  For example, many Makers mentor at Codebar.
 
-### Makers Academy
+### Makers
 
 * **How do I contribute?** Remain active on Slack.  Mentor newer Makers.  Come to meetups.  Stay connected to your cohort.  Work on projects with other Makers.
 

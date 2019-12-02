@@ -1,4 +1,4 @@
-# Makers Academy
+# Makers
 
 Welcome to the first 12 weeks of the rest of your life...
 
@@ -12,11 +12,11 @@ It is **very important** that you type everything in yourself and **never copy-p
 
 You're just starting to learn to code. It may be tempting to go straight to Ruby on Rails or AngularJS and start building beautiful web applications that use databases, the latest HTML5 and CSS3 features, have several pages of content and maybe even process payments.
 
-In our experience at Makers Academy this is not the fastest way to learn. Trying to use several technologies at the same time when you are not comfortable with most of them will leave you with a bad codebase and no understanding of what went wrong.
+In our experience at Makers this is not the fastest way to learn. Trying to use several technologies at the same time when you are not comfortable with most of them will leave you with a bad codebase and no understanding of what went wrong.
 
 Your goal, as a beginner, is not just to learn how to build software. You must learn how to build it in the right way, following the best industry practices. You must understand why the code you wrote works the way it does.
 
-At Makers Academy, we worked hard to figure out what needs to be learned in what order in order to maximise your productivity. The first weeks project is designed to give you a foundation in Behaviour Driven Design (BDD), Ruby, version control and pair programming. The goal is to learn how to use the language itself before getting to web application frameworks like Rails or Sinatra. This way, you'll be able to focus on the frameworks themselves when we get to them and your progress won't be hindered by your lack of experience with Ruby or the principles of software development.
+At Makers, we worked hard to figure out what needs to be learned in what order in order to maximise your productivity. The first weeks project is designed to give you a foundation in Behaviour Driven Design (BDD), Ruby, version control and pair programming. The goal is to learn how to use the language itself before getting to web application frameworks like Rails or Sinatra. This way, you'll be able to focus on the frameworks themselves when we get to them and your progress won't be hindered by your lack of experience with Ruby or the principles of software development.
 
 **Are you ready?** [Go to the Week outlines!](https://github.com/makersacademy/course/blob/master/week_outlines.md)
 

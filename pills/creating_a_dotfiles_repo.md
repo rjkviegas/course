@@ -192,7 +192,7 @@ Some links
 Additional tasks
 ---------------
 - If you use Sublime then your config files don't live in ~, how would back them up? How would you automate installing them?
-- Remember the set up for Makers Academy? How much of that could you automate with a shell script?
+- Remember the set up for Makers? How much of that could you automate with a shell script?
 - Putting all of your code in one file violates SRP pretty hard, try creating separate files for aliases and functions and just using bash_profile as a runner to load those files.
 
 

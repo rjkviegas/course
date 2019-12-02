@@ -1,6 +1,6 @@
 # Design Fundamentals
 
-***Please note, as with all Makers Academy materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
+***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
 
 [Session filmed on 7/1/2015](http://youtu.be/0rbnP8a-XqM)
 

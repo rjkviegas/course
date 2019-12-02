@@ -1,10 +1,10 @@
 # SublimeText
 
-SublimeText is the editor we recommend you use at Makers Academy. Download the beta version 3 from the official website and install it. It's free to evaluate but you should buy a license if you want to use it after Makers Academy. 
+SublimeText is the editor we recommend you use at Makers. Download the beta version 3 from the official website and install it. It's free to evaluate but you should buy a license if you want to use it after Makers. 
 
 ## License Key
 
-At Makers Academy please use this license key:
+At Makers please use this license key:
 
 ````		
 		----- BEGIN LICENSE -----

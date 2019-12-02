@@ -62,7 +62,7 @@ Let's add the features nao. (Sorry, now)
 ```cucumber
 Feature: cucumber says OH HAI CUCUMNER
 	In order to start learn Cucumber
-	As a student at Makers academy
+	As a student at Makers
 	I want to say OH HAI CUCUMNER
 
 	Scenario: cucumber says OH HAI CUCUMNER
@@ -134,7 +134,7 @@ following below). Now when we run `cucumber` we get this exciting message:
 Feature: cucumber says OH HAI CUCUMNER
 
   In order to start learn Cucumber
-  As a student at Makers academy
+  As a student at Makers
   I want to say OH HAI CUCUMNER
 
   Scenario: cucumber says OH HAI CUCUMNER # features/greeter_says_hello.feature:7
@@ -201,7 +201,7 @@ Now when you run `cucumber` you'll get this (only in pretty colours)
 Feature: cucumber says OH HAI CUCUMNER
 
   In order to start learn Cucumber
-  As a student at Makers academy
+  As a student at Makers
   I want to say OH HAI CUCUMNER
 
   Scenario: cucumber says OH HAI CUCUMNER # features/greeter_says_hello.feature:7
@@ -246,7 +246,7 @@ Now when we run cucumber we get:
 Feature: cucumber says OH HAI CUCUMNER
 
   In order to start learn Cucumber
-  As a student at Makers academy
+  As a student at Makers
   I want to say OH HAI CUCUMNER
 
   Scenario: cucumber says OH HAI CUCUMNER # features/greeter_says_hello.feature:7
@@ -284,7 +284,7 @@ and now when we run Cucumber we get a happy wall of green!
 Feature: cucumber says OH HAI CUCUMNER
 
   In order to start learn Cucumber
-  As a student at Makers academy
+  As a student at Makers
   I want to say OH HAI CUCUMNER
 
   Scenario: cucumber says OH HAI CUCUMNER  # features/greeter_says_hello.feature:7

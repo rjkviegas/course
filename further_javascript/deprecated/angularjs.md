@@ -5,7 +5,7 @@ Many thanks to [Tony](http://github.com/antonydenyer) and [Leo](http://github.co
 
 [Video of session](https://www.youtube.com/watch?v=72KRFITGGts)
 
-***Please note, as with all Makers Academy materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
+***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
 
 (Note also that the initial code for this walkthrough is available in https://github.com/makersacademy/angularjs-intro)
 

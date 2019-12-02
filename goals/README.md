@@ -16,7 +16,7 @@ The goal-related skills you develop here will help you take control of your care
 We're excited to see what success means for you.
 
 ## What are your responsibilities?
-Education at Makers Academy is designed to be empowering. Being a software engineer means looking at any problem you encounter and believing "With thoughtful effort, I can solve this."
+Education at Makers is designed to be empowering. Being a software engineer means looking at any problem you encounter and believing "With thoughtful effort, I can solve this."
 
 We trust you with three responsibilities:
 

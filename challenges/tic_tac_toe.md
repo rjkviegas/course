@@ -1,6 +1,6 @@
 # More advanced OO with games: Tic Tac Toe
 
-***Please note, as with all Makers Academy materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
+***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
 
 Tic Tac Toe (or Naughts and Crosses) is a game where each player takes a turn on a 3X3 grid. The winner is the first person to fill a row, column or diagonal with their O or X marker.
 

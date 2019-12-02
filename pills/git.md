@@ -364,9 +364,9 @@ The reason for this is that Github shows what you've been doing as a developer. 
 Evgheny S.:
 > So, two of your graduates applied for a job with us and we had a good look through their github. To say we're impressed is an understatement.
 
-The first thing that this guy did was to look at everything our graduates created at Github during their time at Makers Academy. Because these students kept their Github profiles in a really good state, they managed to impress him even before coming for an interview.
+The first thing that this guy did was to look at everything our graduates created at Github during their time at Makers. Because these students kept their Github profiles in a really good state, they managed to impress him even before coming for an interview.
 
-To sum it up: you are your Github profile. Just putting Makers Academy on your CV achieves nothing. You have to show what you can do in code. Don't worry that you'll be checking in some basic code at first because all developers start with "hello, world". It's much better than having an empty Github.
+To sum it up: you are your Github profile. Just putting Makers on your CV achieves nothing. You have to show what you can do in code. Don't worry that you'll be checking in some basic code at first because all developers start with "hello, world". It's much better than having an empty Github.
 
 
 ### git is distributed

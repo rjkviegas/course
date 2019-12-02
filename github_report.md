@@ -5,7 +5,7 @@ This week's project involves using JavaScript to consume data available from thi
 
 ![Gundam Cat](https://developer.github.com/images/gundamcat.png)
 
-***Please note, as with all Makers Academy materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
+***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
 
 *Many thanks to [Alex Peattie](https://github.com/alexpeattie) for the original design of the Ajax material and [Antony Denyer](https://github.com/antonydenyer) for the Angular material*
 
@@ -41,7 +41,7 @@ Recreate the MVP using AngularJS MVC. Again, please ensure that this version can
 Version 4 - Report Card
 ----------------
 
-Adjust the application to display a Makers Academy progress report for the user in question, including at least #commits on each relevant Github Repo.
+Adjust the application to display a Makers progress report for the user in question, including at least #commits on each relevant Github Repo.
 
 Version 5 - Bonus Level
 ----------------

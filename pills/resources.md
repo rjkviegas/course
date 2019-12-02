@@ -28,7 +28,7 @@ Again, please submit any further suggestions as pull requests. This selection re
 
 At this stage, you may notice that a lot of these blogs are actually from companies who write great software or build great platforms, often open source. This may give you an idea of what other blogs you might want to explore, based on cool projects you've come across.
 
-## Beyond Makers Academy
+## Beyond Makers
 
 ### The London developer community
 
@@ -54,7 +54,7 @@ They're out there somewhere, apparently. Go find them. Start here:
 - [/r/programming](http://www.reddit.com/r/programming)
 - [Gitter](http://gitter.im) - Each room is built over a GitHub repo: find your favourite repos and get to meet the community.
 - [24 Pull Requests](http://24pullrequests.com/) - This only happens at Christmas, but includes a lot of guidance about how to get started contributing to open source, with a list of suggested projects to get involved in. Being able to say that you've meaningfully contributed to OSS is also a big plus at interview.
-- [Makers Academy Twitter list](https://twitter.com/makersacademy/lists/coolcode) - This is an ever growing list of Twitter accounts we feel are worth checking out.
+- [Makers Twitter list](https://twitter.com/makersacademy/lists/coolcode) - This is an ever growing list of Twitter accounts we feel are worth checking out.
 
 ### Er, this isn't fun
 
