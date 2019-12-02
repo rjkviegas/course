@@ -16,7 +16,7 @@ This week's project is a clone of [Instagram](http://instagram.com). The goal is
 
 We deployed to Heroku at the end of last week. For this project we should be deploying much more regularly - ideally a few times every day. This allows us to catch any deployment issues early.
 
-***And of course we don't need to tell you again but for safety's sake let us note that as with all Makers Academy materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
+***And of course we don't need to tell you again but for safety's sake let us note that as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
 
 ## Version 1 - Image uploading
 

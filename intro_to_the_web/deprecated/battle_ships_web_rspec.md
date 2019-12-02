@@ -1,6 +1,6 @@
 # Playing Battleships in the browser
 
-***Please note, as with all Makers Academy materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
+***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
 
 In this project we are going to take our battleships game to the next level. In [the last project](../battle_ships/battle_ships.md) we implemented the battleships game for the terminal.  Please refer to the [learning objectives](learning_objectives.md) for a list of everything we're hoping to cover this week.
 
@@ -16,7 +16,7 @@ In order to share whatever we're building on our computer with the rest of the w
 
 Have you heard of 'Ruby on Rails'? Ruby is the language: Rails is the web application framework. A Ruby on Rails application is one that uses the Rails web application framework with the Ruby language.
 
-A web application framework for Ruby is a gem (library) that provides support to make our Ruby code accessible to the web browser. There are plenty of web application frameworks available for the Ruby language; the two we focus on in the Makers Academy course are Sinatra and Rails, in that particular order.
+A web application framework for Ruby is a gem (library) that provides support to make our Ruby code accessible to the web browser. There are plenty of web application frameworks available for the Ruby language; the two we focus on in the Makers course are Sinatra and Rails, in that particular order.
 
 ## Why start with Sinatra?
 

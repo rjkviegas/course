@@ -5,7 +5,7 @@ Instagram Marketplace
 
 ... in the meantime please find individual walkthroughs below for reference:
 
-***As you've heard before all Makers Academy materials may include subtle errors.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
+***As you've heard before all Makers materials may include subtle errors.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
 
 * [WebSockets](https://github.com/makersacademy/course/blob/master/walkthroughs/websockets.md)
 * [Heroku](https://github.com/makersacademy/course/blob/master/walkthroughs/heroku.md)

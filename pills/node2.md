@@ -9,7 +9,7 @@ Welcome to Node! This week, you will be learning how to build responsive applica
 <br clear='all'>
 
 
-**Please note, as with all Makers Academy materials, there may be subtle errors in the following materials. Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.**
+**Please note, as with all Makers materials, there may be subtle errors in the following materials. Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.**
 
 ##Version 1 - Welcome to Node
 

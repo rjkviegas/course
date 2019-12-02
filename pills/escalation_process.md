@@ -2,7 +2,7 @@
 
 You're stuck on a problem.  Below is a list of possible ways to find a solution.  Work through them in order.
 
-At Makers Academy, you're learning to learn.  This is why the list below prioritises techniques that aid self-reliance and skill-building.  But, as a developer, it's expected that you ask for help when you need it.  So, the list also includes ways to get help from others, too.
+At Makers, you're learning to learn.  This is why the list below prioritises techniques that aid self-reliance and skill-building.  But, as a developer, it's expected that you ask for help when you need it.  So, the list also includes ways to get help from others, too.
 
 ## The Process
 

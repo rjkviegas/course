@@ -2,7 +2,7 @@ Spinners & Modals
 =================
 
 
-***Please note, as with all Makers Academy materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
+***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
 
 *Many thanks to [Alex Peattie](https://github.com/alexpeattie) and [Tansaku](https://github.com/tansaku) for the design of this walkthrough*
 
@@ -211,7 +211,7 @@ Exercises:
 
 * Get your Github Profile app ready for poor network conditions
 * Get a nice modal error message
-* Change the profile to display information relevant to Makers Academy such as commits on projects and challenges
+* Change the profile to display information relevant to Makers such as commits on projects and challenges
 
 Footnotes:
 ------

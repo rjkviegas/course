@@ -1,4 +1,4 @@
-# Your first day at Makers Academy
+# Your first day at Makers
 
 Day one starts at 09.00 - please be available on slack from 08.50 in case there are any problems with getting set up.
 

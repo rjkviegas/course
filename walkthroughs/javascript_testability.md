@@ -3,7 +3,7 @@ JavaScript Testability
 
 [Video of Hack Off and Testability](https://www.youtube.com/watch?v=GMsNeXVMIUQ)
 
-***Please note, as with all Makers Academy materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
+***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
 
 We know that we should be testing our code, but our RPSLS game
 involves a lot of UI code that isn't tested.
