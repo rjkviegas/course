@@ -205,9 +205,9 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 By the end of the module all developers can:
 
-* Test drive a simple front-end web app with Javascript
 * Describe a process for learning a new language
 * Follow an effective process for learning a new language
+* Test drive a simple front-end web app with Javascript
 
 ### Exercises for self-directed learning
 
