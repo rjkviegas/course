@@ -28,8 +28,7 @@ Every good code project starts with a git repository. To get started with Boris 
 </details>
 
 ### Resources
-- [Common command-line commands](http://guides.macrumors.com/Terminal)
-- :pill: [Advanced command-line commands](https://github.com/makersacademy/course/blob/master/pills/command_line.md)
+- :pill: [Command-line commands](https://github.com/makersacademy/course/blob/master/pills/command_line.md)
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - :pill: [git - advanced guide](https://github.com/makersacademy/course/blob/master/pills/git.md)
 - [Creating and removing files from the Terminal](http://www.techrepublic.com/blog/apple-in-the-enterprise/creating-and-deleting-files-using-the-mac-terminal/)
