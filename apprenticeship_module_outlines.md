@@ -101,10 +101,10 @@ Please **do not** proceed on to the next core exercise until you have validated 
 | Key Skill                        | Core Exercise                                          | Optional Exercises                                                     |
 | -------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------- |
 | Test Driving Multiple Objects    | [Simple Checkout][simple_checkout]                     | [Test Drive a Notes App][tdd_notes_app]                                |
-| Isolating Unit Tests             | [Dependency Injection Practical][di_practical]         | Isolate Simple Checkout Tests                                          |
 | OOP Basics                       | [Encapsulation][encapsulation]                         | [Testing Relationships Between Objects][testing_relationships_objects] |
 |                                  | [Forwarding and Polymorphism][forwarding_polymorphism] | [Inheritance and Composition][inheritance_composition]                 |
-| Class Extraction and Refactoring | [Refactoring using OO][refactoring_using_oo]           | [Class Extraction][class_extraction]                                   |
+| Refactoring | [Refactoring using OO][refactoring_using_oo]           | [Class Extraction][class_extraction]                                   |
+| Isolating Unit Tests             | [Dependency Injection Practical][di_practical]         | Isolate Simple Checkout Tests                                          |
 
 [encapsulation]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
 [testing_relationships_objects]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/testing_relationships.md
