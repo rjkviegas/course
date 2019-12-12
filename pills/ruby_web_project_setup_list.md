@@ -111,7 +111,7 @@ Add the following to `spec/spec_helper.rb`:
 # Set the environment to "test"
 ENV['RACK_ENV'] = 'test'
 
-# Bring in the contents of the `app.rb` file. The below is equivalent to: require '../app.rb'
+# Bring in the contents of the `app.rb` file. The below is equivalent to: require_relative '../app.rb'
 require File.join(File.dirname(__FILE__), '..', 'app.rb')
 
 # Require all the testing gems
