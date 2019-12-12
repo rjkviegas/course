@@ -49,8 +49,6 @@ Please **do not** proceed on to the next core exercise until you have validated 
 | Test Driving A Single Object  | [Bank Account][bank_account]                   | [Diagram Your TDD Process][diagram_tdd]                                |
 |                               | [Test Drive a Dice Class][tdd_dice_class]      |                                                                        |
 | Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             | [Test Drive a Notes App][tdd_notes_app]                                |
-| Isolating Unit Tests          | [Dependency Injection Practical][di_practical] | Isolate Simple Checkout Tests                                          |
-|                               |                                                | [Learn by building: RSpec][build_rspec]                                |
 
 [debugging_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
 [debug_fizzbuzz]: https://hackmd.io/s/S147x3Q3m
@@ -105,6 +103,7 @@ Please **do not** proceed on to the next core exercise until you have validated 
 |                                  | [Forwarding and Polymorphism][forwarding_polymorphism] | [Inheritance and Composition][inheritance_composition]                 |
 | Refactoring | [Refactoring using OO][refactoring_using_oo]           | [Class Extraction][class_extraction]                                   |
 | Isolating Unit Tests             | [Dependency Injection Practical][di_practical]         | Isolate Simple Checkout Tests                                          |
+|                               |                                                | [Learn by building: RSpec][build_rspec]                                |
 
 [encapsulation]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
 [testing_relationships_objects]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/testing_relationships.md
