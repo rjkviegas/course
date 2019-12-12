@@ -84,11 +84,11 @@ By the end of the module all developers can:
 
 * Use all of the module 3 skills (don't underestimate the importance of this)
 * Break one class into two classes that work together, while maintaining test coverage
-* Unit test classes in isolation using mocking
 * Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
 * Review another person's code and give them meaningful feedback
 
-Stretch: Test classes in isolation using mocking and dependency injection
+Stretch:
+* Test classes in isolation using mocking and dependency injection
 
 ### Exercises for self-directed learning
 
