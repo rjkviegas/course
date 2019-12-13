@@ -2,7 +2,7 @@
 
 #### Monday
 
-The careers team will be running sessions this week to help you with your preparation for the job hunt. Slots will be available at various times throughout the week.
+The careers team will be running sessions this week to help you with your preparation for the job hunt.
 
 * 10.00am: Your coach will introduce today's tech test: [Bank](../../individual_challenges/bank_tech_test.md)
 * 10.30am: You'll work solo on the tech test.
