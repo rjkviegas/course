@@ -53,15 +53,17 @@ So our expectation here, is that upon creation, our `thermostat` will default to
 
 'use strict';
 
-function Thermostat() {}
+class Thermostat{};
 ```
 
 This enables us to actually make instances of the `Thermostat` object by running `new Thermostat()`. Now we need to give it a property that holds the current temperature, so that we can always refer back to it:
 
 ```javascript
 
-function Thermostat() {
-  this.temperature = 20;
+class Thermostat {
+  constructor() {
+    this.temperature = 20;
+  }
 }
 ```
 
@@ -96,14 +98,27 @@ For more information on how prototypal inheritance works, check out this great a
 But for now, we can think of `prototype` as a "storage area" which relates to the object referenced immediately before the `prototype` keyword and stores the function (method) you are defining. Let's look at some code to understand this more thoroughly:
 
 ```javascript
-Thermostat.prototype.getCurrentTemperature = function() {};
+class Thermostat {
+  constructor() {
+    this.temperature = 20;
+  }
+  getCurrentTemperature() {
+  }
+}
+
 ```
 
 In this example, `prototype` binds `getCurrentTemperature` to `Thermostat`, so that you can make an instance of `Thermostat` which has the method `getCurrentTemperature()` available to it. Now, we want `getCurrentTemperature()` to return the current temperature of Thermostat, and we achieve this using the following:
 
 ```javascript
-Thermostat.prototype.getCurrentTemperature = function() {
-  return this.temperature;
+
+class Thermostat {
+  constructor() {
+    this.temperature = 20;
+  }
+  getCurrentTemperature() {
+    return this.temperature;
+  }
 };
 ```
 
@@ -138,8 +153,16 @@ So the only sensible thing to do now is to turn the temperature up! Let's write 
 Now, we're at the point where most of the surprising parts of the syntax are out of the way. As a programmer you have developed enough of an understanding to realise that at this point we need to write a method which increases the value of `thermostat.temperature` each time we run it. So with that in mind, I'm going to lay the solution out for your reference:
 
 ```javascript
-Thermostat.prototype.up = function() {
-  this.temperature += 1;
+class Thermostat {
+  constructor() {
+    this.temperature = 20;
+  }
+  getCurrentTemperature() {
+    return this.temperature;
+  }
+  up() {
+    this.temperature += 1
+  }
 }
 ```
 
@@ -157,8 +180,19 @@ it('decreases in temperature with down()', function() {
 Our implementation should follow that of our `up()` function:
 
 ```javascript
-Thermostat.prototype.down = function() {
-  this.temperature -= 1;
+class Thermostat {
+  constructor() {
+    this.temperature = 20;
+  }
+  getCurrentTemperature() {
+    return this.temperature;
+  }
+  up() {
+    this.temperature += 1
+  }
+  down() {
+    this.temperature -= 1
+  }
 }
 ```
 
@@ -192,21 +226,21 @@ It's at this point we have a good case for adding another property to our object
 
 'use strict';
 
-function Thermostat() {
-  this.MINIMUM_TEMPERATURE = 10;
-  this.temperature = 20;
-}
+constructor() {
+    this.MINIMUM_TEMPERATURE = 10
+    this.temperature = 20;
+  }
 ```
 
 Notice how I'm using capital letters for the property name? As you might probably have realised, I intend this value to be a constant, and am marking that intention in the use of capitalization. It does not freeze the value, merely communicates intent to the next Developer.
 
-Armed with this new property, let us create a method to return a boolean check on whether or not the temperature is currently set to the `MINIMUM_TEMPERATURE`:
+Armed with this new property, let us create a method to return a boolean check on whether or not the temperature is currently set to the `MINIMUM_TEMPERATURE` inside our class:
 
 ```javascript
 // src/thermostat.js
-Thermostat.prototype.isMinimumTemperature = function() {
-  return this.temperature === this.MINIMUM_TEMPERATURE;
-}
+  isMinimumTemperature() {
+    return this.temperature === this.MINIMUM_TEMPERATURE;
+  }
 ```
 
 See how our function name here begins with `is`? This is another convention, notifying the Developer after me that I intend this function to always return a boolean value, where in Ruby we would put a `?` at the end of the method name. Also note the triple `=` sign. If you're not sure why this is necessary, I would heartily recommend [this article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness).
@@ -216,12 +250,12 @@ And now let's edit our `down()` function to take advantage of this new temperatu
 ```javascript
 // src/thermostat.js
 
-Thermostat.prototype.down = function() {
-  if (this.isMinimumTemperature()) {
-    return;
+down() {
+    if (this.isMinimumTemperature()) {
+      return;
+    }
+    this.temperature -= 1
   }
-  this.temperature -= 1;
-}
 ```
 
 So now we have a kind of guard condition before we are allowed to decrease our temperature!
@@ -249,7 +283,7 @@ Which leads us to the understanding that we will require a new property, and a n
 
 'use strict';
 
-function Thermostat() {
+constructor() {
   // Other properties omitted for brevity
   this.powerSavingMode = true;
 }
@@ -259,8 +293,8 @@ and our getter method:
 
 ```javascript
 // src/thermostat.js
-Thermostat.prototype.isPowerSavingModeOn = function() {
-  return this.powerSavingMode === true;
+isPowerSavingModeOn() {
+    return this.powerSavingMode === true;
 }
 ```
 
@@ -280,9 +314,9 @@ Since we already have the `powerSavingMode` property to work with, lets get stra
 ```javascript
 // src/thermostat.js
 
-Thermostat.prototype.switchPowerSavingModeOff = function() {
-  this.powerSavingMode = false;
-}
+switchPowerSavingModeOff() {
+    this.powerSavingMode = false;
+  }
 ```
 
 Which is super-easy to reverse for our `switchPowerSavingModeOn` method (which you just _knew_ was around the corner!):
@@ -303,7 +337,7 @@ And so goes our function:
 ```javascript
 // src/thermostat.js
 
-Thermostat.prototype.switchPowerSavingModeOn = function() {
+switchPowerSavingModeOn() {
   this.powerSavingMode = true;
 }
 ```
@@ -337,7 +371,7 @@ Did you spot that we have used a nested `describe()` here? In Jasmine there is n
 ```javascript
 // src/thermostat.js
 
-Thermostat.prototype.up = function() {
+up() {
   if (this.isMaximumTemperature()) {
     return;
   }
@@ -366,7 +400,7 @@ Wünderbar! Now `isMaximumTemperature()` will make a LOT more sense :wink:
 ```javascript
 // src/thermostat.js
 
-Thermostat.prototype.isMaximumTemperature = function() {
+isMaximumTemperature() {
   if (this.isPowerSavingModeOn() === false) {
     return this.temperature === this.MAX_LIMIT_PSM_OFF;
   }
@@ -420,7 +454,7 @@ In this situation we could create a method that does the following:
 ```javascript
 // src/thermostat.js
 
-Thermostat.prototype.resetTemperature = function() {
+resetTemperature() {
   this.temperature = 20;
 }
 ```
@@ -432,7 +466,7 @@ Besides that, in terms of maintenance, if we decide the default temperature is g
 ```javascript
 // src/thermostat.js
 
-function Thermostat() {
+constructor {
   // Other properties omitted for brevity
   this.DEFAULT_TEMPERATURE = 20;
   this.temperature = this.DEFAULT_TEMPERATURE;
@@ -444,7 +478,7 @@ This means we can tidy up our `resetTemperature()` function rather nicely:
 ```javascript
 // src/thermostat.js
 
-Thermostat.prototype.resetTemperature = function() {
+resetTemperature() {
   this.temperature = this.DEFAULT_TEMPERATURE;
 }
 ```
@@ -498,7 +532,7 @@ The great news, is in our object constructor function we already have a constant
 ```javascript
 // src/thermostat.js
 
-function Thermostat() {
+constructor {
   // Other properties omitted for brevity
   this.MEDIUM_ENERGY_USAGE_LIMIT = 18;
 }
@@ -509,7 +543,7 @@ Now we have everything we could need to construct a function able to tell us whe
 ```javascript
 // src/thermostat.js
 
-Thermostat.prototype.energyUsage = function() {
+energyUsage() {
   if (this.temperature < this.MEDIUM_ENERGY_USAGE_LIMIT) {
     return 'low-usage';
   }
