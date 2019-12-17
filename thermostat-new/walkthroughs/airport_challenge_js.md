@@ -72,14 +72,14 @@ so let's define our Plane class:
 // src/Plane.js
 'use strict';
 
-function Plane(){}
+class Plane {};
 ```
 
 Which makes our unit test go a little cryptic
 
 ```
 Plane can land at an airport
-  Error: Expected undefined to be defined.
+  Error: Expected undefined not to be undefined.
 ```
 
 but this is just telling us that plane.land is undefined.  It's the spiritual cousin of RSpec's `expect(...).to respond_to(...)`
@@ -90,8 +90,9 @@ Let's add the simplest possible land method to change the error
 // src/Plane.js
 'use strict';
 
-function Plane(){}
-Plane.prototype.land = function(){};
+class Plane {
+    land(){};
+}
 ```
 
 which passes our unit test and we have some different issues to deal with in our feature test:
@@ -133,7 +134,7 @@ So let's create an airport:
 // src/Airport.js
 'use strict';
 
-function Airport(){}
+class Airport{};
 ```
 
 which drops us to a single matching unit and feature failure:
@@ -149,8 +150,11 @@ Airport has no planes by default
 // src/Airport.js
 'use strict';
 
-function Airport(){}
-Airport.prototype.planes = function(){ return []; };
+class Airport{
+  planes() {
+    return [];
+  }
+};
 ```
 
 which finally takes us to the final part of the feature test, with this failure:
@@ -190,8 +194,10 @@ Plane can land at an airport
 We're using Sandi Metz's space capsule technique, stubbing the outgoing interaction from plane to airport.  Let's have the plane talk to the airport to ask to land:
 
 ```javascript
-Plane.prototype.land = function(airport){
-  airport.clearForLanding(this);
+class Plane {
+    land(airport){
+      airport.clearForLanding(this)
+    };
 };
 ```
 
@@ -255,12 +261,16 @@ So finally time to get this method to work for a living; and Airport will need s
 // src/Airport.js
 'use strict';
 
-function Airport(){
-  this._hangar = [];
-}
-Airport.prototype.planes = function(){ return this._hangar; };
-Airport.prototype.clearForLanding = function(plane) {
-  this._hangar.push(plane);
+class Airport{
+  constructor() {
+    this._hangar = []
+  }
+  planes() {
+    return this._hangar;
+  }
+  clearForLanding(plane) {
+    this._hangar.push(plane);
+  };
 };
 ```
 
@@ -323,14 +333,17 @@ Note that here we're going straight to test the outgoing call to airport as our 
 ```javascript
 'use strict';
 
-function Plane(){}
-
-Plane.prototype.land = function(airport){
-  airport.clearForLanding(this);
-  this._location = airport;
-};
-Plane.prototype.takeoff = function(){
-  this._location.clearForTakeOff();
+class Plane {
+    constructor() {
+      this.__location;
+    }
+    land(airport){
+      airport.clearForLanding(this)
+      this._location = airport;
+    };
+    takeoff() {
+      this._location.clearForTakeOff()
+    }
 };
 ```
 
@@ -359,13 +372,15 @@ Airport can clear planes for takeoff
   TypeError: airport.clearForTakeOff is not a function
 ```
 
-And we can fix that with the following addition to the airport functionality:
+And we can fix that with the following addition to the airport functionality in the class:
 
 ```javascript
 // src/Airport.js
-Airport.prototype.clearForTakeOff = function(plane) {
-  this._hangar = [];
-};
+
+  clearForTakeOff(plane) {
+    this._hangar = [];
+  }
+
 ```
 
 Note that we're clearing the hangar here.  That might seems wrong, but that's all that our tests demand at the moment.  If we want to handle more planes consistently we shouldn't add that functionality until we have tests that drive it.  Want to add it?  Write some tests to justify it.  In the meantime let's add in some weather conditions:
@@ -397,13 +412,13 @@ Checking that fails as expected `isStormy() method does not exist` we can create
   });
 ```
 
-and that brace of failures can be fixed with:
+and that brace of failures can be fixed with inside the class:
 
 ```javascript
 // src/Airport.js
-Airport.prototype.isStormy = function() {
-  return false;
-};
+isStormy() {
+    return false;
+  }
 ```
 
 which takes us to a new couple of errors in our feature test:
@@ -430,12 +445,12 @@ And a guard clause in our airport clear for takeoff method will make everything 
 
 ```javascript
 // src/Airport.js
-Airport.prototype.clearForTakeOff = function(plane) {
-  if(this.isStormy()) {
-    throw new Error('cannot takeoff during storm');
+clearForTakeOff(plane) {
+    if(this.isStormy()) {
+      throw new Error('cannot takeoff during storm');
+    }
+    this._hangar = [];
   }
-  this._hangar = [];
-};
 ```
 
 And there's a nearly identical procedure to implement for the following user story:
@@ -449,46 +464,47 @@ I want to prevent landing when weather is stormy
 which you could try yourself following the acceptance-unit test cycle demo'd above.  You can infer the test structure but let's have an overview of where we've got to in terms of our domain models:
 
 ```javascript
-function Plane(){}
 
-Plane.prototype.land = function(airport){
-  airport.clearForLanding(this);
-  this._location = airport;
-};
+class Plane {
 
-Plane.prototype.takeoff = function(airport){
-  this._location.clearForTakeOff();
-};
+    constructor() {
+        this.__location;
+    }
+    land(airport) {
+      airport.clearForLanding(this);
+      this.__location = airport;
+    }
+    takeoff(airport) {
+        this.__locattion.clearForTakeOff();
+    }
+}
+
 ```
 
 Plane is looking pretty good.  Tiny bit of private state, responsibilities for landing and taking off.  Seems good.
 
 ```javascript
-function Airport(){
-  this._hangar = [];
-}
-
-Airport.prototype.planes = function(){
-  return this._hangar;
-};
-
-Airport.prototype.clearForLanding = function(plane) {
-  if(this.isStormy()) {
-    throw new Error('cannot land during storm');
+class Airport{
+  constructor() {
+    this._hangar = []
   }
-  this._hangar.push(plane);
-};
-
-Airport.prototype.clearForTakeOff = function(plane) {
-  if(this.isStormy()) {
-    throw new Error('cannot takeoff during storm');
+  planes() {
+    return this._hangar;
   }
-  this._hangar = [];
+  clearForLanding(plane) {
+    this._hangar.push(plane);
+  };
+  clearForTakeOff(plane) {
+    if(this.isStormy()) {
+      throw new Error('cannot takeoff during storm');
+    }
+    this._hangar = [];
+  }
+  isStormy() {
+    return false;
+  }
 };
 
-Airport.prototype.isStormy = function() {
-  return false;
-};
 ```
 
 Airport is getting a bit bloated though and that weather functionality looks like a separate responsibility and our client is telling us that in reality the weather is somewhat random.  So let's extract that and use dependency injection to tell an Airport what kind of weather to have.  First up let's just test a weather object:
@@ -517,12 +533,15 @@ which can be made to pass with the following
 ```javascript
 'use strict';
 
-function Weather(){
-  this._CHANCE_OF_STORMY = 0.5;
+class Weather {
+  constructor() {
+    this._CHANCE_OF_STORMY = 0.5;
+  }
+  isStormy() {
+     return (Math.random() > this._CHANCE_OF_STORMY);
+  }
 }
-Weather.prototype.isStormy = function(){
-  return (Math.random() > this._CHANCE_OF_STORMY);
-};
+
 ```
 
 Now let's inject that into our Airport:
@@ -530,27 +549,26 @@ Now let's inject that into our Airport:
 ```
 'use strict';
 
-function Airport(weather){
-  this._weather = typeof weather !== 'undefined' ? weather : new Weather();
-  this._hangar = [];
-}
-
-Airport.prototype.planes = function(){
-  return this._hangar;
-};
-
-Airport.prototype.clearForLanding = function(plane) {
-  if(this._weather.isStormy()) {
-    throw new Error('cannot land during storm');
+class Airport{
+  constructor(weather) {
+    this._weather = typeof weather !== 'undefined' ? weather : new Weather();
+    this._hangar = []
   }
-  this._hangar.push(plane);
-};
-
-Airport.prototype.clearForTakeOff = function(plane) {
-  if(this._weather.isStormy()) {
-    throw new Error('cannot takeoff during storm');
+  planes() {
+    return this._hangar;
   }
-  this._hangar = [];
+  clearForLanding(plane) {
+    this._hangar.push(plane);
+  };
+  clearForTakeOff(plane) {
+    if(this._weather.isStormy()) {
+      throw new Error('cannot takeoff during storm');
+    }
+    this._hangar = [];
+  }
+  isStormy() {
+    return false;
+  }
 };
 ```
 

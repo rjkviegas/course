@@ -10,7 +10,7 @@ First things first: `console.log()` is the equivalent of `puts`, `print` or `p` 
 
 Hello world is relatively simple: `console.log('Hello world!')`.
 
-To create a `Greeting` object, we use the `function` keyword:
+To create a `Greeting` object, we use the `class` keyword:
 
 ```javascript
 class Greeting {
@@ -32,7 +32,7 @@ class Greeting {
 And to use it:
 
 ```javascript
-const greeting = new Greeting();
+var greeting = new Greeting();
 greeting.hello('Maker'); // 'Hello, Maker!'
 
 /*
