@@ -41,7 +41,6 @@ This is not a test, nor a challenge to see how many features you can cram into t
 https://github.com/makersacademy/acebook-rails-template/blob/master/CONTRIBUTING.md
 
 - :pill: [Standups](../pills/student_standups.md)
-- :pill: [Module Retros](../pills/student_retrospective.md)
 - :pill: [Project Retros](../pills/project_retrospective.md)
 
 ## Toolbox

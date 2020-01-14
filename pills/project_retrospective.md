@@ -56,6 +56,6 @@ Time: 30 minutes.
 
 ## Why retrospectives?
 
-* They let you reflect on and think of improvements to your learning and developer processes.
+* They let you reflect on and think of improvements to your learning and developer processes as well as your team processes.
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/project_retrospective.md)
