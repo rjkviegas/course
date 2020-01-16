@@ -32,3 +32,7 @@ These [assessment criteria](../../final_projects/project_criteria.md) will be ho
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/engineering_projects/rails/README.md)
+
+### Additional Resources
+
+This week you might find it useful to expand your web development tool kit - [this pill](../../pills/web_development_tools.md) includes some helpful resources for building user-friendly applications.

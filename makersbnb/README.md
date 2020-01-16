@@ -84,6 +84,10 @@ If your specification asks for a car, don't build the wheels in the first week, 
 * Some items in the spec include more than one feature. e.g. "Any signed up user can list a new space". Break this into two user stories and prioritise the one that gets you as close as possible to a product.
 * Use the customer's language (the domain language) in the user stories.  Most words in the user stories should appear in the spec.
 
+### Web Development Tools
+
+This week you might find it useful to expand your web development tool kit - [this pill](../pills/web_development_tools.md) includes some helpful resources for building user-friendly applications.
+
 ### Advice
 
 * Run team standups every morning and team retrospectives at the end of every day.  The only groups who say this week wasn't awesome are the ones who didn't do standups and retros.
