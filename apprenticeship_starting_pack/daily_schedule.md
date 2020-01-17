@@ -1,4 +1,4 @@
-## What is your day like?
+## Apprenticeship bootcamp daily schedule
 
 ### Modules 1–2
 
