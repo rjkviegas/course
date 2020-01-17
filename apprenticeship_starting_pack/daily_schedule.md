@@ -41,3 +41,5 @@ module with members of your cohort.
 During these modules you'll work in teams. You'll organise yourselves into pairs
 and schedule your team meetings. You should discuss your individual goals as a
 team and find a path that allows you all to succeed.
+
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/apprenticeship_starting_pack/daily_schedule.md)
