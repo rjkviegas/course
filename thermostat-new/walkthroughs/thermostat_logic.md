@@ -227,7 +227,7 @@ It's at this point we have a good case for adding another property to our object
 'use strict';
 
 constructor() {
-    this.MINIMUM_TEMPERATURE = 10
+    this.MINIMUM_TEMPERATURE = 10;
     this.temperature = 20;
   }
 ```
