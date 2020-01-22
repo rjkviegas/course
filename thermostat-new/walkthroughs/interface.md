@@ -48,7 +48,7 @@ Check it in your browser. Ain't it beautiful.
 Now, add your thermostat code to the page, with a `<script>` tag just before the closing `<body>` tag.
 
 ```html
-<script src="js/thermostat.js"></script>
+<script src="src/thermostat.js"></script>
 ```
 
 Make sure that the HTML elements are all present by trying to play with your thermostat in the console. Nothing will work at this stage - we'll get to that next...
