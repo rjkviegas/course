@@ -101,7 +101,7 @@ Take a second to think about the flow of what happens when a user interaction ha
 In code:
 
 ```javascript
-$('#temp-up').on('click', function() { // event listener
+$('#temperature-up').on('click', function() { // event listener
   thermostat.up(); // update model
   $('#temperature').text(thermostat.temperature); // update view
 })
@@ -110,7 +110,7 @@ $('#temp-up').on('click', function() { // event listener
 And the same again for decreasing the temperature:
 
 ```javascript
-$('#temp-down').click(function() { // this is an alternate version of .on('click'), with a sprinkle of jQuery syntactic sugar
+$('#temperature-down').click(function() { // this is an alternate version of .on('click'), with a sprinkle of jQuery syntactic sugar
   thermostat.down();
   $('#temperature').text(thermostat.temperature);
 })
@@ -132,28 +132,28 @@ $(document).ready(function() {
   var thermostat = new Thermostat();
   updateTemperature();
 
-  $('#temp-up').click(function() {
+  $('#temperature-up').click(function() {
     thermostat.up();
     updateTemperature();
   });
 
-  $('#temp-down').click(function() {
+  $('#temperature-down').click(function() {
     thermostat.down();
     updateTemperature();
   });
 
-  $('#temp-reset').click(function() {
+  $('#temperature-reset').click(function() {
     thermostat.resetTemperature();
     updateTemperature();
   });
 
-  $('#psm-on').click(function() {
+  $('#powersaving-on').click(function() {
     thermostat.switchPowerSavingModeOn();
     $('#power-saving').text('on')
     updateTemperature();
   })
 
-  $('#psm-off').click(function() {
+  $('#powersaving-off').click(function() {
     thermostat.switchPowerSavingModeOff();
     $('#power-saving').text('off')
     updateTemperature();
