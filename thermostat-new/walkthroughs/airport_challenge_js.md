@@ -153,7 +153,7 @@ Airport has no planes by default
 class Airport{
   planes() {
     return [];
-  }
+  };
 };
 ```
 
@@ -242,7 +242,15 @@ Feature Test: planes can be instructed to land at an airport
 Definitely time to get that clearForLanding method in there:
 
 ```javascript
-Airport.prototype.clearForLanding = function(plane) {
+// src/airport.js
+'use strict';
+
+class Airport{
+  planes() {
+    return [];
+  }
+
+  clearForLanding(plane) {};
 };
 ```
 
