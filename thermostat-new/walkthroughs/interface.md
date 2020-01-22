@@ -4,14 +4,14 @@
 
 Working from the code we had in the earlier walkthrough (your code may well be different) and the specification, there are a few input elements that are fairly obvious from the code, as they are functions that represent the thermostat's main API:
 
-- `thermostat.increaseTemperature()`
-- `thermostat.decreaseTemperature()`
-- `thermostat.reset()`
+- `thermostat.up()`
+- `thermostat.down()`
+- `thermostat.resetTemperature()`
 
 We also have two functions that control power saving:
 
-- `thermostat.powerSavingModeOn()`
-- `thermostat.powerSavingModeOff()`
+- `thermostat.switchPowerSavingModeOn()`
+- `thermostat.switchPowerSavingModeOff()`
 
 What is the information that has to be represented to the user? The main thing would be the temperature, in the colour specified. It would probably also help to know whether power saving mode is on. We have a few functions that deal with this:
 
