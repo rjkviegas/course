@@ -102,7 +102,7 @@ In code:
 
 ```javascript
 $('#temp-up').on('click', function() { // event listener
-  thermostat.increaseTemperature(); // update model
+  thermostat.up(); // update model
   $('#temperature').text(thermostat.temperature); // update view
 })
 ```
@@ -111,7 +111,7 @@ And the same again for decreasing the temperature:
 
 ```javascript
 $('#temp-down').click(function() { // this is an alternate version of .on('click'), with a sprinkle of jQuery syntactic sugar
-  thermostat.decreaseTemperature();
+  thermostat.down();
   $('#temperature').text(thermostat.temperature);
 })
 ```
@@ -133,28 +133,28 @@ $(document).ready(function() {
   updateTemperature();
 
   $('#temp-up').click(function() {
-    thermostat.increaseTemperature();
+    thermostat.up();
     updateTemperature();
   });
 
   $('#temp-down').click(function() {
-    thermostat.decreaseTemperature();
+    thermostat.down();
     updateTemperature();
   });
 
   $('#temp-reset').click(function() {
-    thermostat.reset();
+    thermostat.resetTemperature();
     updateTemperature();
   });
 
   $('#psm-on').click(function() {
-    thermostat.powerSavingModeOn();
+    thermostat.switchPowerSavingModeOn();
     $('#power-saving').text('on')
     updateTemperature();
   })
 
   $('#psm-off').click(function() {
-    thermostat.powerSavingModeOff();
+    thermostat.switchPowerSavingModeOff();
     $('#power-saving').text('off')
     updateTemperature();
   })
