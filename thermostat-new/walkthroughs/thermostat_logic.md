@@ -89,13 +89,8 @@ Notice how we place parenthesis at the end. Why? This is to communicate to the J
 
 And now to create our method. As you will have noticed, we place the _properties_ of an object "inside" that object. However, when we are writing methods that relate to the same object, we use a different technique:
 
-### The `prototype` keyword
+### Creating a method
 
-It's important to understand that unlike Ruby where your instances inherit from a class, when it comes to JavaScript, your instances inherit from another object. When the JavaScript interpreter cannot find a property or method defined on the current instance it looks to the next object in the inheritance chain for the missing information.
-
-For more information on how prototypal inheritance works, check out this great article on [prototypes, constructors and the new keyword](https://blog.pivotal.io/labs/labs/javascript-constructors-prototypes-and-the-new-keyword).
-
-But for now, we can think of `prototype` as a "storage area" which relates to the object referenced immediately before the `prototype` keyword and stores the function (method) you are defining. Let's look at some code to understand this more thoroughly:
 
 ```javascript
 class Thermostat {
@@ -105,10 +100,9 @@ class Thermostat {
   getCurrentTemperature() {
   }
 }
-
 ```
 
-In this example, `prototype` binds `getCurrentTemperature` to `Thermostat`, so that you can make an instance of `Thermostat` which has the method `getCurrentTemperature()` available to it. Now, we want `getCurrentTemperature()` to return the current temperature of Thermostat, and we achieve this using the following:
+Now, we want `getCurrentTemperature()` to return the current temperature of Thermostat, and we achieve this using the following:
 
 ```javascript
 
@@ -122,7 +116,7 @@ class Thermostat {
 };
 ```
 
-Now is a fantastic opportunity to take stock of what we have learned here. Firstly, we have created a `Thermostat` **object constructor**, and given it a **property** of `temperature` and then we used the `prototype` keyword to *associate* or *bind* the `getCurrentTemperature` function to our `Thermostat`. Easy huh!
+Now is a fantastic opportunity to take stock of what we have learned here. Firstly, we have created a `Thermostat` **object constructor**, and given it a **property** of `temperature` and then we added a `getCurrentTemperature` function to our `Thermostat` to access the `temperature` property.
 
 ### But what about my privacy?
 
