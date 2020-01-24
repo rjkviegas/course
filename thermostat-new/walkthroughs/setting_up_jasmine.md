@@ -76,7 +76,7 @@ end
 
 You can now make some files for your version of FizzBuzz:
 ```sh
-touch src/fizzBuzz.js spec/fizzBuzzSpec.js`
+touch src/fizzBuzz.js spec/fizzBuzzSpec.js
 ```
 
 And within `SpecRunner.html`, you can change the following lines from

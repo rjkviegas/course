@@ -11,10 +11,10 @@ I want to instruct a plane to land at
   an airport and confirm that it has landed
 ```
 
-Create the feature test in `spec/FeatureSpec.js`
+Create the feature test in `spec/featureSpec.js`
 
 ```javascript
-// spec/FeatureSpec.js
+// spec/featureSpec.js
 'use strict';
 
 describe('Feature Test:', function(){
@@ -44,7 +44,7 @@ Feature Test: planes can be instructed to land at an airport
 We then create a unit test for a Plane:
 
 ```javascript
-// spec/PlaneSpec.js
+// spec/planeSpec.js
 'use strict';
 
 describe('Plane',function(){
@@ -69,7 +69,7 @@ Plane can land at an airport
 so let's define our Plane class:
 
 ```javascript
-// src/Plane.js
+// src/plane.js
 'use strict';
 
 class Plane {};
@@ -87,7 +87,7 @@ but this is just telling us that plane.land is undefined.  It's the spiritual co
 Let's add the simplest possible land method to change the error
 
 ```javascript
-// src/Plane.js
+// src/plane.js
 'use strict';
 
 class Plane {
@@ -106,7 +106,7 @@ Feature Test: planes can be instructed to land at an airport
 So let's create an Airport spec:
 
 ```javascript
-// spec/AirportSpec.js
+// spec/airportSpec.js
 'use strict';
 
 describe('Airport', function(){
@@ -131,7 +131,7 @@ Airport has no planes by default
 So let's create an airport:
 
 ```javascript
-// src/Airport.js
+// src/airport.js
 'use strict';
 
 class Airport{};
@@ -147,13 +147,13 @@ Airport has no planes by default
 ```
 
 ```javascript
-// src/Airport.js
+// src/airport.js
 'use strict';
 
 class Airport{
   planes() {
     return [];
-  }
+  };
 };
 ```
 
@@ -167,7 +167,7 @@ Feature Test: planes can be instructed to land at an airport
 So we need our plane object to interact with our airport object.  It's tempting here just to implement the final step, but if we're careful with our London style unit testing we want to stub the interaction in the plane unit test like so:
 
 ```javascript
-// spec/PlaneSpec.js
+// spec/planeSpec.js
 'use strict';
 
 describe('Plane',function(){
@@ -242,7 +242,15 @@ Feature Test: planes can be instructed to land at an airport
 Definitely time to get that clearForLanding method in there:
 
 ```javascript
-Airport.prototype.clearForLanding = function(plane) {
+// src/airport.js
+'use strict';
+
+class Airport{
+  planes() {
+    return [];
+  }
+
+  clearForLanding(plane) {};
 };
 ```
 
@@ -258,7 +266,7 @@ Feature Test: planes can be instructed to land at an airport
 So finally time to get this method to work for a living; and Airport will need some state too:
 
 ```javascript
-// src/Airport.js
+// src/airport.js
 'use strict';
 
 class Airport{
@@ -288,7 +296,7 @@ I want to instruct a plane to take off from
 which leads us to a corresponding feature test
 
 ```javascript
-// spec/FeatureSpec.js
+// spec/featureSpec.js
   it('planes can be instructed to takeoff', function(){
     plane.land(airport)
     plane.takeoff();
@@ -306,7 +314,7 @@ Feature Test: planes can be instructed to takeoff
 and we create a unit test that generates the same error:
 
 ```javascript
-// spec/PlaneSpec.js
+// spec/planeSpec.js
 'use strict';
 
 describe('Plane',function(){
@@ -357,7 +365,7 @@ Feature Test: planes can be instructed to takeoff
 Time for a matching unit test on our AirportSpec:
 
 ```javascript
-// spec/AirportSpec.js
+// spec/airportSpec.js
   it('can clear planes for takeoff', function(){
     airport.clearForLanding(plane);
     airport.clearForTakeOff(plane);
@@ -375,7 +383,7 @@ Airport can clear planes for takeoff
 And we can fix that with the following addition to the airport functionality in the class:
 
 ```javascript
-// src/Airport.js
+// src/airport.js
 
   clearForTakeOff(plane) {
     this._hangar = [];
@@ -394,7 +402,7 @@ I want to prevent takeoff when weather is stormy
 For which we can write a test like:
 
 ```javascript
-// spec/FeatureSpec.js
+// spec/featureSpec.js
   it('blocks takeoff when weather is stormy', function(){
     plane.land(airport)
     spyOn(airport,'isStormy').and.returnValue(true);
@@ -406,7 +414,7 @@ For which we can write a test like:
 Checking that fails as expected `isStormy() method does not exist` we can create the matching unit test, which fails the same way:
 
 ```javascript
-// spec/AirportSpec.js
+// spec/airportSpec.js
   it('can check for stormy conditions', function(){
     expect(airport.isStormy()).toBeFalsy();
   });
@@ -415,7 +423,7 @@ Checking that fails as expected `isStormy() method does not exist` we can create
 and that brace of failures can be fixed with inside the class:
 
 ```javascript
-// src/Airport.js
+// src/airport.js
 isStormy() {
     return false;
   }
@@ -432,7 +440,7 @@ Feature Test: blocks takeoff when weather is stormy
 Another unit test matches the first of those errors:
 
 ```javascript
-// spec/AirportSpec.js
+// spec/airportSpec.js
 describe('under stormy conditions',function(){
   it('does not clear planes for takeoff', function(){
     spyOn(airport,'isStormy').and.returnValue(true);
@@ -444,7 +452,7 @@ describe('under stormy conditions',function(){
 And a guard clause in our airport clear for takeoff method will make everything go green:
 
 ```javascript
-// src/Airport.js
+// src/airport.js
 clearForTakeOff(plane) {
     if(this.isStormy()) {
       throw new Error('cannot takeoff during storm');
