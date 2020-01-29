@@ -29,9 +29,7 @@ By the end of modules 1 & 2 all developers can:
 
 ###### I can write programs using variables
 - mastery quizzes chapters 1-3
-- <a href="http://www.youtube.com/watch?feature=player_embedded&v=t_ispmWmdjY
-" target="_blank"><img src="http://img.youtube.com/vi/t_ispmWmdjY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />Free code camp (0 - 1 hr 12 mins)</a>
+- [Free code camp (0 - 1 hr 12)](http://www.youtube.com/watch?feature=player_embedded&v=t_ispmWmdjY)
 - [Codecademy (introduction to ruby) ](https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby)
 
 ###### I can write programs using conditional logic
