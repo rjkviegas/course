@@ -21,6 +21,37 @@ By the end of modules 1 & 2 all developers can:
 * [End of Module Challenge: Part 1](https://github.com/makersacademy/wednesday-challenge)
 
 
+### Skills Breakdown
+
+###### I can use the command line to run code and run tests
+
+###### I can use git to access and submit mastery quizzes
+
+###### I can write programs using variables
+- mastery quizzes chapters 1-3
+- <a href="http://www.youtube.com/watch?feature=player_embedded&v=t_ispmWmdjY
+" target="_blank"><img src="http://img.youtube.com/vi/t_ispmWmdjY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />Free code camp (0 - 1 hr 12 mins)</a>
+- [Codecademy (introduction to ruby) ](https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby)
+
+###### I can write programs using conditional logic
+- mastery quizzes chapters 4 - 5
+- [Free code camp (1 hr 40 - 2 hr 05)](http://www.youtube.com/watch?feature=player_embedded&v=t_ispmWmdjY)
+- [Codecademy (control flow in ruby)](https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby)
+
+###### I can write programs using loops
+- mastery quizzes chapters 6
+- [Free code camp (2 hr 15 - 3hr 05)](http://www.youtube.com/watch?feature=player_embedded&v=t_ispmWmdjY)
+- [Codecademy (loops iterators)](https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators)
+
+###### I can write programs using arrays and hashmaps
+- mastery quizzes chapters 7 + 8
+- [Free code camp (1 hr 12 - 1hr 30)](http://www.youtube.com/watch?feature=player_embedded&v=t_ispmWmdjY)
+- [Codecademy (arrays and hashes)](https://www.codecademy.com/courses/learn-ruby/lessons/ruby-data-structures/exercises/creating-arrays)
+
+
+
+
 ## Module 3: Test-Driven Development
 
 By the end of the module all developers can:
