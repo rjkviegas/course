@@ -28,7 +28,9 @@ By the end of modules 1 & 2 all developers can:
 ###### I can use git to access and submit mastery quizzes
 
 ###### I can write programs using variables
-- mastery quizzes chapters 1-3
+- [Mastery Quizzes, Chapter 1](https://mastery-curriculum.makers.tech/chapter1/)
+- [Mastery Quizzes, Chapter 2](https://mastery-curriculum.makers.tech/chapter2/)
+- [Mastery Quizzes, Chapter 3](https://mastery-curriculum.makers.tech/chapter3/)
 - [Free code camp (0 - 1 hr 12)](http://www.youtube.com/watch?feature=player_embedded&v=t_ispmWmdjY)
 - [Codecademy (introduction to ruby) ](https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby)
 
