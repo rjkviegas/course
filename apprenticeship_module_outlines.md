@@ -36,7 +36,7 @@ By the end of modules 1 & 2 all developers can:
 
 ###### I can write programs using conditional logic
 - mastery quizzes chapters 4 - 5
-- [Free code camp (1 hr 40 - 2 hr 05)](http://www.youtube.com/watch?feature=player_embedded&v=t_ispmWmdjY)
+- [Free code camp (1 hr 40 - 2 hr 05)](https://youtu.be/t_ispmWmdjY?t=6029)
 - [Codecademy (control flow in ruby)](https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby)
 
 ###### I can write programs using loops
