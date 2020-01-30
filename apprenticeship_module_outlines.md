@@ -23,30 +23,35 @@ By the end of modules 1 & 2 all developers can:
 
 ### Skills Breakdown
 
-###### I can use the command line to run code and run tests
+#### Navigate a unix command line
+ [ ] I can use the command line to run code and run tests
 
-###### I can use git to access and submit mastery quizzes
+#### Version control projects
+ [ ] I can use git to access and submit mastery quizzes
+ 
+ #### Write a procedural program
 
-###### I can write programs using variables
+ [ ] I can write programs using variables
 - [Mastery Quizzes, Chapter 1](https://mastery-curriculum.makers.tech/chapter1/)
 - [Mastery Quizzes, Chapter 2](https://mastery-curriculum.makers.tech/chapter2/)
 - [Mastery Quizzes, Chapter 3](https://mastery-curriculum.makers.tech/chapter3/)
-- [Free code camp (0 - 1 hr 12)](http://www.youtube.com/watch?feature=player_embedded&v=t_ispmWmdjY)
+- [Free code camp (0 - 1 hr 12)](https://youtu.be/t_ispmWmdjY)
 - [Codecademy (introduction to ruby) ](https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby)
 
-###### I can write programs using conditional logic
-- mastery quizzes chapters 4 - 5
+ [ ] I can write programs using conditional logic
+- [Mastery Quizzes, Chapter 4](https://mastery-curriculum.makers.tech/chapter4/)
+- [Mastery Quizzes, Chapter 5](https://mastery-curriculum.makers.tech/chapter5/)
 - [Free code camp (1 hr 40 - 2 hr 05)](https://youtu.be/t_ispmWmdjY?t=6029)
 - [Codecademy (control flow in ruby)](https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby)
 
-###### I can write programs using loops
-- mastery quizzes chapters 6
-- [Free code camp (2 hr 15 - 3hr 05)](http://www.youtube.com/watch?feature=player_embedded&v=t_ispmWmdjY)
+ [ ] I can write programs using loops
+- [Mastery Quizzes, Chapter 6](https://mastery-curriculum.makers.tech/chapter6/)
+- [Free code camp (2 hr 15 - 3hr 05)](https://youtu.be/t_ispmWmdjY?t=8126)
 - [Codecademy (loops iterators)](https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators)
 
-###### I can write programs using arrays and hashmaps
+ [ ] I can write programs using arrays and hashmaps
 - mastery quizzes chapters 7 + 8
-- [Free code camp (1 hr 12 - 1hr 30)](http://www.youtube.com/watch?feature=player_embedded&v=t_ispmWmdjY)
+- [Free code camp (1 hr 12 - 1hr 30)](https://youtu.be/t_ispmWmdjY?t=4338)
 - [Codecademy (arrays and hashes)](https://www.codecademy.com/courses/learn-ruby/lessons/ruby-data-structures/exercises/creating-arrays)
 
 
