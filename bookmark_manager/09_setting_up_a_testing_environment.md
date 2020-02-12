@@ -77,7 +77,7 @@ Once your feature test is passing, your unit tests for `Bookmark.all` are probab
 * [How do I get the current Rack Environment?](https://stackoverflow.com/questions/15459569/how-to-get-the-current-rack-environment-in-rake)
 * [PostgreSQL `DROP TABLE IF EXISTS` command](https://www.postgresql.org/docs/8.2/static/sql-droptable.html)
 * [PostgreSQL `TRUNCATE` command](https://www.postgresql.org/docs/8.2/static/sql-truncate.html)
-* [Difference between TRUNCATE ab DROP TABLE](https://stackoverflow.com/questions/135653/difference-between-drop-table-and-truncate-table)
+* [Difference between TRUNCATE and DROP TABLE](https://stackoverflow.com/questions/135653/difference-between-drop-table-and-truncate-table)
 * [Running a command before each RSpec test](https://stackoverflow.com/questions/9958110/is-it-possible-to-add-somewhere-a-beforeeach-hook-so-that-all-spec-file-c)
 
 ## [Walkthrough](walkthroughs/09.md)
