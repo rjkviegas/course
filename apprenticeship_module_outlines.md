@@ -60,6 +60,7 @@ By the end of modules 1 & 2 all developers can:
 
 By the end of the module all developers can:
 
+* Understand syntax for a class (instance variables, initialize method, other methods)
 * Test-drive a simple program using objects and methods
 * Pair using the driver-navigator style
 * Follow an effective debugging process
