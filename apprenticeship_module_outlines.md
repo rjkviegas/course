@@ -85,13 +85,14 @@ The intention is that you should work through the core exercises in order, from 
 |                               | [Diagram Your TDD Process][diagram_tdd]      |                                                                        |
 |                               | [Test Drive a Dice Class][tdd_dice_class]      |                                                                        |
 
-| Stretch Skill                 | Core Exercise                                  | Further Exercises                                                     |
-| ----------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------- |
-| Debugging                     | [Debugging Practical][debugging_practical]     |                                        |
-|                               | [Debug Fizzbuzz][debug_fizzbuzz]              |     
-|                               | [Debugging 1][debugging_1]                                              |                                              |
-| Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             |                                |
-|                               | [Test Drive a Notes App][tdd_notes_app]        |                                |
+| Stretch Skill                 | Core Exercise                                  |                       
+| ----------------------------- | ---------------------------------------------- | 
+| Debugging                     | [Debugging Practical][debugging_practical]     |                     
+|                               | [Debug Fizzbuzz][debug_fizzbuzz]               |     
+|                               | [Debugging 1][debugging_1]                     |                        |                               |                                                |
+| Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             |                        |                               |  [Test Drive a Notes App][tdd_notes_app]       |                                          
+
+
 [debugging_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
 [debug_fizzbuzz]: https://hackmd.io/s/S147x3Q3m
 [debugging_1]: https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1
