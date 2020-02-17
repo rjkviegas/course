@@ -73,20 +73,25 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel you need more practice on.
 
-Please **do not** proceed on to the next core exercise until you have validated the previous one by seeking feedback from a coach or another member of the cohort.
-
-| Key Skill                     | Core Exercise                                  | Further Exercises                                                     |
+| Key Skill                     | Core Exercise                                  | Resources                                                     |
 | ----------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------- |
-| Debugging                     | [Debugging Practical][debugging_practical]     | [Debug Fizzbuzz][debug_fizzbuzz]                                       |
-|                               |                                                | [Debugging 1][debugging_1]                                             |
-| Coding A Single Object        | [State and Behaviour][state_and_behaviour]     |                                                                        |
-| Writing Tests                 | [Writing Unit Tests][writing_unit_tests]       | [Testing Relationships Between Classes][testing_relationships_classes] |
-| Test Driving Methods          | [Test Driving Practical][tdd_practical]        | [Test driving a kata][tdd_kata]                                        |
-|                               | [TDD Fizzbuzz][tdd_fizzbuzz]                   |                                                                        |
-| Test Driving A Single Object  | [Bank Account][bank_account]                   | [Diagram Your TDD Process][diagram_tdd]                                |
+| Coding A Single Object        | [State and Behaviour][state_and_behaviour]     |  `bank_account_class.mov` - course videos                                                                      |
+| Writing Tests                 | [Writing Unit Tests][writing_unit_tests]       |  |
+|                               | [Testing Relationships Between Classes][testing_relationships_classes]       |  |
+| Test Driving Methods          | [Test Driving Practical][tdd_practical]        |                                         |
+|                               | [TDD Fizzbuzz][tdd_fizzbuzz]                   |   [TDD Fizzbuzz video](https://www.youtube.com/watch?v=OaDSK3G8474)                                                                     |
+|                               | [Test driving a kata][tdd_kata]                   |                                                                        |
+| Test Driving A Single Object  | [Bank Account][bank_account]                   |  `tdd-bank-account.mov` - course videos                               |
+|                               | [Diagram Your TDD Process][diagram_tdd]      |                                                                        |
 |                               | [Test Drive a Dice Class][tdd_dice_class]      |                                                                        |
-| Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             | [Test Drive a Notes App][tdd_notes_app]                                |
 
+| Stretch Skill                 | Core Exercise                                  | Further Exercises                                                     |
+| ----------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------- |
+| Debugging                     | [Debugging Practical][debugging_practical]     |                                        |
+|                               | [Debug Fizzbuzz][debug_fizzbuzz]              |     
+|                               | [Debugging 1][debugging_1]                                              |                                              |
+| Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             |                                |
+|                               | [Test Drive a Notes App][tdd_notes_app]        |                                |
 [debugging_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
 [debug_fizzbuzz]: https://hackmd.io/s/S147x3Q3m
 [debugging_1]: https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1
@@ -104,10 +109,7 @@ Please **do not** proceed on to the next core exercise until you have validated 
 [tdd_kata]: http://codekata.com/kata/kata01-supermarket-pricing/
 [tdd_fizzbuzz]: https://github.com/makersacademy/course/blob/a40d2500a627546c70feebdc92da329147ae34c1/fizzbuzz/fizzbuzz.md
 
-### Resources
-[TDD Fizzbuzz video](https://www.youtube.com/watch?v=OaDSK3G8474)
-`bank_account_class.mov` - course videos
-`tdd-bank-account.mov` - course videos
+
 
 ### Pairing challenge
 
