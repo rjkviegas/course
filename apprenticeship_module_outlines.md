@@ -60,6 +60,7 @@ By the end of modules 1 & 2 all developers can:
 
 By the end of the module all developers can:
 
+* Take a user story, write a test case, and write code to pass a test
 * Understand syntax for a class (instance variables, initialize method, other methods)
 * Test-drive a simple program using objects and methods
 * Pair using the driver-navigator style
@@ -74,7 +75,7 @@ The intention is that you should work through the core exercises in order, from 
 
 Please **do not** proceed on to the next core exercise until you have validated the previous one by seeking feedback from a coach or another member of the cohort.
 
-| Key Skill                     | Core Exercise                                  | Optional Exercises                                                     |
+| Key Skill                     | Core Exercise                                  | Further Exercises                                                     |
 | ----------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------- |
 | Debugging                     | [Debugging Practical][debugging_practical]     | [Debug Fizzbuzz][debug_fizzbuzz]                                       |
 |                               |                                                | [Debugging 1][debugging_1]                                             |
@@ -102,6 +103,11 @@ Please **do not** proceed on to the next core exercise until you have validated 
 [bank_account]: https://github.com/makersacademy/simple_tdd_bank
 [tdd_kata]: http://codekata.com/kata/kata01-supermarket-pricing/
 [tdd_fizzbuzz]: https://github.com/makersacademy/course/blob/a40d2500a627546c70feebdc92da329147ae34c1/fizzbuzz/fizzbuzz.md
+
+### Resources
+[TDD Fizzbuzz video](https://www.youtube.com/watch?v=OaDSK3G8474)
+`bank_account_class.mov` - course videos
+`tdd-bank-account.mov` - course videos
 
 ### Pairing challenge
 
