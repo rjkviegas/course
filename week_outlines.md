@@ -40,6 +40,7 @@ These can be used by the devs independently, or enhanced by a coach delivering a
 * [Introduction to Debugging](https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1)
 * [Encapsulation](https://github.com/makersacademy/skills-workshops/tree/master/week-1/oop_1)
 * [Mocking](https://github.com/makersacademy/skills-workshops/tree/master/week-1/mocking_1)
+* [TDD a simple program](https://github.com/makersacademy/skills-workshops/blob/master/week-1/TDD_process.md)
 
 ## Week 2
 
