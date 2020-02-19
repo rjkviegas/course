@@ -2,13 +2,10 @@
 
 In self-directed learning, one of the important aspects is to keep track of your learning. By reflecting on what you have learnt and setting yourself goals on what to do next, you'll cement your understanding and focus your efforts.
 
+## Tools
+
 * The [Portfolio Template](https://docs.google.com/document/d/1o8uTAyPSSyD8eMAUOdMsAK9pDgBA2jVXc5-p3PS29lQ/edit#heading=h.bwbqjdsvw2lz) is one tool you can use to set goals for yourself and keep track of the evidences of having achieved said goals.
-* -DEPRECATED-[Diode](https://diode.makersacademy.com/) is a tool that allows you to keeps notes of projects you are working on and link them to the goals of the course.
 * Here's a trello board you can copy to manage your goal tracking. It has a few example goals. https://trello.com/b/lBHn6hIt/student-goal-tracking
-
-
-## Other examples from Makers devs
-Here are other tools Makers developers have used to track their learnings and reflections along the way:
 
 * Dan (August 2019) records his reflections and learning in a [github repo](https://github.com/DanGyi23/MyPortfolio)
 
