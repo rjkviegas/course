@@ -125,7 +125,7 @@ The intention is that you should work through the core exercises in order, from 
 
 By the end of the module all developers can:
 
-* Use all of the module 3 skills (don't underestimate the importance of this)
+* Given a user story, write a test and code to pass this test
 * Break one class into two classes that work together, while maintaining test coverage
 * Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
 * Review another person's code and give them meaningful feedback
