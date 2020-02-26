@@ -59,8 +59,6 @@ Under each objective is an example thing. If you can confidently do that example
   * When you run your tests, your application only writes and reads data from a 'test database'. The test database is emptied between tests. 
 * :green_heart: Use database GUIs to interact with databases.
   * Use TablePlus to read and write from and to your database.
-* :green_heart: Use Rake to automate environment tasks.
-  * Take a script you run from the command-line like this: `ruby my_automation_script.rb` and make it work when you do this: `rake script:automate`.
 
 ## Skills
 

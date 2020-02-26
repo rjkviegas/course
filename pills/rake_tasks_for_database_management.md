@@ -1,6 +1,8 @@
 ### Rake tasks for database management
 :construction: :construction: :construction: THIS IS UNDER CONSTRUCTION :construction: :construction: :construction:
 
+(In the meantime, see also [Using Rake](../bookmark_manager/using_rake.md))
+
 Since we are changing the schema of the database in a destructive way (creating a unique index), we need to execute `DataMapper.auto_migrate!` instead of `DataMapper.auto_upgrade!` after we create a unique index.
 
 Right now our `auto_upgrade!` call is in `data_mapper_setup` but this creates two problems. First, we don't want to edit this file every time we want to run `data_migrate!` instead. Second, we don't want to run `auto_upgrade` every single time we respond to a request. Let's create a rake task for these operations, so that we could call them manually when we need to.
