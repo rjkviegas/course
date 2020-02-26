@@ -30,9 +30,10 @@ These [assessment criteria](../../final_projects/project_criteria.md) will be ho
 
 * [Intro to rails](intro_to_rails.md)
 
-
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/engineering_projects/rails/README.md)
-
 ### Additional Resources
 
-This week you might find it useful to expand your web development tool kit - [this pill](../../pills/web_development_tools.md) includes some helpful resources for building user-friendly applications.
+This week you might find it useful to expand your web development tool kit:
+
+- :pill: [Web Development Tools](../../pills/web_development_tools.md) includes some helpful resources for building user-friendly applications.
+
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/engineering_projects/rails/README.md)
