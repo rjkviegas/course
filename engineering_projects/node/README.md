@@ -35,3 +35,5 @@ These [assessment criteria](../assessment_criteria.md) will be how we look at yo
 This week you might find it useful to expand your web development tool kit:
 
 - :pill: [Web Development Tools](../../pills/web_development_tools.md) includes some helpful resources for building user-friendly applications.
+
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/engineering_projects/node/README.md)
