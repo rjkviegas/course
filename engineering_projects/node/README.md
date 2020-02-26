@@ -29,3 +29,9 @@ These [assessment criteria](../assessment_criteria.md) will be how we look at yo
 ## Card Wall
 
 * [Make your own copy of ths template](https://trello.com/b/9IJTM4kw/acebook-node-template)
+
+### Additional Resources
+
+This week you might find it useful to expand your web development tool kit:
+
+- :pill: [Web Development Tools](../../pills/web_development_tools.md) includes some helpful resources for building user-friendly applications.

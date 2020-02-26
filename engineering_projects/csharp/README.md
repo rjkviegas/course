@@ -29,3 +29,9 @@ Follow [these instructions](../project_setup.md) to get your team set up and rea
 ## Card Wall
 
 [Make your own copy of this template](https://trello.com/b/Dgcyzjcp/acebook-csharp-template) or [choose another option](../project_setup.md#card-wall).
+
+### Additional Resources
+
+This week you might find it useful to expand your web development tool kit:
+
+- :pill: [Web Development Tools](../../pills/web_development_tools.md) includes some helpful resources for building user-friendly applications.
