@@ -178,7 +178,7 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 
 ### Individual challenge
 
-[Takeaway](https://github.com/makersacademy/takeaway-challenge)
+[Office management](https://github.com/makersacademy/office-management-challenge)
 
 
 ## Module 5: The Web
