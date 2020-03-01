@@ -192,7 +192,7 @@ By the end of the module all developers can:
 * Explain the basics of how the web works (e.g. client/server, request/response, HTTP, HTML, CSS)
 * Explain the MVC pattern
 * Write feature and unit tests for a web application
-* Set up a web application with tests
+* Set up a web application with testing frameworks
 
 #### Stretch goal
 * Follow an effective debugging process for web applications
