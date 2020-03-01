@@ -185,10 +185,17 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 
 By the end of the module all developers can:
 
-* Test-drive a simple web app
-* Follow an effective debugging process for web applications
-* Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+#### Overarching goal
+* Test-drive a web app
+
+#### Subgoals
+* Explain the basics of how the web works (e.g. client/server, request/response, HTTP, HTML, CSS)
 * Explain the MVC pattern
+* Write feature and unit tests for a web application
+* Set up a web application with tests
+
+#### Stretch goal
+* Follow an effective debugging process for web applications
 
 ### Exercises for self-directed learning
 
@@ -200,8 +207,9 @@ These exercises can be used for independent study, or enhanced by group discussi
 | Servers/Clients       | [Servers][servers]                                   |                          |
 |                       | [Clients][clients]                                   |                          |
 |                       | [HTTP Severs][http_servers]                          |                          |
-| TDD Web App           | [To Do List][to_do_list]                             | [Birthday][birthday]     |
+| TDD Web App           | [Birthday][birthday]                                |                           |
 | REST                  | [REST Game][rest]                                    | [Comedy API][comedy_api] |
+| Debugging.            | [Debugging][debugging]
 
 [process_model]: https://github.com/makersacademy/skills-workshops/tree/master/week-3/process_modelling
 [servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md
@@ -211,6 +219,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 [comedy_api]: https://github.com/makersacademy/comedy_api_tech_test
 [to_do_list]: https://github.com/makersacademy/todo-list-web
 [birthday]: https://github.com/makersacademy/birthdays
+[debugging]: https://github.com/makersacademy/skills-workshops/tree/master/week-3/debugging_2
 
 ### Pairing challenge
 
