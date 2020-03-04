@@ -105,6 +105,7 @@ By the end of the week all developers can:
 * [Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md)
 * [Clients](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md)
 * [HTTP Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md)
+* [Build a birthday greeter app (small project)](https://github.com/makersacademy/course/blob/master/intro_to_the_web/post_challenges/birthday_app.md)
 
 ### Resources
 * [Technical Learning Resources](https://airtable.com/shrlqxQm2BeUDvFyp/tblokmw6yNUO75ge6?blocks=hide)
@@ -131,6 +132,7 @@ By the end of the week all developers can:
 
 * [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md)
 * [SQLZoo](https://sqlzoo.net/)
+* [Build a diary app (small project)](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/daily_diary_app.md)
 
 ### Resources
 * [Technical Learning Resources](https://airtable.com/shrGPJMHNfr7p9iAo/tblokmw6yNUO75ge6?blocks=hide)
