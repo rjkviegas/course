@@ -227,7 +227,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 ### Individual challenge
 
-[Rock Paper Scissors](https://github.com/makersacademy/rps-challenge)
+[Rock Paper Scissors](https://github.com/makersacademy/rps-challenge-apprenticeships)
 
 
 ## Module 6: Databases
