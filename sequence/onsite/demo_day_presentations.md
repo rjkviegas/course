@@ -1,6 +1,6 @@
 # Important instructions for Onsite Demo Day Presentations
 
-* Please **make your presentation in Google Slides**.
+* Please **make your presentation in Keynote**.
 
 * Your coach's computer will be used as the presentation computer.  They will have all your slide decks opened in Chrome and ready for you to present.
 
