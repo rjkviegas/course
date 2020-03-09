@@ -6,6 +6,12 @@ If you have any questions, just ask!
 
 ### Morning
 
+The building will be opened by the operations team at 08:30. If you arrive early please wait in the 2nd Floor Kitchen.
+
+Your coach will arrive during breakfast. Please ask the coaches any questions you have about the course.
+
+Please post questions about our [facilities](https://github.com/makersacademy/course/blob/master/pills/facilities.md) in the `#facilities` channel on Slack.
+
 * 09.00 - 09.30 Breakfast :coffee:(2nd Floor Kitchen)
 * 09.30 - 11.00 _Welcome to Makers_ (2nd Floor)
 * 11.00 - 12.30 _Life at Makers_ by Dana (2nd Floor)
