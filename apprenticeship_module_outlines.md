@@ -265,8 +265,17 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 [Chitter](https://github.com/makersacademy/chitter-challenge)
 
+## Module 7: MakersBnB
 
-## Module 7: Learn A New Language
+By the end of this module all developers can:
+
+* Build to a specificiation (rather than challenges)
+* Run stand-ups and retrospectives
+* Use a branch/PR/merge git workflow
+* Give and receive meaningful code review
+
+
+## Module 8: Learn A New Language
 
 By the end of the module all developers can:
 
@@ -308,7 +317,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 [Bowling](https://github.com/makersacademy/bowling-challenge)
 
 
-## Module 8: Engineering Project I
+## Module 9: Engineering Project I
 
 By the end of the module all developers can:
 
@@ -319,24 +328,3 @@ By the end of the module all developers can:
 For more information about this project and how great dev teams work together look [here](./engineering_projects/README.md).
 
 
-## Module 9: Performance
-
-By the end of the module all developers can:
-
-* Mention efficiency as one axis to talk about algorithms
-* Have conversations about algorithmic complexity
-* Characterise the complexity of classic algorithms
-
-### Resources
-
-* [A podcast about algorithmic complexity, with some great notes](https://www.codingblocks.net/podcast/what-is-algorithmic-complexity/)
-* [Video illustration of different sorting algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
-* [Time Complexity on Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
-
-### Challenge
-
-This challenge is a research project. You can work on it individually or in teams of 2 or 3.
-
-[Here's the outline](./algorithmic_complexity/README.md).
-
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/apprenticeship_module_outlines.md)
