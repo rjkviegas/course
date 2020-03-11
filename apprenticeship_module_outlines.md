@@ -1,6 +1,6 @@
 **Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These include wellbeing and code quality. They are not the topic of any one module, and you will miss them out unless you think of them regularly!
 
-## Modules 1 & 2: Basic Programming
+## Weeks 1 & 2: Basic Programming
 
 By the end of modules 1 & 2 all developers can:
 
@@ -56,7 +56,7 @@ By the end of modules 1 & 2 all developers can:
     * [Codecademy (arrays and hashes)](https://www.codecademy.com/courses/learn-ruby/lessons/ruby-data-structures/exercises/creating-arrays)
 
 
-## Module 3: Test-Driven Development
+## Week 3: Test-Driven Development
 
 By the end of the module all developers can:
 
@@ -121,7 +121,7 @@ The intention is that you should work through the core exercises in order, from 
 [Airport](https://github.com/makersacademy/airport_challenge)
 
 
-## Module 4: Object-Oriented Design
+## Week 4: Object-Oriented Design
 
 By the end of the module all developers can:
 
@@ -181,7 +181,7 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 [Office management](https://github.com/makersacademy/office-management-challenge)
 
 
-## Module 5: The Web
+## Week 5: The Web
 
 By the end of the module all developers can:
 
@@ -230,7 +230,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 [Rock Paper Scissors](https://github.com/makersacademy/rps-challenge-apprenticeships)
 
 
-## Module 6: Databases
+## Week 6: Databases
 
 By the end of the module all developers can:
 
@@ -265,7 +265,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 [Chitter](https://github.com/makersacademy/chitter-challenge)
 
-## Module 7: MakersBnB
+## Week 7: MakersBnB
 
 By the end of this module all developers can:
 
@@ -275,7 +275,7 @@ By the end of this module all developers can:
 * Give and receive meaningful code review
 
 
-## Module 8: Learn A New Language
+## Week 8: Learn A New Language
 
 By the end of the module all developers can:
 
@@ -317,7 +317,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 [Bowling](https://github.com/makersacademy/bowling-challenge)
 
 
-## Module 9: Engineering Project I
+## Weeks 9 & 10: Engineering Project I
 
 By the end of the module all developers can:
 
@@ -327,4 +327,4 @@ By the end of the module all developers can:
 
 For more information about this project and how great dev teams work together look [here](./engineering_projects/README.md).
 
-
+## Weeks 11 & 12: Final Project
