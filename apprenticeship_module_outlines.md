@@ -263,7 +263,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 ### Individual challenge
 
-[Chitter](https://github.com/makersacademy/chitter-challenge)
+[Chitter](https://github.com/makersacademy/chitter-challenge-apprenticeships)
 
 ## Week 7: MakersBnB
 
