@@ -40,7 +40,7 @@ Read [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/
 
 ## Facilities
 
-The building is open from 08.30 - 19.00, Monday - Friday
+The building is usually open from 08.30 - 19.00, Monday - Friday. From Tuesday March 17th, the building will be closed and you will be fully remote. For more information please check out our FAQ [here](https://faq.makers.tech/knowledge/covid-19-coronavirus?hsLang=en). 
 
 [Facilities](https://github.com/makersacademy/course/blob/master/pills/facilities.md).
 
