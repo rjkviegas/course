@@ -17,6 +17,7 @@ Remote pairing is a form of :pill: [pair programming](./pairing.md) used when yo
 Before remote pairing learn about:
 - :pill: [Working from home](./working-from-home.md)
 - :pill: [GitHub collaboration](./github_collaboration.md)
+- :pill: [Pair programming](./pairing.md)
 
 ## Collaboration tools
 
