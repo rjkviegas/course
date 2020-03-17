@@ -7,13 +7,16 @@ This walkthrough assumes that you have `git` installed on your machine. If not, 
 - Now that you know that bundler is installed, use bundler to create a Gemfile (with a capital G, it's important) for you by running `bundle init`. This will generate a Gemfile like this:
 
 ```ruby
-# A sample Gemfile
+# frozen_string_literal: true
+
 source "https://rubygems.org"
+
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
 ```
 
-- Remove both comments and add this code after the `source` line:
+- Remove the commented out Rails gem and add this code after the `git_source` line:
 ```ruby
 group :development, :test do
   gem "rspec"
