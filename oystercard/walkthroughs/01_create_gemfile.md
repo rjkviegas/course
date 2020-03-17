@@ -16,7 +16,9 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 # gem "rails"
 ```
 
-- Remove the commented out Rails gem and add this code after the `git_source` line:
+- Remove the commented out Rails gem
+
+- Add this code after the `git_source` line:
 ```ruby
 group :development, :test do
   gem "rspec"
@@ -24,7 +26,7 @@ end
 ```
 You can read about the format of the Gemfile in this [brilliant tutorial](http://tosbourn.com/what-is-the-gemfile/).
 
-- Now let's check the version of Ruby we have installed. You can find out the latest stable Ruby version on [its website](https://www.ruby-lang.org/en/downloads/). As of today, it's 2.2.3. Assuming you have RVM installed (if not, follow the instructions from the [RVM website](https://rvm.io/rvm/install)), run `rvm list` to see what Ruby version you have on your machine. The output will look similar to this:
+- Now let's check the version of Ruby we have installed. You can find out the latest stable Ruby version on [its website](https://www.ruby-lang.org/en/downloads/). As of today, it's 2.7.0. Assuming you have RVM installed (if not, follow the instructions from the [RVM website](https://rvm.io/rvm/install)), run `rvm list` to see what Ruby version you have on your machine. The output will look similar to this:
 
 ```
 rvm rubies
@@ -32,25 +34,29 @@ rvm rubies
    ruby-1.9.3-p448 [ x86_64 ]
    ruby-2.0.0-p247 [ x86_64 ]
  * ruby-2.1.0 [ x86_64 ]
-=> ruby-2.2.3 [ x86_64 ]
+=> ruby-2.7.0 [ x86_64 ]
 
 # => - current
 # =* - current && default
 #  * - default
 ```
 
-If you can't see the latest Ruby version there, you'll need to install it using `rvm install 2.2.3`. Once done, verify it's successfully installed by running `ruby -v` – you will see the Ruby version.
+If you can't see the latest Ruby version there, you'll need to install it using `rvm install 2.7.0`. Once done, verify it's successfully installed by running `ruby -v` – you will see the Ruby version.
 
 - Now let's update our Gemfile with the latest Ruby version. This is important because there are slight differences between different version, so your code can produce different results under different Ruby versions. Therefore, all developers working on the project as well as the servers running your code should be using the same version – the one specified in the Gemfile.
 
-Add this line to Gemfile after `source`: `ruby '2.2.3'`
+Add this line to Gemfile after `source`: `ruby '2.7.0'`
 
 - Now your Gemfile looks like this:
 
 ```
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
-ruby '2.2.3'
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+ruby '2.7.0'
 
 group :development, :test do
   gem "rspec"
@@ -68,7 +74,7 @@ git commit -m 'Closing #1: added a Gemfile'
 git push origin master
 ```
 
-What you've just done was to add the files individually (first Gemfile, then Gemfile.lock). There's a git command to add all files in the current directory that will save you typing individual filenames but we advise you to add the files individually while you're still learning how to use git to make sure that you're adding exactly what you want and not something else.
+What you've just done was to add the files individually (first `Gemfile`, then `Gemfile.lock`). There's a git command to add all files in the current directory that will save you typing individual filenames but we advise you to add the files individually while you're still learning how to use git to make sure that you're adding exactly what you want and not something else.
 
 [Next challenge](../02_initialize_rspec.md)
 
