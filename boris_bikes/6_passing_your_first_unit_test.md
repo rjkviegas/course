@@ -13,10 +13,20 @@ end
 When you ran RSpec, you should have gotten an error like this:
 
 ```
-/Users/username/source/makers_academy/boris-bikes/spec/docking_station_spec.rb:1:in `<top (required)>': uninitialized constant DockingStation (NameError)
-  from /Users/username/.rvm/gems/ruby-2.0.0-p195/gems/rspec-core-3.2.2/lib/rspec/core/configuration.rb:1226:in `load'
-  from /Users/username/.rvm/gems/ruby-2.0.0-p195/gems/rspec-core-3.2.2/lib/rspec/core/configuration.rb:1226:in `block in load_spec_files'
-  ...
+An error occurred while loading ./spec/docking_station_spec.rb.
+Failure/Error:
+  describe DockingStation do
+
+  end
+
+NameError:
+  uninitialized constant DockingStation
+# ./spec/docking_station_spec.rb:1:in `<top (required)>'
+No examples found.
+
+
+Finished in 0.00003 seconds (files took 0.12494 seconds to load)
+0 examples, 0 failures, 1 error occurred outside of examples
 ```
 
 This is an error from the testing framework RSpec. It says that it doesn't know what `DockingStation` is.
