@@ -85,7 +85,7 @@ There are many other collaboration tools available. Any tool that enables you an
   - Message your pair in Slack if you get disconnected
   - Be specific, reference what line of code you are talking about by using its line number 
 - **Wrap up**
-  - Reflect on your pairing session, give your partner an appreciation and some feedback
+  - Reflect on your pairing session, give your partner an appreciation and any last nuggets of feedback
 
 ## Resources
 
