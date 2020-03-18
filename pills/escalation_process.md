@@ -24,7 +24,6 @@ At Makers, you're learning to learn.  This is why the list below prioritises tec
 
 Coaches will be available  during coaching hours (9:30am to 12:30pm) on slack to support you. 
 
-Please ask your question in the **#coaches** channel on slack 
-A coach will react to your message with a thumbs up emoji to say they are taking your question, and they’ll reach out directly on slack or zoom, depending on the nature of the question.
+Please ask your question in the **#coaches** channel on slack. A coach will react to your message with a thumbs up emoji to say they are taking your question, and they’ll reach out directly on slack or zoom, depending on the nature of the question.
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/escalation_process.md)
