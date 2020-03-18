@@ -78,14 +78,14 @@ There are many other collaboration tools available. Any tool that enables you an
   - Break your goal down into a handful of tasks
   - Decide your driver/navigator swapping strategy
   - Eliminate distractions
-  - Agree on how often you'll stop to give each other constructive feedback
+  - Agree on how often you'll stop to give each other constructive feedback (for example, you could agree to do this after every half hour or hour of pairing)
 - **Pair**
   - Switch driver/navigator regularly
   - Take breaks
   - Message your pair in Slack if you get disconnected
   - Be specific, reference what line of code you are talking about by using its line number 
 - **Wrap up**
-  - Reflect on your pairing session, give your partner an appreciation and give your pair partner some feedback (you could agree to do this after every hour of pairing)
+  - Reflect on your pairing session, give your partner an appreciation and some feedback
 
 ## Resources
 
