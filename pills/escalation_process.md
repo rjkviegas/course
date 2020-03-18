@@ -20,7 +20,7 @@ At Makers, you're learning to learn.  This is why the list below prioritises tec
 
 6. *Ask your cohort.* Remember everyone is on the same learning journey it's likely they are wrestling with similar issues. Send your question to your cohort channel :)  
 
-7. *Coach.* If all else fails, get some 1-1 help from a coach. This help may come in the form of more questions!
+7. *Ask a coach.* If all else fails, get some 1-1 help from a coach. This help may come in the form of more questions!
 
 Coaches will be available  during coaching hours (9:30am to 12:30pm) on slack to support you. 
 
