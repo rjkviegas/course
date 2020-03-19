@@ -24,15 +24,15 @@ By the end of the week, you should:
 
 ### Structure of the week
 
-Each day, you'll work solo to complete a different technical challenge.  We'll also do quick code reviews and retros on each tech test.
+This week, you'll work solo to complete different technical challenges. A self assessment form will help you reflect on the quality of your code, and coaches will review your code once you believe you have achieved professional quality.
 
-You'll also come up with ideas for final projects and your coach will announce your final projects teams.
+On Friday, you'll also come up with ideas for final projects.
 
 ### Processes
 
 This week is especially good for focusing on the question, "am I a better developer than I was yesterday?"
 
-There are three tech tests this week.  This means you can start from scratch three times.  It means you can reflect on what was good and what was bad three times.  And it means you can try new things to improve three times.
+There are up to three tech tests this week.  This means you can start from scratch three times.  It means you can reflect on what was good and what was bad three times.  And it means you can try new things to improve three times.
 
 ### Code reviews from your coach
 
@@ -45,19 +45,6 @@ You can use Ruby or JavaScript for any of the challenges.
 ### Challenges
 
 Enjoy these challenges - they are either adapted or directly copied from actual tech tests that employers send out. You will find other tech tests in this folder that you can attempt over the weekend or after graduation.
-
-### Doing a good tech test
-
-* Get into groups of around 4.
-
-* Spend five minutes making a list of the attributes of a good tech test submission e.g. full test coverage.
-
-* We'll get back together and make a list of every group's ideas.
-
-### Schedule
-
-* [Onsite](../sequence/onsite/week10.md)
-* [Remote](../sequence/remote/week10.md)
 
 ### Resources
 
