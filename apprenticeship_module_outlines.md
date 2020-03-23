@@ -310,7 +310,20 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 ### Individual challenge
 
-[Bowling](https://github.com/makersacademy/bowling-challenge)
+For this module there are several options.  You should take a moment to decide which is the right one for you before getting started.  If you choose something and regret it, go back and choose something else! :)
+
+* The [office management challenge in JS](https://github.com/makersacademy/office-management-challenge)
+   - A familiar problem in a new language
+   - Do this one if you would like to focus on basic Javascript syntax
+   - Can you extend the challenge to include a user interface?
+* The [takeaway challenge in JS](https://github.com/makersacademy/takeaway-challenge)
+   - Towards the end of the Takeaway challenge, you'll have fun sending text messages with the Twilion API! :)
+   - Do this one if you want something a little bit more challenging
+   - Can you extend the challenge to include a user interface?
+* A basic implementation of [the bowling challenge](https://github.com/makersacademy/bowling-challenge)
+   - The bowling challenge is designed to be done over 4 days
+   - You won't finish it in 1 and you'll need to be OK with that
+   - Do this one if you want to try something very challenging :)
 
 
 ## Weeks 9 & 10: Engineering Project I
