@@ -18,7 +18,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 * **Can you learn a new language and its patterns?**
 
-## Reminder of all this week's goals from the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md)
+## Reminder of all this week's goals from the [Module Outlines](https://github.com/makersacademy/course/blob/master/apprenticeship_module_outlines.md)
 
 By the end of the week all developers can:
 
