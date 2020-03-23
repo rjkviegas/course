@@ -10,7 +10,8 @@
 
 
 #### Friday
-- 16:00:Individual group retros (organised in your groups)
+- 15:00:Student-led team retros (organised in your teams)
+- 16:00:MakersBnb presentations with the whole cohort
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/onsite/week06.md)
