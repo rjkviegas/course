@@ -58,10 +58,11 @@ We recommend Zoom for video conferencing and remote pairing because it has a goo
 
 ### Others
 
-There are many other collaboration tools available. Any tool that enables you and your pair to edit in realtime is worth trying:
+There are many other collaboration tools available.
 
-- [Google Docs](https://docs.google.com/)
-- [Miro](https://miro.com) (formerly Realtimeboard)
+Any tool that enables you and your pair to edit in realtime is worth trying:
+
+- :pill: [Collaboration tools](./collaboration-tools.md)
 
 ## Remote pairing session template
 
