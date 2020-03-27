@@ -94,3 +94,5 @@ Any tool that enables you and your pair to edit in realtime is worth trying:
 - [Tuple's Pair Programming Guide](https://tuple.app/pair-programming-guide/)
 - :clapper: [Remote Pair Programming](https://www.youtube.com/watch?v=Yq1qgWvSIdI)
 - :clapper: [More Remote Pair Programming](https://www.youtube.com/watch?v=f9ALSPlPQhg)
+
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/remote-pairing.md)
