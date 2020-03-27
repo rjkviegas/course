@@ -36,3 +36,5 @@ Any tool that enables two or more people to view and contribute in realtime is w
     - Your coach can create a retro board for your cohort or team: `https://makers-postfacto.herokuapp.com/retros/BOARD-NAME`
 - [Retrium](https://www.retrium.com)
 - [FunRetro](https://funretro.io)
+
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/collaboration-tools.md)
