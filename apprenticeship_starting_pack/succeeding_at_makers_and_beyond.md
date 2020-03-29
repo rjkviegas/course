@@ -54,4 +54,4 @@ Not everyone will come here knowing how to take control of their own journey —
 
 And then there's the matter of making the environment here as rich in opportunities to learn as possible. If you're not sure whether your code is readable or not, it should be easy to learn how to determine that, execute it, and then engage productively with the task of improving your code. Moreover, the atmosphere and people around you should inspire you to be better.
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/self_directed_apprentices/README.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/apprenticeship_starting_pack/succeeding_at_makers_and_beyond.md)

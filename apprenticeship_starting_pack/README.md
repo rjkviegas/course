@@ -43,4 +43,4 @@ We warmly encourage every student at Makers Academy to introduce themselves to a
 - Interested to know more about [how we work as an organisation?](https://blog.makersacademy.com/search?q=management)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/apprenticeships_course_outline.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/apprenticeship_starting_pack/README.md)

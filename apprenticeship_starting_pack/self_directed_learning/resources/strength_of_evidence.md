@@ -17,4 +17,4 @@ This is summed up in the acronym CEP, standing for:
 Coaches are also a good source of credible feedback, as software engineering experts. Be mindful of the questions you ask them though! Are you looking for evidence that you're making progress? Or evidence that your code is of a professional standard?
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/goals/strength_of_evidence.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/apprenticeship_starting_pack/strength_of_evidence.md)
