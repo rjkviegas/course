@@ -33,3 +33,5 @@ Please use [this FAQ](https://docs.google.com/document/d/1mIF8NWZEJOEc5Id6-7W3KY
 ## Resources
 
 - [Top tips for working from home](https://dev.to/codeidoscope/top-tips-for-working-from-home-8md) by a Makers Alum
+
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/working-from-home.md)
