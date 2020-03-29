@@ -119,4 +119,4 @@ $('#select-city').submit(function(event) {
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/walkthroughs/apis.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/es6/walkthroughs/apis.md)

@@ -56,4 +56,4 @@ Make sure that the HTML elements are all present by trying to play with your the
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/walkthroughs/interface.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/es6/walkthroughs/interface.md)

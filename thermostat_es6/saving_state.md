@@ -16,4 +16,4 @@ See the video overview of Ajax for how to talk to a remote API with jQuery: http
 You'll be able to use a lot of the same techniques as the ones you used in week 4. Consider having a look at those walkthroughs if you get stuck.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/saving_state.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/saving_state.md)

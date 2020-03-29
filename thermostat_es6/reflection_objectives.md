@@ -32,4 +32,4 @@
   - I set my own direction
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/reflection_objectives.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/reflection_objectives.md)

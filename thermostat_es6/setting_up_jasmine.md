@@ -31,4 +31,4 @@ In this challenge, you will install Jasmine, set up a new project and try to fin
 ### [Walkthrough](walkthroughs/setting_up_jasmine.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/setting_up_jasmine.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/setting_up_jasmine.md)

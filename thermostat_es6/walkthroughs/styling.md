@@ -26,4 +26,4 @@
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/walkthroughs/styling.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/walkthroughs/styling.md)

@@ -44,4 +44,4 @@
 * Build a simple API
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/learning_objectives.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/learning_objectives.md)

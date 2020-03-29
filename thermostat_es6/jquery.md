@@ -32,4 +32,4 @@ The first part of this challenge is intentionally left really open. When you fir
 ### [Walkthrough](walkthroughs/jquery.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/jquery.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/jquery.md)

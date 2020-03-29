@@ -133,4 +133,4 @@ Finally, delete all the files in `spec` and `src` that are not needed - your fol
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/walkthroughs/setting_up_jasmine.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/walkthroughs/setting_up_jasmine.md)

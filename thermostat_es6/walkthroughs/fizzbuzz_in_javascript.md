@@ -102,4 +102,4 @@ for (var i = 1; i <= 100; i++) {
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/walkthroughs/fizzbuzz_in_javascript.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/es6/walkthroughs/fizzbuzz_in_javascript.md)

@@ -28,4 +28,4 @@ Or, influenced by whatever else you take your visual inspiration from.
 There's no detailed walkthrough for this challenge.  How much and what styling you'd like to do is up to you.  However, the [walkthrough](walkthroughs/styling.md) does contain some questions to consider when styling your thermostat.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/styling.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/styling.md)

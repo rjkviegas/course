@@ -553,4 +553,4 @@ Fantastic! Truly exciting! Now we have a fully-tested thermostat ready to go. Ne
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/walkthroughs/thermostat_logic.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/walkthroughs/thermostat_logic.md)

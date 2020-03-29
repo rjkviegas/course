@@ -33,4 +33,4 @@ In case you've forgotten the rules of FizzBuzz:
 ### [Walkthrough](walkthroughs/fizzbuzz_in_javascript.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/fizzbuzz_in_javascript.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/fizzbuzz_in_javascript.md)

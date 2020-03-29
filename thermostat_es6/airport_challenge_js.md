@@ -27,4 +27,4 @@ Take your Ruby code and attempt to rewrite it in JavaScript - don't dwell too lo
 ### [Walkthrough](walkthroughs/airport_challenge_js.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/airport_challenge_js.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/airport_challenge_js.md)

@@ -89,4 +89,4 @@ You'll then build the business logic to model a simple thermostat, and learn to 
 * [Thermostat: saving state](saving_state.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/README.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/README.md)

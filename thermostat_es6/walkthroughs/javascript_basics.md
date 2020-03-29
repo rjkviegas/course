@@ -139,4 +139,4 @@ Once you feel comfortable with JavaScript and using the browser's JavaScript con
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/walkthroughs/javascript_basics.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/es6/walkthroughs/javascript_basics.md)

@@ -208,4 +208,4 @@ And now the CSS can handle colour (don't forget to place this in its own file an
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/walkthroughs/jquery.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/walkthroughs/jquery.md)

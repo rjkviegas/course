@@ -40,4 +40,4 @@ Specification:
 ### [Walkthrough](walkthroughs/thermostat_logic.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/thermostat_logic.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/thermostat_logic.md)

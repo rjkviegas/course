@@ -27,4 +27,4 @@ Add a feature to display the weather in a city selected by the user.
 ### [Walkthrough](walkthroughs/apis.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/apis.md)
+![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/apis.md)
