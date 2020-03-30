@@ -6,7 +6,7 @@ Each team will start a virtual card-wall with some initial tickets to get you st
 
 ### Assessment Criteria
 
-These [assessment criteria](../assessment_criteria.md) will be how we look at your work
+These [assessment criteria](https://github.com/makersacademy/course/blob/master/final_projects/project_criteria.md) will be how we look at your work
 
 ### Your First Steps on the C# pathway
 
