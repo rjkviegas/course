@@ -18,13 +18,9 @@ These [assessment criteria](https://github.com/makersacademy/course/blob/master/
 
 * [Set up instructions](../project_setup.md)
 
-## Repository
+## Seed app
 
 * https://github.com/makersacademy/acebook-node-template
-
-## Demo app
-
-* [Products API](https://github.com/makersacademy/node-engineering-demo-app)
 
 ## Card Wall
 
