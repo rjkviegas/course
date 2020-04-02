@@ -30,26 +30,23 @@ You will know when to put in more effort, when to slow down, change focus, emplo
 
 **This being said, there are a few rules that we ask you to follow while you are on the course, to create the best learning environment:**
 
-* Attend Makers’ premises *full time*, unless agreed otherwise with a coach.
+* Attend the course *full time* (that means being on the premises if onsite, or being connected on slack if remote) unless agreed otherwise with a coach.
 
-* Take part in the projects and assignments of the course, including team projects.
+* Take part in the projects and assignments of the course, including pairing and team projects.
 
 * Work towards the goals of the course as outlined by the coaching team. See the [course level goals here](https://github.com/makersacademy/course/blob/master/goals/course_goals.md).
 
 * Frequently seek feedback on your work in order to achieve a professional standard.
 
-_Please note that not respecting these may void your job offer guarantee. Read more: [Job offer guarantee: Terms & Conditions - Makers Academy](https://makers.tech/job-offer-guarantee-terms/)_
+#### What should I do if something comes up and I an unable to attend for a day/half-day
 
-
-#### What should I do if something comes up and I an unable to come onsite for a day/half-day
-
-* As soon as you know you won't be able to be in, send a message to a coach. ` Hi, I am unable to come in <today/tomorrow/date>, because of <X>.`
+* As soon as you know you won't be able to attend, send a message to a coach. ` Hi, I am unable to come in <today/tomorrow/date>, because of <X>.`
 
 * On the day, send a message on your cohort channel, with a `@` mention to your pair for the day (if pairs have been released).
 
-#### What should I do if something comes up and I an unable to come onsite for more than a day
+#### What should I do if something comes up and I an unable to attend the course for more than a day
 
-* As soon as you know you won't be able to be in, send a message to a coach. We'll have a discussion about the best strategy for you to stay on track with your learning.
+* As soon as you know you won't be able to attend, send a message to a coach. We'll have a discussion about the best strategy for you to stay on track with your learning.
 
 ## What are coaches' responsibilities?
 So what's our job?
@@ -57,9 +54,9 @@ So what's our job?
 * To support you with the above.
 * To provide an environment with the tools and motivation necessary to achieve your goals.
 
-Not everyone will come here knowing how to take control of their own journey — and that's fine. It's our job to give you the prompts and starting-points to train the habits of planning and self-assessment.
+Not everyone will join us knowing how to take control of their own journey — and that's fine. It's our job to give you the prompts and starting-points to train the habits of planning and self-assessment.
 
-And then there's the matter of making the environment here as rich in opportunities to learn as possible. If you're not sure whether your code is readable or not, it should be easy to learn how to determine that, execute it, and then engage productively with the task of improving your code. Moreover, the atmosphere and people around you should inspire you to be better.
+And then there's the matter of making the environment as rich in opportunities to learn as possible. If you're not sure whether your code is readable or not, it should be easy to learn how to determine that, execute it, and then engage productively with the task of improving your code. Moreover, the atmosphere and people around you should inspire you to be better.
 
 ## What is your day like?
 In weeks 1-5:
@@ -67,8 +64,9 @@ In weeks 1-5:
 ### Morning
 * **09.30–12.30: Goal-directed project work.** You'll work independently on projects to achieve goals. You’ll use your [own way of tracking your goals](https://github.com/makersacademy/course/blob/master/goals/self_directed_learning/resources/tracking_your_learning.md) to self-assign projects and assess your progress.
 
-    Coaches will be running workshops, mini projects, 1:1s, or generally available to chat to.
-* **12.30–13.30: Lunch.** Go out in droves to one of Shoreditch's fine local eateries or bring your own lunch in. There is often a lunchtime talk from one of the many CTOs that our hiring team speak to!
+Coaches will be running workshops, mini projects, 1:1s, or will generally be available to chat to.
+
+* **12.30–13.30: Lunch.** We all need to eat to sustain our energy levels. There is often a lunchtime talk from one of the many CTOs that our hiring team speak to!
 
 ### Afternoon
 * **13.30–14.00: Meditation.** Programming is extremely challenging. Meditation helps keep a lid on things, keeps you grounded, and helps keep your brain sharp.
@@ -79,7 +77,7 @@ The team projects follow the same pattern but instead with
 - **09.30-12.30: Group project work.**
 - **14.00-18.00: Group project work.**
 
-Most weekends you'll plan how to achieve your goals within the context of a  weekend challenge that we provide.
+Most weekends you'll plan how to achieve your goals within the context of a weekend challenge that we provide.
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/goals/README.md)
