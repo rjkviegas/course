@@ -1,23 +1,28 @@
 # Your first day at Makers
 
-Day one starts at 09.00 - please be available on slack from 08.50 in case there are any problems with getting set up.
+Day one starts with an informal social at 09.00 - this will also be a good opportunity to make sure you are set-up correctly to join zoom meetings and debug anything that comes up before the actual start.
+
+Look out for a zoom link in your cohort channel on slack at 9am!
 
 ## Schedule for the first day
 
-* 09.00 - 09.15 Welcome to Makers (lead coach)
-* 09.15 - 10.00 Learning at Makers (lead coach)
-* 10.00 - 10.15 Saberr workshop (lead coach)
-* 10.30 - 11.30 Life at Makers/Inclusivity & Diversity (Dana)
-* 11.45 - 12.30 Kick off week 1
-* 13.30 - pairing til close
+| Time | What |
+| --- | --- |
+| 09.00 - 09.30 | Share your Breakfast! This is an informal session to say hi to each other. |
+| 09.30 - 10.45 | Welcome to Makers - Your first real workshop! |
+| 10:45 - 11.00 | **BREAK** |
+| 11.00 - 12.30 | Life at Makers by Dana, our Chief Joy Officer |
+| 12.30 - 1.30 | **LUNCH BREAK** |
+| 1.30 - 2.00 | Meditation |
+| 2.00 - 2.30 | Meet the coaches |
+| 2.30 - 3.00 | **BREAK** |
+| 3.00 - 4.45 | [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md) |
+| 4.45 - 5.00 | Get ready for yoga :) |
+| 5.00 - 6.00 | Yoga with Dana |
 
 ## Code of conduct
 
 Make sure to read the [code of conduct guide](../../code_of_conduct_guide.md).  It's really important that you understand the code of conduct and abide by it.
-
-## Rough weekly schedule
-
-See [here](./example_schedule.md) for the rough weekly schedule.
 
 ## Learning at Makers
 
@@ -26,6 +31,8 @@ See [here](./example_schedule.md) for the rough weekly schedule.
 ### Setting up your laptop
 
 Have a look at [Prepare to Code](http://www.preparetocode.io/).  It has a guide for what software to install to prepare for the Makers course.
+
+Also make sure to sign up and install [Zoom](https://zoom.us/)!
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/remote/day_one.md)
