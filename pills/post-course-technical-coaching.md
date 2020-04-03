@@ -66,9 +66,6 @@ Ideally, most days! You should be aiming to make at least a few commits each wee
 ### How do I know when to focus on coding and when to focus on job-hunting?
 If you're making a lot of applications but not having a great deal of luck, then it's likely that there is an area where you could improve and you should consider making coding and learning your primary focus for a couple of weeks. Talk to a coach if you're unsure - start an ILP or book a Mock Technical Interview to get feedback on how your skills stack up.
 
-### I need to keep applying for jobs to meet the Job Offer Guarantee, I have no time for writing code
-We don't want the JOG to be a barrier. If you think you would benefit from some time spent focussing on development, come talk to us. If in the course of an ILP or as the result of a Mock Interview we think you should spend some time focussing on code, we'll tell you. This won't affect your JOG - we want to give you the best possible chance, and sometimes that means taking time out to level up.
-
 **Ultimately, if you're unsure about anything, please come talk to one of us!**
 
 
