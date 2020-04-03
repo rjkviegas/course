@@ -21,7 +21,7 @@ You should still be asking yourself the question **"Am I better developer than I
 
 ## What resources are available to me?
 
-### Daily standup at 10.30am
+### Daily standup at 10.00 am
 
 **What:** A daily standup style meeting where everybody checks in with what they're working on, what they've done, and gets a chance to raise any concerns. Standup is usually done on line so you can dial in remotely even if you're not in the building.
 
@@ -47,15 +47,12 @@ There are also recent and returning grads available for pairing work on occasion
 
 **Who:** Anybody still to find a job; recommended for grads who have been job-hunting for more than a month.
 
-## How do I access these resources?
-
-We don't have a particularly slick booking system - just contact Becks, Mark or Daniel. Either come talk to us if we're around the 3rd floor or mezzanine or if not send us a Slack message. We'll get back to you and try and arrange a time.
 
 ## How does this affect my chances of finding work?
 
 Coding more and committing to a regular working day following the course can only positively impact your ability to find work.
 
-When shortlisting for jobs, there careers team are trying to balance a number of factors, but ultimately the hiring partners want to see the strongest applicants. Those applicants are assess on a number of factors, explained in more detail in our [shortlisting pill](https://github.com/makersacademy/jobhunters/blob/master/careers/shortlisting.md).
+When shortlisting for jobs, there partnerships team are trying to balance a number of factors, but ultimately the hiring partners want to see the strongest applicants. Those applicants are assess on a number of factors, explained in more detail in our [shortlisting pill](https://github.com/makersacademy/jobhunters/blob/master/careers/shortlisting.md).
 
 In particular "How frequently are they committing code on github?", "Do they have a side project?" and "Is there proof that they have acted on technical feedback from previous applications?" are all things that you can demonstrate by maintaining a structure routine of development work after your graduate.
 
