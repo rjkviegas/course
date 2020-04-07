@@ -19,8 +19,6 @@ Instead, you can talk about the main part of the project and maybe how informati
 
 * There's no need to talk about the future direction of the project.  Focus your presentation on what you've already achieved.
 
-* Please create your presentation in Keynote so we can use it on Friday.
-
 ### Important instructions: [Remote](../sequence/remote/demo_day_presentations.md) | [Onsite](../sequence/onsite/demo_day_presentations.md)
 
 
