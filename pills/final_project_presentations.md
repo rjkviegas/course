@@ -2,7 +2,7 @@
 
 Here are some guidelines for your final project presentations:
 
-* The time limit is usually 5 minutes (this depends on the number of projects, your coach will advise if the time limit is different).  Practice, practice, practice to ensure you come in under the time limit.  You'll be cut off at 5 minutes!
+* The time limit is usually 5 minutes (this depends on the number of projects, your coach will advise if the time limit is different).  Practice, practice, practice to ensure you come in under the time limit.  You'll be prompted to wind up your presentations after 5 minutes!
 
 * To guide you on what to include, think about what you found interesting about other people’s presentations.
 
