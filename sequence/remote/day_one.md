@@ -28,6 +28,10 @@ Make sure to read the [code of conduct guide](../../code_of_conduct_guide.md).  
 
 [A summary](https://github.com/makersacademy/course/blob/master/pills/learning_at_makers.md).
 
+[Working from home](https://github.com/makersacademy/course/blob/master/pills/working-from-home.md).
+
+[Pairing](https://github.com/makersacademy/course/blob/master/pills/remote-pairing.md).
+
 ### Setting up your laptop
 
 Have a look at [Prepare to Code](http://www.preparetocode.io/).  It has a guide for what software to install to prepare for the Makers course.
