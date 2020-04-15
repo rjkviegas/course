@@ -80,7 +80,7 @@ Start attending [process workshops](https://github.com/makersacademy/skills-work
 
 ### Skills workshops
 
-* [Code Review Recipe](https://github.com/makersacademy/course/blob/master/goals/recipes/code_review_1.md)
+* [Code Review](https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review)
 * [Domain modelling](https://github.com/makersacademy/skills-workshops/tree/master/week-2/domain_model_diagramming)
 * [OOP 3: Delegate, Delegate, Delegate](https://github.com/makersacademy/skills-workshops/tree/master/week-2/oop_3)
 * [Making code simpler through polymorphism](https://github.com/makersacademy/skills-workshops/tree/master/week-2/making_code_simpler_through_polymorphism)
