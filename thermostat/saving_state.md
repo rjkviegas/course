@@ -9,11 +9,11 @@ There is an issue with your thermometer interface!  If you close your browser an
 * Save the selected city information using the API too.
 
 ## Resources
-See the video overview of Ajax for how to talk to a remote API with jQuery: https://www.youtube.com/watch?v=QDsrErWpizI
+
+There is an example of how to approach this challenge [here](https://github.com/soph-g/thermostat-exemplar). Read the README carefully before looking through the code, there are several branches showing different solution options.
 
 ## Walkthrough
 
 You'll be able to use a lot of the same techniques as the ones you used in week 4. Consider having a look at those walkthroughs if you get stuck.
-
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat/saving_state.md)
