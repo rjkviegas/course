@@ -144,6 +144,7 @@ Please **do not** proceed on to the next core exercise until you have validated 
 
 | Core Skill                 | Core Exercise                                  |                       
 | ----------------------------- | ---------------------------------------------- | 
+| Code Review                   | [Code Review][code_review]                     |
 | Debugging                     | [Debugging Practical][debugging_practical]     |                     
 |                               | [Debug Fizzbuzz][debug_fizzbuzz]               |     
 |                               | [Debugging 1][debugging_1]                     |                        |                               |                                                |
@@ -163,6 +164,7 @@ and any exercise from Week 3.
 |             | Isolate Simple Checkout Tests        |                                           |
 |                               |      [Learn by building: RSpec][build_rspec]             | 
 
+[code_review]: https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review
 [encapsulation]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
 [testing_relationships_objects]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/testing_relationships.md
 [forwarding_polymorphism]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md
