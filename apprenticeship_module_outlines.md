@@ -7,6 +7,19 @@ By the end of modules 1 & 2 all developers can:
 * Navigate a unix command line
 * Version control projects
 * Write a procedural program
+* Use a process for solving a problem
+
+### Challenges
+
+* [Build a website](https://github.com/makersacademy/build-a-website)
+* [Git collaboration](https://github.com/makersacademy/skills-workshops/blob/master/practicals/git_collaboration.md)
+* [The Command Line Mystery](https://github.com/makersacademy/clmystery)
+* [Mastery Quizzes](https://mastery-curriculum.makers.tech/)
+* [Student Directory](https://github.com/makersacademy/student-directory)
+* [_The_ Katathon](https://docs.google.com/document/d/1N-kf_HtZJgNs1iPahwa1VkSvDyU8shiyEpku_k0VLqQ/edit)
+* [TDD FizzBuzz Kata](https://github.com/makersacademy/course/blob/master/fizzbuzz/fizzbuzz.md)
+* [End of Module Challenge: Part 1](https://github.com/makersacademy/wednesday-challenge)
+
 
 ### Skills Breakdown
 
@@ -45,14 +58,22 @@ By the end of modules 1 & 2 all developers can:
 
 ## Week 3: Test-Driven Development
 
+### Goals
+
 By the end of the module all developers can:
 
-* Take a user story, write a test case, and write code to pass a test
-* Understand syntax for a class (instance variables, initialize method, other methods)
+* Gather evidence and use reflection to choose goals and track their progress
 * Test-drive a simple program using objects and methods
 * Pair using the driver-navigator style
 * Follow an effective debugging process
-* Use evidence and reflection to assess their own progress towards a goal
+
+#### The broader course goals relevant to this module are...
+
+* I test-drive my code
+* I use a methodical approach to solving problems
+* I use my own initiative
+
+Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeships_starting_pack/course_goals.md).
 
 ### Exercises for self-directed learning
 
