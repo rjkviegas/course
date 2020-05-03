@@ -132,53 +132,39 @@ The intention is that you should work through the core exercises in order, from 
 ## Week 4: Object-Oriented Design
 
 By the end of the module all developers can:
-
-* Given a user story, write a test and code to pass this test
-* Break one class into two classes that work together, while maintaining test coverage
-* Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+* Review another person's code and learn from what they read
 * Review another person's code and give them meaningful feedback
+* Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+* Break one class into two classes that work together, while maintaining test coverage
 
 Stretch:
 * Test classes in isolation using mocking and dependency injection
+* Apply some basic OOP principles in tightly focussed exercises
 
 ### Exercises for self-directed learning
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
-The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel you need more practice on.
-
-Please **do not** proceed on to the next core exercise until you have validated the previous one by seeking feedback from a coach or another member of the cohort.
+The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel the need to practice.
 
 
-| Core Skill                 | Core Exercise                                  |                       
-| ----------------------------- | ---------------------------------------------- | 
-| Code Review                   | [Code Review][code_review]                     |
-| Debugging                     | [Debugging Practical][debugging_practical]     |                     
-|                               | [Debug Fizzbuzz][debug_fizzbuzz]               |     
-|                               | [Debugging 1][debugging_1]                     |                        |                               |                                                |
-| Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             |                        |                               |  [Test Drive a Notes App][tdd_notes_app]       |                                          
+| Core Skill                         | Core Exercise                                            |                       
+| ---------------------------------- | -------------------------------------------------------- | 
+| Code Review                        | [Learn from someone else's code][code_review]            |
+| OOP 1: Encapsulation               | [Achieve high cohesion and low coupling][encapsulation]  |
+| OOP 2: Forwarding and polymorphism | [Refactor some code using forwarding and polymorphism](forwarding_using_oo) |
+| OOP 3: Refactoring                 | [Extract some variables, methods and classes](refactoring_using_oo)       |
 
-and any exercise from Week 3.
+| Stretch Skill                    | Core Exercise                                         |
+| -------------------------------- | ----------------------------------------------------- | 
+| OOP 4: Dependency injection      | [Stop hard coding dependencies](dependeny_injection) |
 
-| Stretch Skill                        | Core Exercise                                          |                                                      
-| -------------------------------- | ------------------------------------------------------ | 
-| OOP Principals                       | [Encapsulation][encapsulation]                         |  
-|                                  | [Testing Relationships Between Objects][testing_relationships_objects]  |   
-|                                  | [Forwarding and Polymorphism][forwarding_polymorphism] |                 
-|                                  | [Inheritance and Composition][inheritance_composition] |  
-| Refactoring | [Refactoring using OO][refactoring_using_oo]           | 
-|             | [Class Extraction][class_extraction]                                   |
-| Isolating Unit Tests             | [Dependency Injection Practical][di_practical]         |                                          
-|             | Isolate Simple Checkout Tests        |                                           |
-|                               |      [Learn by building: RSpec][build_rspec]             | 
 
 [code_review]: https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review
 [encapsulation]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
-[testing_relationships_objects]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/testing_relationships.md
 [forwarding_polymorphism]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md
-[inheritance_composition]: https://github.com/makersacademy/skills-workshops/tree/master/week-2/inheritance
 [refactoring_using_oo]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/refactoring.md
-[class_extraction]: https://github.com/makersacademy/skills-workshops/tree/master/week-2/extracting_a_class
+[dependency_injection]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md
 
 If you would prefer to work on a single, larger project, take a look at the [Gilded Rose Design Project](https://github.com/makersacademy/gilded_rose_design_project). This is more involved and a wider scope than the more targeted exercises listed above, and is likely to take up most of your mornings this week.
 
@@ -186,9 +172,10 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 
 [Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
 
-### Individual challenge
+### Individual challenge options
 
-[Office management](https://github.com/makersacademy/office-management-challenge)
+[Apply your new knowledge to the Airport challenge](https://github.com/makersacademy/airport_challenge)<br>
+[Do the office management challenge](https://github.com/makersacademy/office-management-challenge)
 
 
 ## Week 5: The Web
