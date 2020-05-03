@@ -58,7 +58,7 @@ By the end of modules 1 & 2 all developers can:
 
 ## Week 3: Test-Driven Development
 
-### Goals
+### This module's goals
 
 By the end of the module all developers can:
 
@@ -131,6 +131,19 @@ The intention is that you should work through the core exercises in order, from 
 
 ## Week 4: Object-Oriented Design
 
+This week you're introduced to Object-Oriented Design (OOD).  OOD is one approach to organising your code into pieces that are easier to read, reason about, reuse and change.  As software engineers, we care deeply about these things because, when you're working in an engineering team, the one thing you can be certain about is that _your code base will change_.
+
+### Reflect on TDD
+
+The skills and concepts dealt with this week build on the things you learned last week, so take a moment to reflect on Test Driven Development. Maybe start by asking yourself "What did I learn about my progress from doing the Airport challenge?".
+
+* Can you test-drive a class with instance variables and methods?
+* Can you test-drive two classes that work together?
+
+If you need to spend more time working on these things, now is the time!
+
+### This module's goals
+
 By the end of the module all developers can:
 * Review another person's code and learn from what they read
 * Review another person's code and give them meaningful feedback
@@ -140,6 +153,12 @@ By the end of the module all developers can:
 Stretch:
 * Test classes in isolation using mocking and dependency injection
 * Apply some basic OOP principles in tightly focussed exercises
+
+#### The broader course goals relevant to this module are...
+
+* I can write standards-compliant, clean object-oriented code
+* I test-drive my code
+* I can design a system
 
 ### Exercises for self-directed learning
 
@@ -157,7 +176,7 @@ The intention is that you should work through the core exercises in order, from 
 
 | Stretch Skill                    | Core Exercise                                         |
 | -------------------------------- | ----------------------------------------------------- | 
-| OOP 4: Dependency injection      | [Stop hard coding dependencies](dependeny_injection) |
+| OOP 4: Dependency injection      | [Inject some dependencies!](dependeny_injection) |
 
 
 [code_review]: https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review
