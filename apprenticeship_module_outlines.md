@@ -160,6 +160,8 @@ Stretch:
 * I test-drive my code
 * I can design a system
 
+And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md)
+
 ### Exercises for self-directed learning
 
 These exercises can be used for independent study, or enhanced by group discussion.
