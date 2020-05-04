@@ -160,7 +160,7 @@ Stretch:
 * I test-drive my code
 * I can design a system
 
-And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md)
+And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
 
 ### Exercises for self-directed learning
 
@@ -173,12 +173,12 @@ The intention is that you should work through the core exercises in order, from 
 | ---------------------------------- | -------------------------------------------------------- | 
 | Code Review                        | [Learn from someone else's code][code_review]            |
 | OOP 1: Encapsulation               | [Achieve high cohesion and low coupling][encapsulation]  |
-| OOP 2: Forwarding and polymorphism | [Refactor some code using forwarding and polymorphism](forwarding_using_oo) |
-| OOP 3: Refactoring                 | [Extract some variables, methods and classes](refactoring_using_oo)       |
+| OOP 2: Forwarding and polymorphism | [Refactor some code using forwarding and polymorphism][forwarding_polymorphism] |
+| OOP 3: Refactoring                 | [Extract some variables, methods and classes][refactoring_using_oo]       |
 
 | Stretch Skill                    | Core Exercise                                         |
 | -------------------------------- | ----------------------------------------------------- | 
-| OOP 4: Dependency injection      | [Inject some dependencies!](dependeny_injection) |
+| OOP 4: Dependency injection      | [Inject some dependencies!][dependeny_injection] |
 
 
 [code_review]: https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review
