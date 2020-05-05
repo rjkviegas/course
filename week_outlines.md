@@ -165,7 +165,7 @@ By the end of the week all developers can:
 
 ### Challenges
 
-* [Afternoons - Thermostat](https://github.com/makersacademy/course/blob/master/thermostat/README.md)
+* [Afternoons - Thermostat](https://github.com/makersacademy/course/blob/master/thermostat_es6/README.md)
 * [Weekend - Bowling](https://github.com/makersacademy/bowling-challenge)
 
 ### Practicals
