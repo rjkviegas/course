@@ -9,7 +9,9 @@ There is an issue with your thermometer interface!  If you close your browser an
 * Save the selected city information using the API too.
 
 ## Resources
-See the video overview of Ajax for how to talk to a remote API with jQuery: https://www.youtube.com/watch?v=QDsrErWpizI
+
+There is an example of how to approach this challenge [here](https://github.com/makersacademy/thermostat-example). **Read the README carefully** before looking through the code, there are several branches showing different solution options.
+
 
 ## Walkthrough
 
