@@ -77,7 +77,16 @@ end
 
 car = Car.new
 ```
-In JavaScript, we see this:
+In JavaScript ES6, which introduced the `class` keyword we see:
+```javascript
+class Car {
+
+}
+
+var car = new Car();
+```
+
+But in JavaScript ES5, this would be:
 ```javascript
 function Car() {
 
@@ -86,7 +95,7 @@ function Car() {
 var car = new Car();
 ```
 
-Which looks very similar.  It's easy to think of `Car` as a class in JavaScript.  But it's not; _it's just a function_.  **There are no classes in JavaScript**, but we do use functions as a convenient way to instantiate objects that share behaviour.
+Which looks very similar. But it's not; _it's just a function_.  **There were no classes in JavaScript prior to ES6**, but we use functions as a convenient way to instantiate objects that share behaviour.
 
 The important thing to notice is _how the function is invoked_.  It is invoked using JavaScript's `new` keyword and that makes it behave in a very specific way.
 
@@ -102,8 +111,20 @@ class Dog
 end
 ```
 
-In JavaScript, _there are no classes_, only objects.  To initialize an object created with the `new` keyword, we add code to the function:
+In JavaScript, to initialize an object use the `new` keyword, we add code to the function:
 
+ES6 syntax:
+```javascript
+class Dog {
+  constructor(name) {
+    this.name = name;
+  }
+}
+
+var barney = new Dog('Barney');
+```
+
+ES5 syntax:
 ```javascript
 function Dog(name) {
   this.name = name;
@@ -150,7 +171,8 @@ def bark(name)
   "#{name} says Woof!"
 end
 ```
-In JavaScript we see this:
+
+In Javascript ES5 we would see this:
 ```javascript
 function Dog(name) {
   this.name = name
@@ -166,6 +188,7 @@ We can then call the `bark` 'method' on any instance of `Dog`:
 fido = new Dog('fido');
 fido.bark();
 ```
+
 It's easy to think of `bark` as being a method of `Dog`.  But it isn't.  Objects in JavaScript are just bags of properties.  So `fido` is just a bag of properties, some of which it inherits from the prototype of `Dog`.  And `bark` is just a property that happens to contain a Function object.  It behaves like a method _because of the way it is invoked_:
 ```javascript
 fido.bark();

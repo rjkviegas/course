@@ -176,25 +176,27 @@ Function has multiple uses in Javascript - and since we are Rubyists first and f
 
 #### Ruby 'class' creation of object factories becomes:
 ```javascript
-var Classname = function () {};
+class Classname {};
 ```
-_Some debate exists on the best way to declare function this way, but this is the best practice according to [John Resig ...](http://ejohn.org/blog/javascript-as-a-first-language/)_  Note also that JavaScript does not have 'classes' in the same way as Ruby, however for the moment you can think of the functions as being able to act as 'object factories' in the same way that classes are 'object factories' in Ruby.
 
 #### Ruby 'do ... end' blocks becomes:
 ```javascript
-methodName(function() {
+function methodName() {
 // codeblock goes here
-});
+};
 ```
+There are many use-cases for the keyword `function` in Javascript. If you would like more background reading, now would be an excellent time to peruse the [js_functions pill](https://github.com/makersacademy/course/blob/master/pills/js_functions.md) in the Makers Course repository.
 
 #### Ruby 'def' definition of methods becomes:
 ```javascript
-Classname.prototype.methodName(function() {
-// codeblock goes here
-});
+class Classname {
+  methodName() {
+  // codeblock goes here
+  };
+};
 ```
 
-When you consider that, is it any wonder that Javascript code seems littered with the word 'function'? If you would like more background reading, now would be an excellent time to peruse the [js_functions pill](https://github.com/makersacademy/course/blob/master/pills/js_functions.md) in the Makers Course repository.
+
 
 ### Back to Javabuzz
 
@@ -323,7 +325,7 @@ ReferenceError: Javabuzz is not defined
 This is Jasmine's very dramatic way of saying that it doesn't know what we mean when we refer to `Javabuzz();` on line 8(ish) of our spec file. Well you and I both know we meant the Javabuzz class, so let's head on over to **src/Javabuzz.js** and create the class now:
 
 ```javascript
-var Javabuzz = function(){};
+class Javabuzz {}
 ```
 
 Sweet, error message has been changed!
@@ -333,11 +335,17 @@ ReferenceError: isDivisibleByThree is not defined
 ```
 ### The Ties That Bind
 
-Now we need to define the `isDivisibleByThree` method. Fun times. In Ruby, if we wanted a method to be bound to a class we would simply declare that method inside the class.
+Now we need to define the `isDivisibleByThree` method. Fun times.
 
-However, Javascript does it differently (spotting a pattern here?) This is where `prototype` comes in!
+```javascript
+class Javabuzz {
+  isDivisibleByThree(number) {
+    return true;
+  }
+}
+```
 
-#### Prototype
+<!-- #### Prototype
 
 If you are using Sublime Text, you should have a lazy little shortcut built in to the editor. Type `proto`, hit 'tab' and the following code should be generated for you:
 
@@ -357,7 +365,7 @@ var Javabuzz = function () {};
 Javabuzz.prototype.isDivisibleByThree = function(number) {
   return true;
 };
-```
+``` -->
 
 (I have hardcoded `return true` in the method for the sake of speeding this along, hopefully that makes sense.)
 
@@ -393,9 +401,11 @@ describe('knows when a number is NOT', function() {
 This second test should be upsetting the balance of your greenery, and rightly so. Shame on you for hardcoding a value just to pass a test (just kidding!) However, we do need to fix that pronto. To our **Javabuzz.js** file!
 
 ```javascript
-Javabuzz.prototype.isDivisibleByThree = function(number) {
-  return (number % 3 === 0);
-};
+class Javabuzz {
+  isDivisibleByThree(number) {
+    return (number % 3 === 0);
+  }
+}
 ```
 
 And with that, all your tests should be passing. Glorious, isn't it? This shouldn't be too surprising given your black belt in the Ruby version of Fizzbuzz, but I will take a moment to point out a couple of things here. Firstly, the parenthesis around our logic isn't strictly necessary. But it does make the statement look neater, so I'm keeping it in.
@@ -417,9 +427,11 @@ Now you can get rid of each line containing `javabuzz = new Javabuzz();`. Joy un
 Since we're in a refactory kind of mood, let's see if we can make our code more elegant. The following should make sense given our previous Rubybuzz pedigree:
 
 ```javascript
-Javabuzz.prototype._isDivisibleBy = function(number, divisor) {
-  return (number % divisor === 0);
-};
+class Javabuzz {
+  _isDivisibleBy(number, divisor) {
+    return (number % divisor === 0);
+  }
+}
 ```
 
 #### Private Dancer
@@ -429,9 +441,12 @@ Notice that I have added an underscore to my method name? This is how we communi
 Now let's implement it (in one method first, to make sure everything is hunky dory:
 
 ```javascript
-Javabuzz.prototype.isDivisibleByFifteen = function(number) {
-  return _isDivisibleBy(number, 15);
-};
+class Javabuzz {
+  ...
+  isDivisibleByFifteen(number) {
+    return _isDivisibleBy(number, 15);
+  }
+}
 ```
 
 Oh no! Our tests fail! Does anyone know why? BECAUSE WE ARE NOT BEING SPECIFIC ENOUGH!!! Javascript really does need you to go the extra mile. I know, I know - but it is worth it.
@@ -441,9 +456,12 @@ Oh no! Our tests fail! Does anyone know why? BECAUSE WE ARE NOT BEING SPECIFIC E
 We need to tell Javascript that `_isDivisibleBy();` belongs to the Javabuzz class. Now, since we are inside a method definition that is already bound to that class, all we have to do is add `this.` to the beginning of our method, and all our problems go away:
 
 ```javascript
-Javabuzz.prototype.isDivisibleByFifteen = function(number) {
-  return this._isDivisibleBy(number, 15);
-};
+class Javabuzz {
+  ...
+  isDivisibleByFifteen(number) {
+    return this._isDivisibleBy(number, 15);
+  }
+}
 ```
 
 Let's adjust the rest of our methods accordingly, and move on. Now, we have all of the numerical operations we could need to play Javabuzz, so now let's create our game method. First, as always, a wee test:
@@ -461,11 +479,14 @@ describe('when playing, says', function() {
 Dang, we're back in the red. How do we fix it? Oh yeah, you know what time it is - PROTO TIME!
 
 ```javascript
-Javabuzz.prototype.says = function(number) {
-  if (this.isDivisibleByThree(number)) {
-    return "Java";
+class Javabuzz {
+  ...
+  says(number) {
+    if (this.isDivisibleByThree(number)) {
+      return "Java";
+    }
   }
-};
+}
 ```
 
 There shouldn't be too many surprises here at this point. Things to note:
@@ -477,18 +498,21 @@ Now this works like a charm for me, so I'm going to write the rest of my tests, 
 Almost there - all we need to do now, is a straight conversion of what worked for us in Ruby. We can repeat the `if` statements, as long as we remember to lead with the `isDivisibleByFifteen` method - and not forgetting to `return number` if all else fails:
 
 ```javascript
-Javabuzz.prototype.says = function(number) {
-  if (this.isDivisibleByFifteen(number)) {
-    return "Javabuzz";
+class Javabuzz {
+  ...
+  says(number) {
+    if (this.isDivisibleByFifteen(number)) {
+      return "Javabuzz";
+    }
+    if (this.isDivisibleByThree(number)) {
+      return "Java";
+    }
+    if (this.isDivisibleByFive(number)) {
+       return "Buzz";
+    }
+    return number;
   }
-  if (this.isDivisibleByThree(number)) {
-    return "Java";
-  }
-  if (this.isDivisibleByFive(number)) {
-     return "Buzz";
-  }
-  return number;
-};
+}
 ```
 
 Wheee! All our tests pass. Rejoice! No, seriously, go celebrate. Do something nice for yourself. If you want to test your game, go to your browser, and in the same window where your SpecRunner.html is loaded up, open your console (Google Chrome shortcut is cmd + option + i) and at the prompt intitialise an instance of Javabuzz(); as you did in your spec file:

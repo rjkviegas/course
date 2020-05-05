@@ -11,9 +11,11 @@ The `weather.isStormy()` function uses a random number generator to decide wheth
 ```js
 // weather.js (an excerpt of the full file)
 
-Weather.prototype.isStormy = function() {
-  return Math.random() < 0.5;
-};
+class Weather {
+  isStormy() {
+    return Math.random() < 0.5;
+  }
+}
 
 // plane.js code not shown
 
@@ -49,11 +51,11 @@ When the `land()` function is called on `airport`, one of the things it does is 
 // airport-tests.js
 
 function testCanLandPlaneIfWeatherIsNotStormy() {
-  function PlaneDouble() {};
-
-  PlaneDouble.prototype = {
-    land: function() {}
-  };
+  class PlaneDouble() {
+    land() {
+      // ...
+    }
+  }
 
   var weather = new Weather();
 
@@ -76,15 +78,15 @@ It's good that the previous version of the test isolates itself from the details
 // airport-tests.js
 
 function testCanLandPlaneIfWeatherIsNotStormy() {
-  function PlaneDouble() {
-    this.landCallCount = 0;
-  };
+  class PlaneDouble {
+    constructor(){
+      this.landCallCount = 0;
+    }
 
-  PlaneDouble.prototype = {
-    land: function() {
+    land(){
       this.landCallCount++;
     }
-  };
+  }
 
   var weather = new Weather();
 
