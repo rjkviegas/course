@@ -179,18 +179,14 @@ Function has multiple uses in Javascript - and since we are Rubyists first and f
 class Classname {}
 ```
 
-Before the `class` syntax was introduced in ES6:
-```javascript
-var Classname = function () {};
-```
-_Some debate exists on the best way to declare function this way, but this is the best practice according to [John Resig ...](http://ejohn.org/blog/javascript-as-a-first-language/)_
-
 #### Ruby 'do ... end' blocks becomes:
 ```javascript
 methodName(function() {
   // codeblock goes here
 });
 ```
+There are many use-cases for the keyword `function` in Javascript. If you would like more background reading, now would be an excellent time to peruse the [js_functions pill](https://github.com/makersacademy/course/blob/master/pills/js_functions.md) in the Makers Course repository.
+
 
 #### Ruby 'def' definition of methods becomes:
 ```javascript
@@ -201,14 +197,8 @@ class Classname {
 }
 ```
 
-In ES5, this would look like:
-```javascript
-Classname.prototype.methodName(function() {
-  // codeblock goes here
-});
-```
 
-There are many use-cases for the keyword `function` in Javascript. If you would like more background reading, now would be an excellent time to peruse the [js_functions pill](https://github.com/makersacademy/course/blob/master/pills/js_functions.md) in the Makers Course repository.
+
 
 
 ### Back to Javabuzz
@@ -298,7 +288,7 @@ Note that when we refer to `Javabuzz` when we are instantiating our version of t
 javabuzz = new Javabuzz();
 ```
 
-This is non-negotiable and Javascript WILL be pedantic about it, so please for the sake of all that is good and holy, whenever referring to a class or method, put the bloody `();` after the name, or we'll never hear the end of it. (The most notable exception for this rule is when we are declaring a class method using the `prototype` syntax)
+This is non-negotiable and Javascript WILL be pedantic about it, so please for the sake of all that is good and holy, whenever referring to a class or method, put the bloody `();` after the name, or we'll never hear the end of it.
 
 So close! All we need now is an expectation within our `it` block and we are an unstoppable testing machine:
 

@@ -111,7 +111,7 @@ class Dog
 end
 ```
 
-In JavaScript, to initialize an object use the `new` keyword, we add code to the function:
+In JavaScript, to initialize an object use the `new` keyword.
 
 ES6 syntax:
 ```javascript
