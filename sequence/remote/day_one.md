@@ -8,7 +8,7 @@ Look out for a zoom link in your cohort channel on slack at 9am!
 
 | Time | What |
 | --- | --- |
-| 09.00 - 09.30 | Share your Breakfast! This is an informal session to say hi to each other. |
+| 09.00 - 09.30 | Coffee social! This is an informal session to say hi to each other. |
 | 09.30 - 10.45 | Welcome to Makers - Your first real workshop! |
 | 10:45 - 11.00 | **BREAK** |
 | 11.00 - 12.30 | Life at Makers by Dana, our Chief Joy Officer |
