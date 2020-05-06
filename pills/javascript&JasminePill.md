@@ -297,7 +297,7 @@ Note that when we refer to `Javabuzz` when we are instantiating our version of t
 javabuzz = new Javabuzz();
 ```
 
-This is non-negotiable and Javascript WILL be pedantic about it, so please for the sake of all that is good and holy, whenever referring to a class or method, put the bloody `();` after the name, or we'll never hear the end of it. (The most notable exception for this rule is when we are declaring a class method using the `prototype` syntax - which we'll cover shortly.
+This is non-negotiable and Javascript WILL be pedantic about it, so please for the sake of all that is good and holy, whenever referring to a class or method, put the bloody `();` after the name, or we'll never hear the end of it. (The most notable exception for this rule is when we are declaring a class method using the `prototype` syntax)
 
 So close! All we need now is an expectation within our `it` block and we are an unstoppable testing machine:
 
@@ -356,28 +356,6 @@ class Javabuzz {
   }
 }
 ```
-
-<!-- #### Prototype
-
-If you are using Sublime Text, you should have a lazy little shortcut built in to the editor. Type `proto`, hit 'tab' and the following code should be generated for you:
-
-```javascript
-class_name.prototype.method_name = function(first_argument) {
-  // body...
-};
-```
-
-Whilst I would encourage you to learn this syntax and **not** rely on editor shortcuts, this does give us a nice little model for creating a class method in Javascript.
-
-So we want to swap out `class_name` for the class we want to bind the method to, `method_name` becomes the name of the method and `first_argument` is pretty self-explanatory :p So we should end up with this:
-
-```javascript
-var Javabuzz = function () {};
-
-Javabuzz.prototype.isDivisibleByThree = function(number) {
-  return true;
-};
-``` -->
 
 (I have hardcoded `return true` in the method for the sake of speeding this along, hopefully that makes sense.)
 
@@ -488,7 +466,7 @@ describe('when playing, says', function() {
 });
 ```
 
-Dang, we're back in the red. How do we fix it? Oh yeah, you know what time it is - PROTO TIME!
+Dang, we're back in the red. How do we fix it? Oh yeah, we need to add a new method to our Javabuzz class.
 
 ```javascript
 class Javabuzz {
