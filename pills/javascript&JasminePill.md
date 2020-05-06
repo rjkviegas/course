@@ -178,6 +178,7 @@ Function has multiple uses in Javascript - and since we are Rubyists first and f
 ```javascript
 class Classname {}
 ```
+An intro to the class syntax can be found in the [js_classes pill](https://github.com/makersacademy/course/blob/master/pills/js_classes.md) in the Makers Course repository.
 
 #### Ruby 'do ... end' blocks becomes:
 ```javascript
