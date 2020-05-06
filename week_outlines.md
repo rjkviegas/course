@@ -69,6 +69,8 @@ You may notice you are completing the work quicker and with more ease than your 
 
 Start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
 
+Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining what Reviews are and how to use this valuable resource - and then consider booking one! 
+
 ### Challenges
 
 * [Afternoons - Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
