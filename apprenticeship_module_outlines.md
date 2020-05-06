@@ -178,7 +178,7 @@ The intention is that you should work through the core exercises in order, from 
 
 | Stretch Skill                    | Core Exercise                                         |
 | -------------------------------- | ----------------------------------------------------- | 
-| OOP 4: Dependency injection      | [Inject some dependencies!][dependeny_injection] |
+| OOP 4: Dependency injection      | [Inject some dependencies!][dependency_injection] |
 
 
 [code_review]: https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review
