@@ -86,7 +86,7 @@ class Car {
 var car = new Car();
 ```
 
-But in JavaScript ES5, this would be:
+But before JavaScript ES6, this would be:
 ```javascript
 function Car() {
 

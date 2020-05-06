@@ -179,7 +179,7 @@ Function has multiple uses in Javascript - and since we are Rubyists first and f
 class Classname {}
 ```
 
-In JS ES5, before the `class` syntax was introduced:
+Before the `class` syntax was introduced in ES6:
 ```javascript
 var Classname = function () {};
 ```
@@ -191,7 +191,6 @@ methodName(function() {
   // codeblock goes here
 });
 ```
-There are many use-cases for the keyword `function` in Javascript. If you would like more background reading, now would be an excellent time to peruse the [js_functions pill](https://github.com/makersacademy/course/blob/master/pills/js_functions.md) in the Makers Course repository.
 
 #### Ruby 'def' definition of methods becomes:
 ```javascript
@@ -208,6 +207,8 @@ Classname.prototype.methodName(function() {
   // codeblock goes here
 });
 ```
+
+There are many use-cases for the keyword `function` in Javascript. If you would like more background reading, now would be an excellent time to peruse the [js_functions pill](https://github.com/makersacademy/course/blob/master/pills/js_functions.md) in the Makers Course repository.
 
 
 ### Back to Javabuzz
@@ -418,6 +419,7 @@ Since we're in a refactory kind of mood, let's see if we can make our code more 
 
 ```javascript
 class Javabuzz {
+  ...
   _isDivisibleBy(number, divisor) {
     return (number % divisor === 0);
   }
