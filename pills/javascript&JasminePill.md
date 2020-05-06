@@ -174,16 +174,22 @@ If you can drill this and make it habit when you're typing your code, you will h
 
 Function has multiple uses in Javascript - and since we are Rubyists first and foremost, let's consider that this one keyword can be used to create versions of all the following in Ruby:
 
-#### Ruby 'class' creation of object factories becomes:
+#### Ruby class creation of object factories becomes:
 ```javascript
-class Classname {};
+class Classname {}
 ```
+
+In JS ES5, before the `class` syntax was introduced:
+```javascript
+var Classname = function () {};
+```
+_Some debate exists on the best way to declare function this way, but this is the best practice according to [John Resig ...](http://ejohn.org/blog/javascript-as-a-first-language/)_
 
 #### Ruby 'do ... end' blocks becomes:
 ```javascript
-function methodName() {
-// codeblock goes here
-};
+methodName(function() {
+  // codeblock goes here
+});
 ```
 There are many use-cases for the keyword `function` in Javascript. If you would like more background reading, now would be an excellent time to peruse the [js_functions pill](https://github.com/makersacademy/course/blob/master/pills/js_functions.md) in the Makers Course repository.
 
@@ -192,10 +198,16 @@ There are many use-cases for the keyword `function` in Javascript. If you would 
 class Classname {
   methodName() {
   // codeblock goes here
-  };
-};
+  }
+}
 ```
 
+In ES5, this would look like:
+```javascript
+Classname.prototype.methodName(function() {
+  // codeblock goes here
+});
+```
 
 
 ### Back to Javabuzz
