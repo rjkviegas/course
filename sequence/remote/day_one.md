@@ -17,7 +17,8 @@ Look out for a zoom link in your cohort channel on slack at 9am!
 | 2.00 - 2.30 | Meet the coaches |
 | 2.30 - 3.00 | **BREAK** |
 | 3.00 - 4.45 | [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md) |
-| 5.00 - 6.00 | Social time |
+| 4.45 - 5.00 | **BREAK** |
+| 5.00 - 5.30 | Social time |
 
 ## Code of conduct
 
