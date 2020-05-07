@@ -1,6 +1,6 @@
 # Your first day at Makers
 
-Day one starts with an informal social at 09.00 - this will also be a good opportunity to make sure you are set-up correctly to join zoom meetings and debug anything that comes up before the actual start.
+Day one starts with an informal social at 09.00 - this will also be a good opportunity to make sure you are set-up correctly to join zoom meetings and debug anything that comes up before the actual start. Grab a coffee, bring your breakfast, and say hi!
 
 Look out for a zoom link in your cohort channel on slack at 9am!
 
@@ -17,7 +17,7 @@ Look out for a zoom link in your cohort channel on slack at 9am!
 | 2.00 - 2.30 | Meet the coaches |
 | 2.30 - 3.00 | **BREAK** |
 | 3.00 - 4.45 | [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md) |
-| 5.00 - 6.00 | Social time (meet the other cohorts)|
+| 5.00 - 6.00 | Social time |
 
 ## Code of conduct
 
