@@ -18,8 +18,6 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 * **Can you learn a new language and its patterns?**
 
-## Reminder of all this week's goals from the [Module Outlines](https://github.com/makersacademy/course/blob/master/apprenticeship_module_outlines.md#week-8-learn-a-new-language)
-
 By the end of the week all developers can:
 
 * Test drive a simple front-end web app with Javascript
@@ -70,10 +68,6 @@ You'll revisit some familiar exercises to map the knowledge you learnt in the fi
 ### Thermostat
 
 You'll then build the business logic to model a simple thermostat, and learn to hook it up to a dynamic visual interface using jQuery - all within the browser. Finally, you'll use JavaScript to fetch data from external sources and display that on the page - again, all right from the page. Underpinning all this will be a new testing framework to help you test-drive your JavaScript code - Jasmine.
-
-### Sequence & Schedule
-* [Onsite](../sequence/onsite/week05.md)
-* [Remote](../sequence/remote/week05.md)
 
 ## Challenges
 

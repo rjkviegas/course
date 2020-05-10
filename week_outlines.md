@@ -69,6 +69,8 @@ You may notice you are completing the work quicker and with more ease than your 
 
 Start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
 
+Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining what Reviews are and how to use this valuable resource - and then consider booking one! 
+
 ### Challenges
 
 * [Afternoons - Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
@@ -165,7 +167,7 @@ By the end of the week all developers can:
 
 ### Challenges
 
-* [Afternoons - Thermostat](https://github.com/makersacademy/course/blob/master/thermostat/README.md)
+* [Afternoons - Thermostat](https://github.com/makersacademy/course/blob/master/thermostat_es6/README.md)
 * [Weekend - Bowling](https://github.com/makersacademy/bowling-challenge)
 
 ### Practicals
@@ -190,7 +192,7 @@ A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app
 
 ## Week 6
 
-If you haven't already, start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
+If you haven't already, start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) or using [Reviews](https://www.youtube.com/watch?v=TqKG8j_tgbM) to focus on improving your developer process. Anyone from any cohort ever can use these resources!
 
 By the end of the week all developers can build tested, easy-to-change software in a team using these processes:
 

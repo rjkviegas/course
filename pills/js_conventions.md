@@ -25,8 +25,10 @@ We also use the keyword `var` whenever creating a new variable, to ensure correc
 Likewise, we'll use camel casing for method names
 
 ~~~javascript
-Thermostat.prototype.increaseTemperature = function() {
-  // ...
+class Thermostat {
+  increaseTemperature(){
+    // ...
+  }
 }
 ~~~
 
@@ -43,8 +45,10 @@ end
 So we'll often prefix methods that return boolean values with `is`:
 
 ~~~javascript
-Dog.prototype.isPurebreed = function() {
-  return true;
+class Dog {
+  isPurebreed() {
+    return true;
+  }
 }
 ~~~
 
@@ -63,8 +67,10 @@ end
 becomes
 
 ~~~javascript
-Banana.prototype._myPrivateMethod = function() {
-  // ...
+class Banana {
+  _myPrivateMethod() {
+    // ...
+  }
 }
 ~~~
 
@@ -72,9 +78,6 @@ Banana.prototype._myPrivateMethod = function() {
 
 There's no concept of constants in the current version of JS. By convention though, we can mark values we don't expect to change by writing them all in capitals (just like Ruby constants). Unlike Ruby, we won't receive a warning if we change these values though.
 
-~~~javascript
-Dog.prototype.NUMBER_OF_LEGS = 4;
-~~~
 
 With ES6, there is new way to declare constants:
 
@@ -83,6 +86,14 @@ const NUMBER_OF_LEGS = 4;
 ~~~
 
 > Note this won't work in older browsers (for example Internet Explorer 10) - see more [here](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/const)
+
+
+In ES5, this would look like:
+~~~javascript
+Dog.prototype.NUMBER_OF_LEGS = 4;
+~~~
+
+
 
 
 ## Resources
