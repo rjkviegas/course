@@ -211,13 +211,13 @@ By the end of the week, all developers can:
 * Explain and diagram the HTTP request/response cycle
 * Explain and diagram the MVC pattern
 
-### Stretch goals
+#### Stretch goals
 
 If you complete the above, try to:
 * Explain what is meant by 'deploy'
 * Deploy a simple Sinatra app (for example, Hello, World) using the free tier on Heroku
 
-These really are stretch goals.  We've not created any exercises for them, so part of the challenge is research based.  There's a lot of guidance on deploying sinatra applications to Heroku.
+These really are stretch goals.  We've not created any exercises for them, so part of the challenge is research based.  There's a lot of guidance on deploying sinatra applications to Heroku.  [This is a good place to start](https://devcenter.heroku.com/articles/rack#pure-rack-apps).
 
 #### The broader course goals relevent to this module are...
 
