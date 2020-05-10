@@ -203,33 +203,39 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 
 By the end of the module all developers can:
 
-#### Overarching goal
-* Test-drive a web app
+### This module's goals
+By the end of the week, all developers can:
+* Write feature tests using Capybara
+* Test-drive a simple Sinatra app
+* Follow an effective process to debug web applications
+* Explain and diagram the HTTP request/response cycle
+* Explain and diagram the MVC pattern
 
-#### Subgoals
-* Explain the basics of how the web works (e.g. client/server, request/response, HTTP, HTML, CSS)
-* Explain the MVC pattern
-* Write feature and unit tests for a web application
-* Set up a web application with testing frameworks
+### Stretch goals
 
-#### Stretch goal
-* Follow an effective debugging process for web applications
+If you complete the above, try to:
+* Explain what is meant by 'deploy'
+* Deploy a simple Sinatra app (for example, Hello, World) using the free tier on Heroku
+
+These really are stretch goals.  We've not created any exercises for them, so part of the challenge is research based.  There's a lot of guidance on deploying sinatra applications to Heroku.
+
+#### The broader course goals relevent to this module are...
+
+* I can design and build user interfaces
+* I test-drive my code
 
 ### Exercises for self-directed learning
 
-These exercises can be used for independent study, or enhanced by group discussion.
+These exercises can be used for independent study, or enhanced by group discussion.  They will help you work towards this week's goals.  If you find that these tasks contain a lot of code that confuses you, you might be better off doing some exercises from a previous week to cement that learning.  If you're not sure what to do, reach out to a coach right now!  Don't hesitate :)
 
 | Key Skill             | Core Exercise                                        | Optional Exercises       |
 | --------------------- | ---------------------------------------------------- | ------------------------ |
-| HTTP Request/Response | [Diagram the HTTP req/response cycle][process_model] |                          |
 | Servers/Clients       | [Servers][servers]                                   |                          |
 |                       | [Clients][clients]                                   |                          |
 |                       | [HTTP Severs][http_servers]                          |                          |
-| TDD Web App           | [Birthday][birthday]                                |                           |
+| TDD Web App           | [Birthday][birthday]                                 |                          |
 | REST                  | [REST Game][rest]                                    | [Comedy API][comedy_api] |
-| Debugging.            | [Debugging][debugging]
 
-[process_model]: https://github.com/makersacademy/skills-workshops/tree/master/week-3/process_modelling
 [servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md
 [clients]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md
 [http_servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md
@@ -237,7 +243,6 @@ These exercises can be used for independent study, or enhanced by group discussi
 [comedy_api]: https://github.com/makersacademy/comedy_api_tech_test
 [to_do_list]: https://github.com/makersacademy/todo-list-web
 [birthday]: https://github.com/makersacademy/birthdays
-[debugging]: https://github.com/makersacademy/skills-workshops/tree/master/week-3/debugging_2
 
 ### Pairing challenge
 
