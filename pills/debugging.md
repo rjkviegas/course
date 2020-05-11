@@ -92,7 +92,7 @@ analyse/experiment on the problem
    * [The StackOverflow founder on Rubber Duck Debugging](http://blog.codinghorror.com/rubber-duck-problem-solving/)
    * [Zen of debugging](http://webadvent.org/2012/debugging-zen-by-ben-ramsey)
    * [JavaScript debugging](https://developer.chrome.com/devtools/docs/javascript-debugging)
-   * [JavaScript debugging workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_the_flow_and_getting_visibility_in_javascript) Includes some specific tactics for following the flow and getting visibility in JavaScript.
+   * [JavaScript debugging workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_the_flow_and_getting_visibility_in_javascript_es6) Includes some specific tactics for following the flow and getting visibility in JavaScript.
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/debugging.md)
