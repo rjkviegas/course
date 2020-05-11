@@ -44,9 +44,9 @@ In 'Side by Side' both partners work on separate code bases addressing the same 
 
 This is not really true pairing.  It's just two people working on a related or similar problem while happening to be sitting next to each other.  It's friendly but doesn't give much benefit compared with working completely separately on a problem.
 
-### Master Slave - better but not true pairing
+### Mastermind-Minion - better but not true pairing
 
-In 'Master Slave' the Navigator tells the driver exactly what to do and the driver just follows blindly, typing whatever they are instructed to.
+In 'Mastermind-Minion' the Navigator tells the driver exactly what to do and the driver just follows blindly, typing whatever they are instructed to.
 
 In this case at least both parties are involved and the driver is building up some muscle memory from entering the syntax; however they will likely feel completely lost and not be getting so much out of the experience. It may be frustrating to the 'master navigator' as well since they may feel that all this is doing is slowing them down - they may want to just get in there and type themselves, but the key to both parties long-term learning is to ensure that this process is avoided by appropriate narrative mode (see below); driver/navigator swapping and appropriate discussion.  A less confident driver needs to be allowed to experiment, make mistakes and crucially, not be given a hard time by the navigator for mistakes; since it's by making mistakes that we learn!
 
