@@ -224,6 +224,8 @@ These really are stretch goals.  We've not created any exercises for them, so pa
 * I can design and build user interfaces
 * I test-drive my code
 
+And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
+
 ### Exercises for self-directed learning
 
 These exercises can be used for independent study, or enhanced by group discussion.  They will help you work towards this week's goals.  If you find that these tasks contain a lot of code that confuses you, you might be better off doing some exercises from a previous week to cement that learning.  If you're not sure what to do, reach out to a coach right now!  Don't hesitate :)
@@ -255,30 +257,58 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 ## Week 6: Databases
 
+This week, you'll learn how to build database-backed web applications.  Along the way, you'll build your own [Object Relational Mapper](https://en.wikipedia.org/wiki/DataMapper). Bear in mind that you'll probably never have to do this again – you'd use an existing tool like [Active Record](https://github.com/rails/rails/tree/master/activerecord) or [Ruby Object Mapper](https://rom-rb.org/) instead – but building your own tools is a great way to learn how tools of that type work.
+
+### This module's goals
+
 By the end of the module all developers can:
 
-* Explain the data flow through from user action to server resource and back again
-* Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
+* Explain the data flow from user action to server resource and back again
+* Explain the basics of how databases work, including:
+   - What tables are and how they are structured
+   - What structured query language (SQL) is used for
+   - One to one relationships
+   - One to many relationships
+   - Many to many relationships
 * Follow an effective debugging process for database-backed web applications
-* Build a simple web app with a database
+* Build a simple web app that can read from and write to a database
+
+#### Stretch goals
+
+If you have completed all of the above goals, you can move on to these.
+
+* Deploy an application to Heroku
+* Explain the difference between Postgres and MongoDB
+
+#### The broader course goals relevent to this module are...
+
+* I can integrate a database
+* I can design a system
+
+And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
 
 ### Exercises for self-directed learning
 
-These exercises can be used for independent study, or enhanced by group discussion.
+These exercises can be used for independent study, or enhanced by pairing and group discussion.
 
-* [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md)
-* [SQLZoo](https://sqlzoo.net/)
-* [Writing SQL Queries in a ruby app](https://github.com/makersacademy/makers-sql-session)
-* [Add a database to the to do list](https://github.com/makersacademy/todo-list-web)
-* Build a blogging tool
-* [News summary api challenge](https://github.com/makersacademy/news-summary-api-challenge)
+| Key Skill              | Core Exercise                                        | Optional Exercises       |
+| ---------------------- | ---------------------------------------------------- | ------------------------ |
+| Explain db relations   | [Entity Relationship Diagrams][ERD]                  |                          |
+| Use SQL                | [SQL Zoo][zoo]                                       |                          |
+| Connect an app to a DB | [Extend a DB backed app][ruby-db-queries]            | [Add a DB to an app][add-a-db] |
+|                        |                                                      | [Experiment with DataMapper][datamapper] |
+
+[datamapper]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/diving_into_code.md
+[add-a-db]: https://github.com/makersacademy/todo-list-web
+[ruby-db-queries]: https://github.com/makersacademy/makers-sql-session
+[zoo]: https://sqlzoo.net/
+[ERD]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md
 
 ### Resources
 
-* [REST](https://github.com/sjmog/rest)
-* [explainlikeimfive (ELI5) What is a database?](https://diode.makersacademy.com/students/alicelieutier/projects/1286)
-* [A Shelfish Starter Guide to Databases
-](https://illustrated.dev/databases)
+* [The REST test](https://github.com/sjmog/rest)
+* [Explain DBs like I'm 5](https://www.reddit.com/r/explainlikeimfive/comments/3qqm9h/eli5_relational_databases/)
+* [A Shelfish Starter Guide to Databases](https://illustrated.dev/databases)
 
 ### Pairing challenge
 
