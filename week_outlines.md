@@ -185,7 +185,7 @@ A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app
 ### Skills workshops
 
 * [Encapsulation with the constructor & prototype pattern](https://github.com/makersacademy/skills-workshops/tree/master/week-5/encapsulation_with_constructor_and_prototype_pattern)
-* [Following the flow and getting visibility](https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_the_flow_and_getting_visibility_in_javascript)
+* [Following the flow and getting visibility](https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_the_flow_and_getting_visibility_in_javascript_es6)
 * [Following the Ajax request/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_ajax_request_response_cycle)
 * [Callbacks and following the flow of control](https://github.com/makersacademy/skills-workshops/tree/master/week-5/callbacks_following_the_flow_of_control)
 
