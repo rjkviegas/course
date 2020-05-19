@@ -20,17 +20,17 @@ Project work.
 
 #### Friday
 
-* 9.30am - 1pm: Your coach will be available to give you feedback on your presentation.
-* 1pm: Restore your laptops to factory settings and return them to Florence.  [Instructions](https://github.com/makersacademy/course/blob/master/pills/returning_your_makers_laptop.md).
+* Morning: You'll have a technical run-through with your coach to make sure slides, videos & audio are presentable as expected.
+* Afternoon: You'll take part in a 30 minute project fair. We'll compile a spreadsheet to share amongst Makers with a link to your individual team Zoom calls alongside a description of your project. Makers can pop in to see a demo of your project and ask questions. 
 
 ##### Demo day ceremony
 
-* 5pm: Your guests and the public start arriving.
-* 5.30pm: Opening spiel from coach.
-* 5.35pm: First team presents.
-* 6.30pm: Closing spiel from coach.
-* 6.30pm: Hanging out on floor 2.
-* 7.00pm: Close.
+* 5pm: Your guests and the public start arriving to the Demo Day Zoom.
+* 5.10pm: Opening spiel from coach.
+* 5.20pm: First team presents.
+* 6.10pm: Closing spiel from coach.
+* 6.30pm: Graduation social 🎉.
+* 7.30pm: Close.
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/remote/final_projects.md)
