@@ -34,7 +34,7 @@ You can use any technology you like! It will be easier to use technologies you'v
 
 ## Designing your project
 
-It's highly recommended that you spend time designing your project.  To guide your design, you can use the [same method you used to design your practice project](../practice_project_week/project_design_workshop.md).
+It's highly recommended that you spend time designing your project.  To guide your design, you can use the [project design workshop](../practice_project_week/project_design_workshop.md).
 
 ## Development workflow
 
@@ -61,6 +61,7 @@ See the [guidelines](../pills/final_project_presentations.md).
 
 ### Sequence & Schedule
 * [Onsite](../sequence/onsite/final_projects.md)
+* [Remote](../sequence/remote/final_projects.md)
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/final_projects/README.md)
