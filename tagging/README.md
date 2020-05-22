@@ -223,7 +223,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="a8e9e18b-94d7-454e-992d-21cd07d26db1">
         <td>TDD a simple object</td>
         <td>exercise</td>
-        <td>https://diode.makersacademy.com/students/alicelieutier/projects/813</td>
+        <td><a href="tdd_simple.md">tdd_simple.md</td>
         <td>4</td>
         <td>3</td>
         <td>
@@ -278,7 +278,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="47aea4a7-cb59-4a04-a2af-15e05fb14054">
         <td>TDD Cycle Decision Tree</td>
         <td>exercise</td>
-        <td>https://diode.makersacademy.com/students/alicelieutier/projects/812</td>
+        <td><a href="tdd_cycle.md">tdd_cycle.md</a></td>
         <td>4</td>
         <td>4</td>
         <td>
@@ -293,7 +293,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="c845e4ee-15d6-4e70-96e2-6c52590704dd">
         <td>Simple Checkout</td>
         <td>assessment</td>
-        <td>https://diode.makersacademy.com/students/samjones1001/projects/317</td>
+        <td><a href="simple_checkout.md">simple_checkout.md</a></td>
         <td>4</td>
         <td>3</td>
         <td>
@@ -324,7 +324,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="0d9db790-c02d-4d90-941d-04aad908d8d1">
         <td>Test drive a notes app</td>
         <td>exercise</td>
-        <td>https://diode.makersacademy.com/students/neoeno/projects/13</td>
+        <td><a href="../goals/self_directed_learning/inquiry_projects/notes_app.md">notes_app.md</a></td>
         <td>4</td>
         <td>3</td>
         <td>
@@ -469,7 +469,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="e2280da0-40e0-49fc-a692-20afc5ae4fad">
         <td>Airport Challenge</td>
         <td>assessment</td>
-        <td>https://diode.makersacademy.com/students/neoeno/projects/33</td>
+        <td><a href="airport_challenge.md">airport_challenge.md</a></td>
         <td>4</td>
         <td>3</td>
         <td>
@@ -529,7 +529,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="eb5fd533-8572-468b-be01-bfb03bf5e456">
         <td>Encapsulation</td>
         <td>practical</td>
-        <td>https://diode.makersacademy.com/students/neoeno/projects/370</td>
+        <td><a href="encapsulation_cohesion.md">encapsulation_cohesion.md</a></td>
         <td>10</td>
         <td>3</td>
         <td>
@@ -733,7 +733,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="3f858288-19c9-47ed-94a1-42ce23f529bb">
         <td>Gilded Rose Design Project</td>
         <td>exercise</td>
-        <td>https://diode.makersacademy.com/students/neoeno/projects/1732</td>
+        <td><a href="gilded_rose.md">gilded_rose.md</a></td>
         <td>10</td>
         <td>3</td>
         <td>
@@ -785,7 +785,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="68c8def9-8d32-4e1b-9935-46514df26eba">
         <td>Takeaway Challenge</td>
         <td>assessment</td>
-        <td>https://diode.makersacademy.com/students/dearshrewdwit/projects/2758</td>
+        <td><a href="takeaway.md">takeaway.md</a></td>
         <td>10</td>
         <td>3</td>
         <td>
@@ -856,7 +856,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="02ed0767-5e2a-41b5-835b-7d41447a8487">
         <td>Refactoring using OO</td>
         <td>exercise</td>
-        <td>https://diode.makersacademy.com/students/EdwardAndress/projects/977</td>
+        <td><a href="refactoring_legacy_oo.md">refactoring_legacy_oo.md</a></td>
         <td>10</td>
         <td>3</td>
         <td>
@@ -941,7 +941,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="3529de53-8f96-4330-8ded-65488b693553">
         <td>Encapsulation and Cohesion</td>
         <td>practical</td>
-        <td>https://diode.makersacademy.com/students/neoeno/projects/370</td>
+        <td><a href="encapsulation_cohesion.md">encapsulation_cohesion.md</a></td>
         <td>10</td>
         <td>3</td>
         <td>
@@ -1100,7 +1100,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="1889667c-ad3e-4dfa-acbc-b99cade7d07c">
         <td>Birthday Greeter Web App</td>
         <td>assessment</td>
-        <td>https://diode.makersacademy.com/students/alicelieutier/projects/439</td>
+        <td><a href="birthday_greeter.md">birthday_greeter.md</a></td>
         <td>5</td>
         <td>3</td>
         <td>
@@ -1334,7 +1334,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="2db2d7cb-ca86-498a-8667-f77ee9af2070">
         <td>Daily Diary</td>
         <td>assessment</td>
-        <td>https://diode.makersacademy.com/students/soph-g/projects/2074</td>
+        <td><a href="daily_diary.md">daily_diary.md</a></td>
         <td>3</td>
         <td>3</td>
         <td>
@@ -1547,7 +1547,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="c29bae4b-0931-4e55-bd4e-2574f74317e8">
         <td>JS Events Practical</td>
         <td>practical</td>
-        <td>https://diode.makersacademy.com/students/samjones1001/projects/419</td>
+        <td><a href="js_events.md">js_events.md</a></td>
         <td>16</td>
         <td>3</td>
         <td>
@@ -1702,7 +1702,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="60149c5b-b591-4621-9085-1e9ce052b2b6">
         <td>FizzBuzz in a New Language</td>
         <td>assessment</td>
-        <td>https://diode.makersacademy.com/students/samjones1001/projects/269</td>
+        <td><a href="fizzbuzz_new_lang.md">fizzbuzz_new_lang.md</a></td>
         <td>5</td>
         <td>3</td>
         <td>

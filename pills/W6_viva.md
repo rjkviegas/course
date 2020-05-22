@@ -9,7 +9,7 @@ There are 3 main reasons for having a smaller Review halfway through the course.
 
 1. Feedback from students indicated that it was tough to start and finish aportfolio all at the end of the course - so spreading this reflective work over the course makes sense, and has the advantage that it should push you even more to think of your goals when you're prioritising what to learn.
 
-2. By starting theportfolio early and then practicing a Review, you're more likely to be confident and practiced for the Review you'll take when you feel you've achieved the course goals as outlined in your [Diode](https://diode.makersacademy.com).
+2. By starting the portfolio early and then practicing a Review, you're more likely to be confident and practiced for the Review you'll take when you feel you've achieved the course goals.
 
 3. You are responsible for having an answer to the question 'Am I on track to passing my Review at the end of the course?' The W6 Review should be a high-quality data point you can use to assess and/or improve your learning process.
 
@@ -51,8 +51,8 @@ Ideally the coaching team would like to be able to read the theses in the mornin
 #### Can I book a slot without having myportfolio 'ready'?
 Absolutely - if not very much encouraged! We'll only read it that day.
 
-#### I have not been using diode, does that matter a lot?
-Yes and no - What matters is the reflection on each bit of work that you do towards a learning goal - and Diode is a really helpful tool to record this.
+#### I have not been tracking my reflection towards learning goals, does that matter a lot?
+Yes - the reflection on each bit of work that you do towards a learning goal is really important.
 
 Ideally you would
 - reflect on each of the goals, and match them up with the themes of the course - so you have an idea of when to be focusing on what.

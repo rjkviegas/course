@@ -10,7 +10,7 @@ In self-directed learning, one of the important aspects is to keep track of your
 * Dan (August 2019) records his reflections and learning in a [github repo](https://github.com/DanGyi23/MyPortfolio)
 
 * Matt (March 2019) records all his notes/learning/feedback in a [github repo](https://github.com/mattTea/Portfolio)
-> It includes the goals set out pretty similarly to diode, but also has all my projects, process, weekly goals (and in there my raw weekly notes), etc
+> It includes the goals, but also has all my projects, process, weekly goals (and in there my raw weekly notes), etc
 
 * Kim (March 2019) uses a custom tool:
 > Here is a [coding tracker template](https://docs.google.com/spreadsheets/d/1Mm8v544mnflkrIPhc6b_-tEGTLq9BC22liuTOZ9th9g/edit?usp=sharing) I've been using to log my long-term goals, weekly goals and daily goals. It was inspired by one of my friends, Linh from Codebar. She did a talk ages ago on how she tracked her competencies in her first dev job :slightly_smiling_face:

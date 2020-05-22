@@ -2,7 +2,7 @@
 
 ## Project
 
-[Test drive a notes app](https://diode.makersacademy.com/students/neoeno/projects/13)
+[Test drive a notes app](notes_app.md)
 
 This is a good project to start with to learn test driven development and start with object oriented design.
 
