@@ -4,7 +4,7 @@ A project to give you some skill to aim at — and some supporting materials to 
 
 ## Project
 
-[Test drive a notes app](https://diode.makersacademy.com/students/neoeno/projects/13)
+[Test drive a notes app](notes_app.md)
 
 This is a good project to start with to learn test driven development.
 
