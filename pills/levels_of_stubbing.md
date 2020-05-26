@@ -1,7 +1,5 @@
 # Stubbing 3rd Party Network APIs
 
-:construction: UNDER CONSTRUCTION :construction:
-
 In general you shouldn't be stubbing out behaviour on the object under test.  The two key exceptions are when you have randomness or a 3rd party API.  There are several different levels we can stub out the interaction with a 3rd party API such as Twilio (used for sending SMS messages).  
 
 1. Stub Class in Your Application
