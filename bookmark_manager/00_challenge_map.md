@@ -79,9 +79,7 @@ The challenge material is pretty tough this week. You're not meant to get throug
 
 ### Post Challenges
 
-:construction:
-
-If you finish the walkthrough, try implementing some of these extra challenges:
+If you finish the challenges above, try implementing some of these extra challenges:
 
 #### Linking Bookmarks to a User
 
