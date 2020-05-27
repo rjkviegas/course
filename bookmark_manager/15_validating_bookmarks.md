@@ -6,8 +6,8 @@ You now have an application that allows a user to add new bookmarks to, and revi
 
 * Show a list of bookmarks :white_check_mark:
 * Add new bookmarks :white_check_mark:
-* Delete bookmarks
-* Update bookmarks
+* Delete bookmarks :white_check_mark:
+* Update bookmarks :white_check_mark:
 * Comment on bookmarks
 * Tag bookmarks into categories
 * Filter bookmarks by tag
