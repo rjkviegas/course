@@ -24,7 +24,7 @@ These [assessment criteria](https://github.com/makersacademy/course/blob/master/
 
 ## Card Wall
 
-* [Make your own copy of ths template](https://trello.com/b/9IJTM4kw/acebook-node-template)
+* [Make your own copy of this template](https://trello.com/b/9IJTM4kw/acebook-node-template)
 
 ### Additional Resources
 
