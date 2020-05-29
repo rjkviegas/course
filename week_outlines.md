@@ -147,7 +147,7 @@ By the end of the week all developers can:
 
 * [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md)
 * [SQLZoo](https://sqlzoo.net/)
-* [SQL Muder Mystery](https://mystery.knightlab.com/)
+* [SQL Murder Mystery](https://mystery.knightlab.com/)
 * [Build a diary app (small project)](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/daily_diary_app.md)
 
 ### Resources
