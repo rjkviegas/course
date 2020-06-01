@@ -51,8 +51,7 @@ Here are some [strategies](./toolbox.md) to use when facing some common problems
 
 Whenever you want please share feedback! Here are some options for you
  - find a coach via slack or in person
- - open a Github issue or pull request with your thoughts
- - use this [feedback form](https://makersacademy.typeform.com/to/q3RjqK) to share anonymously
+ - open a Github issue or pull request with your thoughts and send it to a coach
 
 ## Weekend challenge
 
