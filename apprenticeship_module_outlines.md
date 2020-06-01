@@ -367,6 +367,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 * [JavaScript track on Exercism.io](https://exercism.io/tracks/javascript)
 * [You Don't Know JS – a free book series](https://github.com/getify/You-Dont-Know-JS)
 * Here's a great tool to deploy pure html/js sites: [surge.sh](https://surge.sh)
+* [Codepen](https://codepen.io/) is a really great tool for playing with HTML, CSS and JS
 
 ### Pairing challenge
 
