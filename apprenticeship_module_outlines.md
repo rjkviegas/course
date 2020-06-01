@@ -330,11 +330,22 @@ By the end of this module all developers can:
 
 ## Week 8: Learn A New Language
 
+In this module you'll focus on developing a great process for learning a new language.  From time to time you should ask yourself this question: what would my plan be if I were to start learning another new language tomorrow?  You might find that your answer to this question changes during the week.
+
+### This module's goals
+
 By the end of the module all developers can:
 
 * Describe a process for learning a new language
 * Follow an effective process for learning a new language
+* Compare and contrast Javascript and Ruby
 * Test drive a simple front-end web app with Javascript
+
+#### The broader course goals relevent to this module are...
+
+* I can design and build user interfaces
+* I test-drive my code
+* I use my own initiative
 
 ### Exercises for self-directed learning
 
