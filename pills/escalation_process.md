@@ -18,11 +18,9 @@ At Makers, you're learning to learn.  This is why the list below prioritises tec
 
 5. *Diagram.* Draw boxes and arrows, or whatever you like.  Get ideas out of your head and onto paper.  This makes it be easier to manipulate, examine and generate ideas.
 
-6. If it's a technical issue, use #slack-overflow! Search [old questions](https://github.com/makersacademy/slack-overflow/issues?q=) or [create a new one](https://github.com/makersacademy/slack-overflow/issues/new?assignees=&labels=&template=student-question.md&title=) to ask the community.
+6. *Ask your cohort.* Remember everyone is on the same learning journey it's likely they are wrestling with similar issues. Send your question (or a link to your slack-overflow issue) to your cohort channel :)
 
-7. *Ask your cohort.* Remember everyone is on the same learning journey it's likely they are wrestling with similar issues. Send your question (or a link to your slack-overflow issue) to your cohort channel :)
-
-8. *Ask a coach.* If all else fails, get some 1-1 help from a coach. This help may come in the form of more questions!
+7. *Ask a coach.* If all else fails, get some 1-1 help from a coach. This help may come in the form of more questions!
 
 Coaches will be available in the **#coaches** slack channel during coaching hours (9:30am to 12:30pm) to support you. A coach will react to your message with a thumbs up emoji to say they are taking your question, and they’ll reach out directly on slack or zoom, depending on the nature of the question.
 
