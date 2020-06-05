@@ -39,7 +39,7 @@ Make sure to read the [code of conduct guide](../../code_of_conduct_guide.md).  
 
 Have a look at [Prepare to Code](http://www.preparetocode.io/).  It has a guide for what software to install to prepare for the Makers course.
 
-Also make sure to sign up and install [Zoom](https://zoom.us/)!
+⚠️Also make sure to sign up and install [Zoom](https://zoom.us/)!
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/remote/day_one.md)
