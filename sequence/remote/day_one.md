@@ -14,10 +14,11 @@ Look out for a zoom link in your cohort channel on slack at 9am!
 | 11.00 - 12.30 | Life at Makers by Dana, our Chief Joy Officer |
 | 12.30 - 1.30 | **LUNCH BREAK** |
 | 1.30 - 2.00 | Meditation |
-| 2.00 - 2.45 | Meet the coaches |
-| 2.45 - 3.00 | **BREAK** |
-| 3.00 - 4.45 | [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md) |
-| 4.45 - 5.00 | **BREAK** |
+| 2.00 - 2.15 | **BREAK** |
+| 2.15 - 4.00 | [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md) |
+| 4.00 - 4.15 | **BREAK**  |
+| 4.15 - 4.45 | Learning Q&A |
+| 4.45 - 5.00 | **BREAK**  |
 | 5.00 - 5.30 | Social time |
 
 ## Code of conduct
