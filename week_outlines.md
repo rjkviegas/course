@@ -238,7 +238,7 @@ Note: they get the choice of morning goals / afternoon challenges vs all day pro
 * [Closures](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q)
 * [Reading beyond your level](https://hackmd.io/F-pmnp3hRhePddmf3mnKGw)
 * [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/master/week-5/async_JS.md)
-* [Reasoning about JS using frames](https://hackmd.io/cnH7BqucQ7yzqnLiqmizXw)
+* [Modelling the flow of JS requests to an API](https://github.com/makersacademy/skills-workshops/tree/master/week-7/process-modelling-js-api/process_modelling)
 
 ### Resources
 * [Technical Learning Resources](https://airtable.com/shrfvOQf2zZNGUhk8/tblokmw6yNUO75ge6?blocks=hide)
