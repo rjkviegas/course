@@ -82,13 +82,14 @@ Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining wh
 
 ### Practicals
 
-* [OO Relationships (Forwarding, Polymorphism)](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md)
-* [Testing behaviour over testing state](https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md)
-* [Dependency Injection](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md)
 * [Testing OO Relationships](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/testing_relationships.md)
-* [Learning by building RSpec](https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md)
+* [Dependency Injection](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md)
+* [Testing behaviour over testing state](https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md)
 * [Refactoring](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/refactoring.md)
 * [Refactoring with OO 1](https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/refactoring.md)
+* [OO Relationships (Forwarding, Polymorphism)](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md)
+* [Learning by building RSpec](https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md)
+
 
 ### Resources
 * [Technical Learning Resources](https://airtable.com/shrr9VqhGBzPyfa7E/tblokmw6yNUO75ge6?blocks=hide)
