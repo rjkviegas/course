@@ -26,7 +26,7 @@ end
 ```
 You can read about the format of the Gemfile in this [brilliant tutorial](http://tosbourn.com/what-is-the-gemfile/).
 
-- Now let's check the version of Ruby we have installed. You can find out the latest stable Ruby version on [its website](https://www.ruby-lang.org/en/downloads/). As of today, it's 2.7.0. Assuming you have RVM installed (if not, follow the instructions from the [RVM website](https://rvm.io/rvm/install)), run `rvm list` to see what Ruby version you have on your machine. The output will look similar to this:
+- Now let's check the version of Ruby we have installed. You can find out the latest stable Ruby version on [its website](https://www.ruby-lang.org/en/downloads/). As of today, it's 2.7.1. Assuming you have RVM installed (if not, follow the instructions from the [RVM website](https://rvm.io/rvm/install)), run `rvm list` to see what Ruby version you have on your machine. The output will look similar to this:
 
 ```
 rvm rubies
@@ -41,11 +41,11 @@ rvm rubies
 #  * - default
 ```
 
-If you can't see the latest Ruby version there, you'll need to install it using `rvm install 2.7.0`. Once done, verify it's successfully installed by running `ruby -v` – you will see the Ruby version.
+If you can't see the latest Ruby version there, you'll need to install it using `rvm install 2.7.1`. Once done, verify it's successfully installed by running `ruby -v` – you will see the Ruby version.
 
 - Now let's update our Gemfile with the latest Ruby version. This is important because there are slight differences between different version, so your code can produce different results under different Ruby versions. Therefore, all developers working on the project as well as the servers running your code should be using the same version – the one specified in the Gemfile.
 
-Add this line to Gemfile after `source`: `ruby '2.7.0'`
+Add this line to Gemfile after `source`: `ruby '2.7.1'`
 
 - Now your Gemfile looks like this:
 
@@ -56,7 +56,7 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-ruby '2.7.0'
+ruby '2.7.1'
 
 group :development, :test do
   gem "rspec"
