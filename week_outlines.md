@@ -99,9 +99,11 @@ Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining wh
 * [Code Review](https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review)
 * [Domain modelling](https://github.com/makersacademy/skills-workshops/tree/master/week-2/domain_model_diagramming)
 * [Domain modelling alternative](https://github.com/makersacademy/skills-workshops/blob/master/week-2/domain_modelling_alternative)
+* [Mocking](https://github.com/makersacademy/skills-workshops/tree/master/student-mocking-workshop)
+* [Mocking with RSpec](https://github.com/makersacademy/skills-workshops/tree/master/week-2/mocking_2)
 * [OOP 3: Delegate, Delegate, Delegate](https://github.com/makersacademy/skills-workshops/tree/master/week-2/oop_3)
 * [Making code simpler through polymorphism](https://github.com/makersacademy/skills-workshops/tree/master/week-2/making_code_simpler_through_polymorphism)
-* [Mocking with RSpec](https://github.com/makersacademy/skills-workshops/tree/master/week-2/mocking_2)
+
 
 ## Week 3
 
