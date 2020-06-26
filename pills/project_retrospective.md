@@ -54,6 +54,8 @@ Time: 30 minutes.
 
 * What techniques have we found useful so far?
 
+* What has been the most challenging part of the project so far and how did we deal with this as a team? How could we have improved our approach to this challenge?
+
 ## Why retrospectives?
 
 * They let you reflect on and think of improvements to your learning and developer processes as well as your team processes.
