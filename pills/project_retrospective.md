@@ -7,9 +7,9 @@ time to reflect and talk through how you're working as a team
 
 Time: 30 minutes.
 
-* You assemble on chairs facing a whiteboard.
+* You assemble as a team.
 
-* One team member writes two headings: successes and struggles.
+* One team member writes headings. Some examples are: "successes, struggles" or "liked, learned, longed for".
 
 * For five minutes, you write things under these headings. For ideas on what you might want to write down, see the Questions section below
 
@@ -19,9 +19,9 @@ Time: 30 minutes.
 
 * The whole team discusses each item.
 
-* As the discussion progresses, the one member of the team notes down important points raised and suggestions for improvement.
+* As the discussion progresses, the one member of the team notes down important points raised and actions for improvement.
 
-* A member of the team posts photos of the whiteboard on Slack for you to reflect on.
+* A member of the team posts photos of the retro on Slack for you to further reflect on and reference in the future.
 
 ## Questions to consider
 * What has gone well?
