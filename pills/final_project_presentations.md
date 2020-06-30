@@ -2,7 +2,7 @@
 
 Here are some guidelines for your final project presentations:
 
-* The time limit is usually 5 minutes (this depends on the number of projects, your coach will advise if the time limit is different).  Practice, practice, practice to ensure you come in under the time limit.  You'll be prompted to wind up your presentations after 5 minutes!
+* The time limit is usually 5-7 minutes (this depends on the number of projects, your coach will advise if the time limit is different).  Practice, practice, practice to ensure you come in under the time limit.  You'll be prompted to wind up your presentations after this time limit!
 
 * To guide you on what to include, think about what you found interesting about other people’s presentations.
 
@@ -10,7 +10,7 @@ Here are some guidelines for your final project presentations:
 
 * Explain very briefly a scenario where someone might use your project. What problem does it solve?
 
-* Make a video that demonstrates a user using your project.  One of your team can describe what's going on as the video plays.  No need for a live demo (every time I've done a live demo, at least one thing has gone wrong). You can use [Quicktime](https://support.apple.com/kb/ph5882?locale=en_US) (built-in to MacOS) to record your screen.
+* Make a video that demonstrates a user using your project.  One of your team can describe what's going on as the video plays.  Please use this video instead of a live demo (every time I've done a live demo, at least one thing has gone wrong). You can use [Quicktime](https://support.apple.com/kb/ph5882?locale=en_US) (built-in to MacOS) to record your screen.
 
 * Describe your learning journey through this project. What did you start with. What did you learn and how? What were the lows and how did you overcome them. Focus on behaviours and skills. Be specific. Don't say, "we communicated well". Say, "We had a miscommunication where two pairs worked on the same feature. We decided in the future to..."
 
