@@ -7,7 +7,7 @@
 
 * One member of your team will share screen and run the presentation. Please plan how the person sharing the presentation will go on to the next slide.
 
-* As a fallback, each member of your team should have a copy of the slide deck and your presentation in case someone's Internet disconnects. Designate a back-up screen-sharer. 
+* As a fallback, each member of your team should have a copy of the slide deck, your presentation, and demo video downloaded onto your computer in case someone's Internet disconnects. Designate a back-up screen-sharer. 
 
 * By Friday afternoon, please send your coach:
   * A link to your slides
